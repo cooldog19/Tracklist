@@ -65,7 +65,8 @@ class Coasterpedia {
     for(let page=0;page<2000;page++){
       const body=await this.get('changes',{view:'latest',since:cursor,kinds:'attraction,park,manufacturer'});
       for(const change of body.data){
-        if(!['attraction','park','manufacturer'].includes(change.kind)||!['upsert','delete'].includes(change.op)||!Number.isSafeInteger(change.id)||change.id<1||(change.merged_into!==undefined&&(!Number.isSafeInteger(change.merged_into)||change.merged_into<1)))throw Error('Invalid change record.');
+        // The provider's Change schema allows null when a deletion has no merge target.
+        if(!change||!['attraction','park','manufacturer'].includes(change.kind)||!['upsert','delete'].includes(change.op)||!Number.isSafeInteger(change.id)||change.id<1||(change.merged_into!=null&&(!Number.isSafeInteger(change.merged_into)||change.merged_into<1)))throw Error('Invalid change record.');
         changes.push(change);
       }
       const next=body.meta.next_cursor;

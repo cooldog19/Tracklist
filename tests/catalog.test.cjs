@@ -20,6 +20,19 @@ test('empty change pages with has_more are drained rather than truncating a refr
   let calls=0;const api=client(()=>++calls===1?response([],{next_cursor:'two',has_more:true}):response([{kind:'attraction',id:1,op:'delete',at}],{next_cursor:'three',has_more:false}));
   const result=await api.changes(at);assert.equal(calls,2);assert.equal(result.changes.length,1);assert.equal(result.cursor,'three');
 });
+test('change-feed nullable merge targets allow ordinary deletes and preserve real merges',async()=>{
+  const changes=[{kind:'attraction',id:1,op:'upsert',merged_into:null,at},{kind:'park',id:10,op:'delete',merged_into:null,at},{kind:'attraction',id:2,op:'delete',merged_into:3,at},{kind:'manufacturer',id:20,op:'upsert',at}];
+  const result=await client(()=>response(changes,{next_cursor:'checked',has_more:false})).changes(at);
+  assert.deepEqual(result,{changes,cursor:'checked'});
+});
+test('malformed merge targets still stop the refresh without advancing its checkpoint',async()=>{
+  const first=await refresh({api:mock(),previous:empty(),state:checkpoint(),now:()=>at}),before=JSON.stringify(first);
+  for(const merged_into of [0,-1,1.5,'3',{},true]){
+    const api=client(()=>response([{kind:'attraction',id:1,op:'delete',merged_into,at}],{next_cursor:'must-not-save',has_more:false}));
+    await assert.rejects(refresh({api,previous:first.catalog,state:first.state,now:()=>at}),/Invalid change record/);
+    assert.equal(JSON.stringify(first),before);
+  }
+});
 test('incomplete bulk responses, repeated cursors and unexpected licences fail closed',async()=>{
   await assert.rejects(client(()=>response([])).records('attractions',[1]),/Incomplete/);
   await assert.rejects(client(()=>response([],{merged:{1:2}})).records('attractions',[1]),/incomplete provider merge/);
