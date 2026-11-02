@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-02T20:47:44.171Z",
+  "updatedAt": "2026-11-02T21:49:17.708Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -239570,14 +239570,14 @@
     {
       "sourceId": 75835,
       "name": "Barry’s Bangor",
-      "sourceRevision": 461851,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Barry's%20Bangor&oldid=461851",
+      "sourceRevision": 530871,
+      "sourceUpdatedAt": "2026-11-02T21:46:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Barry's%20Bangor&oldid=530871",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-75835",
       "country": "United Kingdom",
       "countryCode": "GB",
-      "place": "Bangor, Northern Ireland",
+      "place": "Bangor, County Down, Northern Ireland",
       "state": "",
       "coordinates": {
         "lat": 54.6642195,
@@ -249902,6 +249902,67 @@
       "coordinates": null,
       "status": "Operating",
       "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 92977,
+      "name": "Olympia Leisure Centre",
+      "sourceRevision": 530771,
+      "sourceUpdatedAt": "2026-11-02T21:20:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Olympia%20(opened%201974)&oldid=530771",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-92977",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Dundee, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 56.457886,
+        "lon": -2.967438
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1974-07-15",
+          "earliest": "1974-07-15",
+          "latest": "1974-07-15"
+        },
+        "closed": {
+          "edtf": "2013-07",
+          "earliest": "2013-07-01",
+          "latest": "2013-07-31"
+        }
+      },
+      "aliases": [
+        "Tayside International Pool",
+        "Dundee Swimming and Leisure Centre",
+        "Olympia Leisure Centre"
+      ]
+    },
+    {
+      "sourceId": 93005,
+      "name": "Teviotdale Leisure Centre",
+      "sourceRevision": 530858,
+      "sourceUpdatedAt": "2026-11-02T21:46:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Teviotdale%20Leisure%20Centre&oldid=530858",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93005",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hawick, Scottish Borders, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.429152,
+        "lon": -2.783551
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1982-07",
+          "earliest": "1982-07-01",
+          "latest": "1982-07-31"
+        }
+      },
       "aliases": []
     },
     {
