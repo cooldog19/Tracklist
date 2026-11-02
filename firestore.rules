@@ -2,7 +2,7 @@ rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
     function owner(uid) {
-      return request.auth != null && request.auth.uid == uid;
+      return request.auth != null && request.auth.uid == uid && !exists(/databases/$(database)/documents/accountLifecycle/$(uid));
     }
     function revision(value) {
       return value is string && value.matches('^[A-Za-z0-9_-]{1,100}$');
@@ -84,54 +84,40 @@ service cloud.firestore {
     }
     match /usernames/{name} {
       allow get: if request.auth != null;
-      allow create: if request.auth != null && username(name)
-        && request.resource.data.keys().hasOnly(['uid'])
-        && request.resource.data.uid == request.auth.uid
-        && getAfter(/databases/$(database)/documents/users/$(request.auth.uid)/social/account).data.username == name;
+      allow create, update, delete: if false; // Trusted callable claim and deletion only.
       // Handles are unique, immutable and cannot be transferred to another account.
     }
     match /users/{uid}/social/account {
       allow get: if owner(uid);
-      allow create: if owner(uid) && socialAccount(request.resource.data, uid);
+      allow create, delete: if false;
       allow update: if owner(uid) && socialAccount(request.resource.data, uid)
         && request.resource.data.username == resource.data.username
-        && (request.resource.data.visible || !getAfter(/databases/$(database)/documents/profiles/$(uid)).data.visible);
+        && request.resource.data.visible == resource.data.visible;
     }
-    function publicHead(data, uid) {
-      return data.keys().hasAll(['username','visible','revision','sourceRevision','parts','at','credits','ranked','parks','wishes','parkWishes'])
-        && data.keys().hasOnly(['username','visible','revision','sourceRevision','parts','at','credits','ranked','parks','wishes','parkWishes'])
-        && username(data.username) && data.visible is bool
-        && data.at is string && data.at.matches('^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}[.][0-9]{3}Z$')
-        && count(data.credits) && count(data.ranked) && data.ranked <= data.credits
-        && count(data.parks) && count(data.wishes) && count(data.parkWishes)
-        && getAfter(/databases/$(database)/documents/usernames/$(data.username)).data.uid == uid
-        && getAfter(/databases/$(database)/documents/users/$(uid)/social/account).data.username == data.username
-        && (data.visible ? visibleHead(data, uid) : hiddenHead(data));
+    function canViewProfile(uid) {
+      return request.auth != null
+        && !exists(/databases/$(database)/documents/accountLifecycle/$(request.auth.uid))
+        && !exists(/databases/$(database)/documents/accountLifecycle/$(uid))
+        && !exists(/databases/$(database)/documents/users/$(request.auth.uid)/blocks/$(uid))
+        && !exists(/databases/$(database)/documents/users/$(uid)/blocks/$(request.auth.uid))
+        && (!exists(/databases/$(database)/documents/moderation/$(uid)) || (get(/databases/$(database)/documents/moderation/$(uid)).data.get('suspended', false) != true && get(/databases/$(database)/documents/moderation/$(uid)).data.get('hidden', false) != true));
     }
-    function visibleHead(data, uid) {
-      return revision(data.revision) && revision(data.sourceRevision)
-        && data.parts is int && data.parts >= 1 && data.parts <= 60
-        && getAfter(/databases/$(database)/documents/users/$(uid)/social/account).data.visible
-        && get(/databases/$(database)/documents/users/$(uid)/collections/main).data.revision == data.sourceRevision;
+    match /users/{uid}/blocks/{blockedUid} {
+      allow get, list: if owner(uid);
+      allow write: if false;
     }
-    function hiddenHead(data) {
-      return data.revision == '' && data.sourceRevision == '' && data.parts == 0
-        && data.credits == 0 && data.ranked == 0 && data.parks == 0 && data.wishes == 0 && data.parkWishes == 0;
+    match /accountLifecycle/{uid} {
+      allow get: if request.auth != null && request.auth.uid == uid;
+      allow list, write: if false;
     }
     match /profiles/{uid} {
-      allow get: if request.auth != null;
-      allow create, update: if owner(uid) && publicHead(request.resource.data, uid);
+      allow get: if canViewProfile(uid);
+      allow create, update, delete: if false; // Server publishes a filtered allowlist only.
       match /versions/{rev}/chunks/{index} {
-        allow get: if request.auth != null
+        allow get: if canViewProfile(uid)
           && get(/databases/$(database)/documents/profiles/$(uid)).data.visible
           && get(/databases/$(database)/documents/profiles/$(uid)).data.revision == rev;
-        allow create: if owner(uid) && index.matches('^([0-9]|[1-5][0-9])$')
-          && request.resource.data.keys().hasOnly(['text'])
-          && request.resource.data.text is string && request.resource.data.text.size() > 0 && request.resource.data.text.size() <= 120000
-          && getAfter(/databases/$(database)/documents/profiles/$(uid)).data.visible
-          && getAfter(/databases/$(database)/documents/profiles/$(uid)).data.revision == rev
-          && int(index) < getAfter(/databases/$(database)/documents/profiles/$(uid)).data.parts;
-        allow delete: if owner(uid) && get(/databases/$(database)/documents/profiles/$(uid)).data.revision != rev;
+        allow create, update, delete: if false;
       }
     }
     // All collection queries and all other paths remain denied.

@@ -1,6 +1,6 @@
 (function(root){
   'use strict';
-  let loading,auth,authSDK,db,storeSDK,callbacks,controller;
+  let loading,auth,authSDK,db,storeSDK,functionsSDK,functions,callbacks,controller,lifecycleStop;
   const config=()=>root.TRACKLIST_FIREBASE_CONFIG;
   const configured=()=>!!(config()?.apiKey&&config()?.projectId&&config()?.authDomain&&config()?.appId);
   const userDoc=(uid)=>storeSDK.doc(db,'users',uid,'collections','main');
@@ -52,12 +52,14 @@
     if(loading)return loading;
     loading=(async()=>{
       const base='https://www.gstatic.com/firebasejs/12.19.0/';
-      const [appSDK,a,f]=await Promise.all([import(base+'firebase-app.js'),import(base+'firebase-auth.js'),import(base+'firebase-firestore.js')]);
-      authSDK=a;storeSDK=f;const app=appSDK.initializeApp(config());auth=a.getAuth(app);db=f.getFirestore(app);
+      const [appSDK,a,f,fn]=await Promise.all([import(base+'firebase-app.js'),import(base+'firebase-auth.js'),import(base+'firebase-firestore.js'),import(base+'firebase-functions.js')]);
+      authSDK=a;storeSDK=f;functionsSDK=fn;const app=appSDK.initializeApp(config());auth=a.getAuth(app);db=f.getFirestore(app);functions=fn.getFunctions(app,config().functionsRegion||'us-central1');
       // Session persistence is explicit; local collection copies remain account-specific.
       await a.setPersistence(auth,a.browserLocalPersistence);
       a.onAuthStateChanged(auth,user=>{
+        lifecycleStop?.();lifecycleStop=null;
         const meta=callbacks.onAccount(user);controller.detach();
+        if(user)lifecycleStop=f.onSnapshot(f.doc(db,'accountLifecycle',user.uid),snap=>{if(snap.exists()&&auth.currentUser?.uid===user.uid){root.TracklistApp?.forgetAccountLocal?.(user.uid);a.signOut(auth).catch(()=>{});}},()=>{});
         if(user)controller.attach(user.uid,meta);
       });
       return auth;
@@ -71,17 +73,7 @@
   async function socialUser(){await start();const user=auth?.currentUser;if(!user)throw new Error('Log in to use Social.');return user.uid;}
   const social={
     async watch(onSettings,onError){const uid=await socialUser();return storeSDK.onSnapshot(socialDoc(uid),{includeMetadataChanges:true},snap=>{if(!snap.metadata.fromCache&&!snap.metadata.hasPendingWrites){try{onSettings(root.TracklistSocialModel.settings(snap.exists()?snap.data():null));}catch(error){onError(error);}}},error=>onError(socialError(error)));},
-    async claim(value,visible=true){
-      const uid=await socialUser(),name=root.TracklistSocialModel.username(value);
-      if(typeof visible!=='boolean')throw new Error('Choose a profile visibility setting.');
-      try{return await storeSDK.runTransaction(db,async tx=>{
-        const [claimed,account]=await Promise.all([tx.get(nameDoc(name)),tx.get(socialDoc(uid))]);
-        if(account.exists()){const settings=root.TracklistSocialModel.settings(account.data());if(settings.username!==name)throw Object.assign(new Error(),{code:'tracklist/username-taken'});return settings;}
-        if(claimed.exists())throw Object.assign(new Error(),{code:'tracklist/username-taken'});
-        const settings={username:name,visible,friendIds:[]};
-        tx.set(nameDoc(name),{uid});tx.set(socialDoc(uid),settings);tx.set(profileDoc(uid),root.TracklistSocialModel.hidden(name));return settings;
-      });}catch(error){throw socialError(error);}
-    },
+    async claim(value,visible=false){await socialUser();return callFunction('claimUsername',{username:root.TracklistSocialModel.username(value),visible});},
     async header(uid){await socialUser();if(!root.TracklistSocialModel.uid(uid))throw new Error('User not found.');try{const snap=await storeSDK.getDocFromServer(profileDoc(uid));return snap.exists()?{uid,...root.TracklistSocialModel.header(snap.data())}:null;}catch(error){throw socialError(error);}},
     async lookup(value){await socialUser();const name=root.TracklistSocialModel.username(value);try{const found=await storeSDK.getDocFromServer(nameDoc(name));if(!found.exists())return null;const uid=found.data().uid;if(!root.TracklistSocialModel.uid(uid))throw new Error();return await social.header(uid);}catch(error){throw socialError(error);}},
     async read(uid){
@@ -111,30 +103,15 @@
         const next={...settings,friendIds};tx.set(socialDoc(uid),next);return next;
       });}catch(error){throw socialError(error);}
     },
-    async visibility(visible){
-      const uid=await socialUser();if(typeof visible!=='boolean')throw new Error('Choose a visibility setting.');let previous;
-      try{const result=await storeSDK.runTransaction(db,async tx=>{
-        const [own,profile]=await Promise.all([tx.get(socialDoc(uid)),tx.get(profileDoc(uid))]);
-        const settings=root.TracklistSocialModel.settings(own.data());if(!settings)throw new Error();previous=profile.exists()?root.TracklistSocialModel.header(profile.data()):null;
-        const next={...settings,visible};tx.set(socialDoc(uid),next);if(!visible)tx.set(profileDoc(uid),root.TracklistSocialModel.hidden(settings.username));return next;
-      });if(!visible)await social.cleanup(uid,previous);return result;}catch(error){throw socialError(error);}
-    },
+    async visibility(visible){await socialUser();return callFunction('setProfileVisibility',{visible});},
+    async blocked(){const uid=await socialUser();try{const docs=await storeSDK.getDocsFromServer(storeSDK.collection(db,'users',uid,'blocks'));return docs.docs.map(d=>({uid:d.id,username:typeof d.data().username==='string'?d.data().username:''}));}catch(error){throw socialError(error);}},
+    async block(target,blocked=true){await socialUser();return callFunction('setBlockedUser',{targetUid:target,blocked});},
+    async report(target,revision,reason,details=''){await socialUser();return callFunction('submitReport',{targetUid:target,revision,reason,details});},
     async cleanup(uid,previous){if(!previous?.revision)return;try{const batch=storeSDK.writeBatch(db);for(let i=0;i<previous.parts;i++)batch.delete(publicChunk(uid,previous.revision,i));await batch.commit();}catch{/* Inactive public chunks are unreadable even if cleanup fails. */}},
-    async publish(uid,head,state){
-      if(await socialUser()!==uid)return false;
-      const data=root.TracklistSocialModel.project(state),parts=root.TracklistSyncModel.chunks(data),revision=root.Tracklist.uid();let previous,changed=false;
-      try{const saved=await storeSDK.runTransaction(db,async tx=>{
-        const [account,current,profile]=await Promise.all([tx.get(socialDoc(uid)),tx.get(userDoc(uid)),tx.get(profileDoc(uid))]);
-        changed=false;
-        const settings=root.TracklistSocialModel.settings(account.exists()?account.data():null);
-        if(!settings?.visible||!current.exists()||current.data().revision!==head.revision)return false;
-        previous=profile.exists()?root.TracklistSocialModel.header(profile.data()):null;
-        if(previous?.visible&&previous.sourceRevision===head.revision){const old=await tx.get(publicChunk(uid,previous.revision,0));if(old.exists()&&old.data().text.startsWith('{"version":2,'))return true;}
-        const next={username:settings.username,visible:true,revision,sourceRevision:head.revision,parts:parts.length,at:new Date().toISOString(),...root.TracklistSocialModel.stats(data)};
-        parts.forEach((text,i)=>tx.set(publicChunk(uid,revision,i),{text}));tx.set(profileDoc(uid),next);changed=true;return true;
-      });if(saved&&changed)await social.cleanup(uid,previous);return saved;}catch(error){throw socialError(error);}
-    },
-    async publishLatest(){const uid=await socialUser();try{const snap=await storeSDK.getDocFromServer(userDoc(uid));if(!snap.exists())return false;const head=snap.data(),state=await adapter.read(uid,head);return await social.publish(uid,head,state);}catch(error){throw socialError(error);}},
+    async publish(uid,head,state){if(await socialUser()!==uid)return false;const result=await callFunction('publishProfile');if(result.needsReview)throw new Error('Some shared profile details need review. Your private collection is saved.');return result.published===true;},
+    async publishLatest(){const uid=await socialUser();return social.publish(uid);},
   };
-  const api={configured,init,start,signIn,signOut,resetPassword,user:()=>auth?.currentUser||null,adapter,social};root.TracklistCloud=api;
+  async function callFunction(name,data={},expectedUID){await start();if(expectedUID&&auth.currentUser?.uid!==expectedUID)throw new Error('The signed-in account changed. Start again.');const uid=auth.currentUser?.uid;if(!uid)throw new Error('Log in to continue.');try{const base=config().accountServicesURL;const callable=base?functionsSDK.httpsCallableFromURL(functions,new URL(name,base).href):functionsSDK.httpsCallable(functions,name);const result=await callable({...data,_accountUid:uid});if(auth.currentUser?.uid!==uid)throw new Error('Account changed');return result.data;}catch(error){if(error.code==='functions/already-exists')throw new Error('That username is already taken. Choose another.');if(error.code==='functions/resource-exhausted')throw new Error('Too many requests. Please try again later.');throw new Error('This account action is unavailable right now. Your private collection is kept. Please try again.');}}
+  async function deleteAccount(password){await start();const user=auth?.currentUser;if(!user?.email)throw new Error('Log in again before deleting your account.');try{await authSDK.reauthenticateWithCredential(user,authSDK.EmailAuthProvider.credential(user.email,password));if(auth.currentUser?.uid!==user.uid)throw new Error('Account changed');await user.getIdToken(true);if(auth.currentUser?.uid!==user.uid)throw new Error('Account changed');await callFunction('deleteAccount',{},user.uid);if(auth.currentUser?.uid===user.uid){root.TracklistApp?.forgetAccountLocal?.(user.uid);await authSDK.signOut(auth);}}catch(error){throw new Error('Account deletion could not be confirmed. Check your password and connection, then try again.');}}
+  const api={configured,init,start,signIn,signOut,resetPassword,user:()=>auth?.currentUser||null,adapter,social,deleteAccount};root.TracklistCloud=api;
 })(globalThis);

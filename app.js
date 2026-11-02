@@ -27,6 +27,7 @@
   };
   const icon = name => `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true">${paths[name] || paths.ticket}</svg>`;
   document.querySelectorAll('[data-icon]').forEach(el => el.innerHTML = icon(el.dataset.icon));
+  const forgottenOwners=new Set();
   let STORAGE = 'tracklist.collection.v1';const EXPORT_KEY = 'tracklist.lastExport';
   let state, view = 'ranked', query = '', selection = new Set(), history = [], toastTimer, lastSelected = null;
   let creditsView = 'name', creditsType = '', creditsManufacturer = '', selectionMode = false;
@@ -44,6 +45,7 @@
   }
   function showStorageWarning(message) { $('storage-warning').textContent = message; $('storage-warning').hidden = false; }
   function persist() {
+    if(forgottenOwners.has(STORAGE))return;
     if (storageBlocked) { saveFailed = true; updateSaveStatus(); return; }
     try {
       localStorage.setItem(STORAGE, JSON.stringify(state));
@@ -454,7 +456,8 @@
     if(e.key!==STORAGE||!e.newValue)return;
     try{const next=C.normalize(JSON.parse(e.newValue));finishDrag(true);state=next;history=[];selection.clear();storageBlocked=false;saveFailed=false;$('storage-warning').hidden=true;if($('modal').open)closeModal();render();toast('Collection updated from another tab.',false);}catch{showStorageWarning('Another tab changed the saved data to an unreadable format. Export your current collection before continuing.');storageBlocked=true;saveFailed=true;updateSaveStatus();}
   });
-  globalThis.TracklistApp={getState:()=>JSON.parse(JSON.stringify(state)),getView:()=>view,getStorageKey:()=>STORAGE,escape,icon,art,openModal,closeModal,modalHeader,toast,setView,rankModal,editModal,backupModal,exportData,mountTrackFields,offerRanking,addFromCatalog:record=>addModal(false,record),
+  function forgetAccountLocal(uid){const key='tracklist.collection.v1.'+uid;forgottenOwners.add(key);try{for(const suffix of ['', '.sync', '.comparison'])localStorage.removeItem(key+suffix);const all=JSON.parse(localStorage.getItem('tracklist.recovery.v1')||'[]');if(Array.isArray(all))localStorage.setItem('tracklist.recovery.v1',JSON.stringify(all.filter(s=>s.owner!==key)));}catch{}if(STORAGE===key){state=C.normalize({version:2,rides:[]});history=[];selection.clear();render();}}
+  globalThis.TracklistApp={forgetAccountLocal,getState:()=>JSON.parse(JSON.stringify(state)),getView:()=>view,getStorageKey:()=>STORAGE,escape,icon,art,openModal,closeModal,modalHeader,toast,setView,rankModal,editModal,backupModal,exportData,mountTrackFields,offerRanking,addFromCatalog:record=>addModal(false,record),
     change:(patch,message)=>commit(patch.rides||state.rides,message,state.demo,patch.wishlist||state.wishlist,patch.parkWishlist||state.parkWishlist),
     restore:(next,message)=>{const data=C.normalize(next);return commit(data.rides,message,data.demo,data.wishlist,data.parkWishlist);},
     switchAccount:(uid)=>{

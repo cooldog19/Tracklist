@@ -4,5 +4,7 @@ globalThis.TRACKLIST_FIREBASE_CONFIG = {
   apiKey: 'AIzaSyAVWVABN8t72NlTb98fxiPeoCExw7aTek8',
   authDomain: 'coasterlist.firebaseapp.com',
   projectId: 'coasterlist',
+  functionsRegion: 'us-central1',
+  accountServicesURL: 'https://tracklist-accounts.kmullendore19.workers.dev/',
   appId: '1:555838620509:web:002963c8cc13469cb81eb4'
 };

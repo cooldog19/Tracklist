@@ -8,7 +8,7 @@ Use Node.js 18 or newer. Run `npm start` and open http://127.0.0.1:4173. No inst
 
 Push `main`, select **Settings → Pages → GitHub Actions**, and use the included deployment workflow. Relative asset paths support project subdirectories. See [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
-Public Web App configuration is in `firebase-config.js`. Follow [FIREBASE_SETUP.md](FIREBASE_SETUP.md) to enable Email/Password, create the default Firestore database, publish [firestore.rules](firestore.rules), and authorize the website domain. GitHub Pages can remain the host. Firebase's [Spark plan](https://firebase.google.com/pricing) has free quotas; no billing account or paid server is required for modest personal use.
+Public Web App configuration is in `firebase-config.js`. Follow [FIREBASE_SETUP.md](FIREBASE_SETUP.md) to enable Email/Password, create the default Firestore database, publish [firestore.rules](firestore.rules), and authorize the website domain. GitHub Pages can remain the host. The shared iOS/web services use Cloudflare Workers Free for trusted profile publication, moderation and account deletion, while Firebase stays on Spark. See [NATIVE_SERVICES.md](NATIVE_SERVICES.md) for the coordinated migration; guest tracking remains local.
 
 ## Rank and track credits
 
@@ -26,7 +26,7 @@ Public Web App configuration is in `firebase-config.js`. Follow [FIREBASE_SETUP.
 - **Credits → Add a ride** starts with catalog search. Selecting a match fills its details; **Add manually** expands the fields for missing rides, and **Edit ride details** lets you adjust a catalog match. Multi-track rides show track choices before saving. You can also paste multiple lines as `Ride | Park` with **Add several manually**. After saving from Credits or logging through the catalog, **Rank now** starts a comparison quiz; **Do later** or dismissing the offer keeps the new credit safely in Credits and Unranked. New rides never append directly to the ranking. Ranking and Unranked link to Credits for adding rides.
 - The initial sample is clearly marked. **Start my own list** removes demonstration rides while retaining personal additions. New accounts copy personal additions and planned rides, excluding samples.
 
-The catalog currently contains **4,232 rides across 1,710 park groups** from public Coasterpedia articles and supplemental Wikidata entries. It is a dated community snapshot, with incomplete coverage and non-live statuses. Historic names help match imported credits. Source links, RCDB ride pages, and available direct YouTube POVs are included; search links are offered when a direct link is missing. No video or article media is copied. Attribution and reuse terms are in [CATALOG_LICENSE.md](CATALOG_LICENSE.md).
+The catalog currently contains **4,390 rides and 2,194 source park records**, with additional park groups derived from ride metadata from public Coasterpedia articles and supplemental Wikidata entries. It is a dated community snapshot, with incomplete coverage and non-live statuses. Historic names help match imported credits. Source links, RCDB ride pages, and available direct YouTube POVs are included; search links are offered when a direct link is missing. No video or article media is copied. Attribution and reuse terms are in [CATALOG_LICENSE.md](CATALOG_LICENSE.md).
 
 ## Separate tracks, one ranking
 
@@ -40,7 +40,7 @@ Identifiable Green/Yellow or Lion/Tiger entries from older backups are consolida
 
 Credit totals, manufacturer/type credit breakdowns, park pins and shared profiles count ridden tracks. Preference scores, top-10 appearances and ranking positions count the combined ride once. The private first-ride timeline also counts rides once, using the earliest recorded overall ride date; separate track dates remain in details.
 
-Backups and synced collections now use **version 2**, which preserves tracks and favorites. Version 1 imports and recovery snapshots remain supported. JSON and CSV both retain track data; CSV stores the track list as a JSON cell and includes a derived credit count. Refresh existing tabs/devices before editing upgraded collections: the previous app rejects version 2 rather than silently stripping track details. Existing shared profiles upgrade on the next successful publication, including when the private revision has not changed. No database rules or new database paths are required.
+Backups and synced collections now use **version 2**, which preserves tracks and favorites. Version 1 imports and recovery snapshots remain supported. JSON and CSV both retain track data; CSV stores the track list as a JSON cell and includes a derived credit count. Refresh existing tabs/devices before editing upgraded collections: the previous app rejects version 2 rather than silently stripping track details. Existing shared profiles upgrade on the next successful publication, including when the private revision has not changed. The collection version upgrade preserves existing private paths. The native companion integration separately requires the trusted-service rules and migration described in [NATIVE_SERVICES.md](NATIVE_SERVICES.md).
 
 ## Statistics and park map
 
@@ -99,3 +99,7 @@ The app uses plain HTML/CSS/JS and modern browser APIs (dialog, Pointer Events, 
 Automated tests cover ranking, pointer/keyboard interactions, imports, catalog logging, wish lists, account isolation, recovery, offline queues, concurrent revisions, unsafe HTML/links, formula-safe CSV, and deployment artifact boundaries. DOM tests use jsdom; actual browser layout and CDN/CSP behavior need checking on the deployed site. Emulator tests exercise the real Firestore rule engine; they require the setup in [SECURITY.md](SECURITY.md). The live rules and provider console settings must also be verified before public release.
 
 Run `npm run security:check -- --history` to scan tracked/current files, repository history and the build for credential and machine-path patterns. See [SECURITY.md](SECURITY.md) for the security boundary and release checks.
+
+## Native companion services
+
+[NATIVE_SERVICES.md](NATIVE_SERVICES.md) describes the coordinated iOS/web backend upgrade, free-plan quotas, operator responsibilities, account deletion, reporting and blocking. Deploy the services and compatible clients before enabling the new server-only Social rules.

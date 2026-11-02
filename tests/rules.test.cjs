@@ -17,7 +17,7 @@ const fields=data=>Object.fromEntries(Object.entries(data).map(([key,item])=>[ke
 const update=(name,data)=>({update:{name:`${database}/documents/${name}`,fields:fields(data)}});
 const remove=name=>({delete:`${database}/documents/${name}`});
 async function request(path,uid,body,method=body?'POST':'GET'){
-  const response=await fetch(`${base}${path}`,{method,headers:{'Content-Type':'application/json',...(uid?{Authorization:`Bearer ${token(uid)}`}:{})},...(body?{body:JSON.stringify(body)}:{})});
+  const response=await fetch(`${base}${path}`,{method,headers:{'Content-Type':'application/json',...(uid?{Authorization:`Bearer ${uid==='__emulator_admin'?'owner':token(uid)}`}:{})},...(body?{body:JSON.stringify(body)}:{})});
   const data=await response.json();return {status:response.status,data};
 }
 const commit=(uid,writes)=>request(':commit',uid,{writes});
@@ -67,42 +67,13 @@ test('database rules enforce privacy, schema, immutable backups and valid atomic
   const unicodeWrites=[update('users/bob/snapshots/unicode',unicodeEntry),...chunks.map((text,i)=>update(`users/bob/snapshots/unicode/chunks/${i}`,{text})),update('users/bob/collections/main',{...unicodeEntry,history:[unicodeEntry]})];
   const unicodeSave=await commit('bob',unicodeWrites);assert.equal(unicodeSave.status,200,JSON.stringify(unicodeSave.data));
 });
-test('social rules protect unique usernames, private friend lists and shared profile visibility',async()=>{
-  const S=require('../social-model.js'),a='social-alice',b='social-bob',handle='airtime_alice';
-  const settings={username:handle,visible:true,friendIds:[]};
-  const claim=[update(`usernames/${handle}`,{uid:a}),update(`users/${a}/social/account`,settings),update(`profiles/${a}`,S.hidden(handle))];
-  const first=await commit(a,claim);assert.equal(first.status,200,JSON.stringify(first.data));
-  assert.equal((await commit(b,[update(`usernames/${handle}`,{uid:b}),update(`users/${b}/social/account`,settings)])).status,403,'Username cannot be stolen.');
-  assert.equal((await commit(a,[update('usernames/extra_handle',{uid:a})])).status,403,'One account cannot reserve arbitrary extra names.');
-  assert.equal((await commit(a,[remove(`usernames/${handle}`)])).status,403);
-  assert.equal((await request(`/${`users/${a}/social/account`}`,b)).status,403);
-  for(const uid of [null,b])assert.equal((await commit(uid,[update(`users/${a}/social/account`,{...settings,friendIds:[b]})])).status,403);
-  for(const p of [`/usernames/${handle}`,`/profiles/${a}`]){assert.equal((await request(p,null)).status,403);assert.equal((await request(p,b)).status,200);}
-  for(const p of ['/usernames','/profiles',`/users/${a}/social`])assert.equal((await request(p,b)).status,403,'Directory listing is not allowed.');
-  assert.equal((await commit(a,revision(a,'private-one'))).status,200);
-  const publicData=S.project({version:1,rides:[{id:'ride',name:'Shared credit',ranked:true,park:'Park',notes:'PRIVATE NOTE',riddenOn:'2026-01-01'}]});
-  const shared={username:handle,visible:true,revision:'public-one',sourceRevision:'private-one',parts:1,at:'2026-10-10T00:00:00.000Z',...S.stats(publicData)};
-  const chunk=`profiles/${a}/versions/public-one/chunks/0`;
-  const publish=await commit(a,[update(chunk,{text:JSON.stringify(publicData)}),update(`profiles/${a}`,shared)]);assert.equal(publish.status,200,JSON.stringify(publish.data));
-  assert.equal((await request('/'+chunk,b)).status,200);assert.equal((await request('/'+chunk,null)).status,403);
-  assert.equal((await request(`/users/${a}/snapshots/private-one/chunks/0`,b)).status,403,'Shared profiles never grant private snapshot access.');
-  assert.equal((await commit(b,[update(`profiles/${a}`,shared)])).status,403);
-  assert.equal((await commit(a,[update(`profiles/${a}`,{...shared,email:'private@example.test'})])).status,403);
-  assert.equal((await commit(a,[update(`profiles/${a}`,{...shared,credits:5001})])).status,403);
-  assert.equal((await commit(a,[update(chunk,{text:'overwrite'})])).status,403);
-  assert.equal((await commit(a,[remove(chunk)])).status,403,'Active shared chunks cannot be deleted.');
-  assert.equal((await commit(a,[update(`profiles/${a}/versions/orphan/chunks/0`,{text:'{}'})])).status,403);
-  assert.equal((await commit(a,[update(`users/${a}/social/account`,{...settings,friendIds:[b]})])).status,200);
-  assert.equal((await commit(a,[update(`users/${a}/social/account`,{...settings,friendIds:Array(501).fill(b)})])).status,403);
-  assert.equal((await commit(a,[update(`users/${a}/social/account`,{...settings,username:'someone_else'})])).status,403);
-  assert.equal((await commit(a,[update(`users/${a}/social/account`,{...settings,visible:false})])).status,403,'Hiding cannot leave a shared profile readable.');
-  const hidden=await commit(a,[update(`users/${a}/social/account`,{...settings,visible:false}),update(`profiles/${a}`,S.hidden(handle))]);assert.equal(hidden.status,200,JSON.stringify(hidden.data));
-  assert.equal((await request('/'+chunk,b)).status,403);assert.equal((await request('/'+chunk,a)).status,403,'Inactive public copies are unreadable.');
-  assert.equal((await commit(a,[remove(chunk)])).status,200,'Inactive public copies can be cleaned up.');
-  assert.equal((await commit(a,revision(a,'private-two',[entry('private-one')]))).status,200);
-  assert.equal((await commit(a,[update(`users/${a}/social/account`,settings),update(`profiles/${a}`,{...shared,revision:'stale'})])).status,403,'Stale public publication is denied.');
-  const large={...shared,revision:'public-large',sourceRevision:'private-two',parts:60};
-  const writes=[update(`users/${a}/social/account`,settings),...Array.from({length:60},(_,i)=>update(`profiles/${a}/versions/public-large/chunks/${i}`,{text:'{}'})),update(`profiles/${a}`,large)];
-  const maximum=await commit(a,writes);assert.equal(maximum.status,200,JSON.stringify(maximum.data));
-  assert.equal((await request(`/${`profiles/${a}/versions/public-large/chunks/59`}`,b)).status,200);
+test('social rules require trusted publication and enforce blocking, suspension and deletion',async()=>{
+ const S=require('../social-model.js'),a='social-alice',b='social-bob',admin='__emulator_admin',handle='airtime_alice',settings={username:handle,visible:true,friendIds:[]},claim=[update(`usernames/${handle}`,{uid:a}),update(`users/${a}/social/account`,settings),update(`profiles/${a}`,S.hidden(handle))];
+ assert.equal((await commit(a,claim)).status,403);assert.equal((await commit(admin,claim)).status,200);assert.equal((await commit(b,[update(`usernames/${handle}`,{uid:b})])).status,403);assert.equal((await request(`/users/${a}/social/account`,b)).status,403);
+ for(const p of [`/usernames/${handle}`,`/profiles/${a}`]){assert.equal((await request(p,null)).status,403);assert.equal((await request(p,b)).status,200);}for(const p of ['/usernames','/profiles'])assert.equal((await request(p,b)).status,403);
+ assert.equal((await commit(a,revision(a,'private-one'))).status,200);const data=S.project({version:2,rides:[{name:'Shared',notes:'PRIVATE'}]}),head={username:handle,visible:true,revision:'public-one',sourceRevision:'private-one',parts:1,at:'2026-11-01T00:00:00.000Z',...S.stats(data)},chunk=`profiles/${a}/versions/public-one/chunks/0`,writes=[update(chunk,{text:JSON.stringify(data)}),update(`profiles/${a}`,head)];assert.equal((await commit(a,writes)).status,403);assert.equal((await commit(admin,writes)).status,200);assert.equal((await request('/'+chunk,b)).status,200);assert.equal((await request('/'+chunk,null)).status,403);assert.equal((await request(`/users/${a}/snapshots/private-one/chunks/0`,b)).status,403);
+ assert.equal((await commit(a,[update(`users/${a}/social/account`,{...settings,friendIds:[b]})])).status,200);assert.equal((await commit(a,[update(`users/${a}/social/account`,{...settings,visible:false})])).status,403);assert.equal((await commit(a,[update(`users/${a}/social/account`,{...settings,friendIds:Array(501).fill(b)})])).status,403);
+ assert.equal((await commit(admin,[update(`users/${b}/blocks/${a}`,{targetUid:a,ownerUid:b})])).status,200);assert.equal((await request('/'+chunk,b)).status,403);assert.equal((await request(`/profiles/${b}`,a)).status,403);assert.equal((await commit(admin,[remove(`users/${b}/blocks/${a}`)])).status,200);
+ assert.equal((await commit(admin,[update(`moderation/${a}`,{suspended:true})])).status,200);assert.equal((await request('/'+chunk,b)).status,403);assert.equal((await commit(admin,[update(`moderation/${a}`,{suspended:false})])).status,200);assert.equal((await request('/'+chunk,b)).status,200);assert.equal((await commit(admin,[remove(`moderation/${a}`)])).status,200);
+ assert.equal((await commit(admin,[update(`accountLifecycle/${a}`,{status:'deleting'})])).status,200);assert.equal((await request(`/accountLifecycle/${a}`,a)).status,200);assert.equal((await request(`/accountLifecycle/${a}`,b)).status,403);assert.equal((await request(`/users/${a}/collections/main`,a)).status,403);assert.equal((await request('/'+chunk,b)).status,403);assert.equal((await commit(a,revision(a,'after-delete'))).status,403);
 });
