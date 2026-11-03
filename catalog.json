@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-03T07:00:38.655Z",
+  "updatedAt": "2026-11-03T19:39:57.161Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -2855,7 +2855,11 @@
       "park": "Kentucky Shores Family Fun Center",
       "parkId": "cp-park-23931",
       "sourceParkId": 23931,
-      "parkAliases": [],
+      "parkAliases": [
+        "Miniature Golf Course",
+        "Henry's Race Place",
+        "Kentucky Shores Family Fun Center"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -5289,9 +5293,9 @@
     {
       "sourceId": 10487,
       "name": "Coaster Through the Clouds",
-      "sourceRevision": 487154,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Coaster%20Through%20the%20Clouds&oldid=487154",
+      "sourceRevision": 531584,
+      "sourceUpdatedAt": "2026-11-03T18:46:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Coaster%20Through%20the%20Clouds&oldid=531584",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10487",
       "aliases": [],
@@ -21955,9 +21959,9 @@
     {
       "sourceId": 13940,
       "name": "Zadra",
-      "sourceRevision": 491197,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Zadra&oldid=491197",
+      "sourceRevision": 531523,
+      "sourceUpdatedAt": "2026-11-03T18:06:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Zadra&oldid=531523",
       "license": "CC-BY-SA-4.0",
       "id": "cp-13940",
       "aliases": [],
@@ -41886,9 +41890,9 @@
     {
       "sourceId": 2153,
       "name": "Whizzer",
-      "sourceRevision": 490479,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Whizzer%20(Six%20Flags%20Great%20America)&oldid=490479",
+      "sourceRevision": 531620,
+      "sourceUpdatedAt": "2026-11-03T19:05:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Whizzer%20(Six%20Flags%20Great%20America)&oldid=531620",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2153",
       "aliases": [],
@@ -82854,13 +82858,16 @@
     },
     {
       "sourceId": 4183,
-      "name": "Sprocket Rockets",
-      "sourceRevision": 489785,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sprocket%20Rockets&oldid=489785",
+      "name": "Chirp Chaser",
+      "sourceRevision": 531612,
+      "sourceUpdatedAt": "2026-11-03T19:01:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sprocket%20Rockets&oldid=531612",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4183",
-      "aliases": [],
+      "aliases": [
+        "Spacely's Sprocket Rockets",
+        "Sprocket Rockets"
+      ],
       "legacyIds": [],
       "park": "Six Flags Great America",
       "parkId": "cp-park-2014",
@@ -82884,13 +82891,18 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Under refurbishment",
+      "sourceStatus": "under_refurbishment",
       "dates": {
         "opened": {
           "edtf": "1998",
           "earliest": "1998-01-01",
           "latest": "1998-12-31"
+        },
+        "opening": {
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
         }
       },
       "rcdb": "https://rcdb.com/488.htm",
@@ -101939,9 +101951,9 @@
     {
       "sourceId": 49726,
       "name": "Maximus' Blitz Bahn",
-      "sourceRevision": 496535,
-      "sourceUpdatedAt": "2026-10-27T03:17:10.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Maximus'%20Blitz%20Bahn&oldid=496535",
+      "sourceRevision": 531159,
+      "sourceUpdatedAt": "2026-11-03T09:46:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Maximus'%20Blitz%20Bahn&oldid=531159",
       "license": "CC-BY-SA-4.0",
       "id": "cp-49726",
       "aliases": [],
@@ -132084,9 +132096,9 @@
     {
       "sourceId": 66421,
       "name": "Tormenta Rampaging Run",
-      "sourceRevision": 492597,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tormenta%20Rampaging%20Run&oldid=492597",
+      "sourceRevision": 531286,
+      "sourceUpdatedAt": "2026-11-03T14:21:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tormenta%20Rampaging%20Run&oldid=531286",
       "license": "CC-BY-SA-4.0",
       "id": "cp-66421",
       "aliases": [],
@@ -132098,7 +132110,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 32.755042,
+        "lon": -97.072304
+      },
       "manufacturer": "Bolliger & Mabillard",
       "manufacturerRefs": [
         {
@@ -139622,9 +139637,9 @@
     {
       "sourceId": 72107,
       "name": "Mad Mouse",
-      "sourceRevision": 491776,
-      "sourceUpdatedAt": "2026-10-16T03:17:02.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mad%20Mouse%20(Tosselilla)&oldid=491776",
+      "sourceRevision": 531142,
+      "sourceUpdatedAt": "2026-11-03T08:13:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mad%20Mouse%20(Tosselilla)&oldid=531142",
       "license": "CC-BY-SA-4.0",
       "id": "cp-72107",
       "aliases": [],
@@ -139639,7 +139654,10 @@
       "country": "Sweden",
       "countryCode": "SE",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 55.552706,
+        "lon": 13.901272
+      },
       "manufacturer": "Fabbri",
       "manufacturerRefs": [
         {
@@ -139709,9 +139727,9 @@
     {
       "sourceId": 72114,
       "name": "Kålmasken",
-      "sourceRevision": 488485,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=K%C3%A5lmasken&oldid=488485",
+      "sourceRevision": 531141,
+      "sourceUpdatedAt": "2026-11-03T08:13:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=K%C3%A5lmasken&oldid=531141",
       "license": "CC-BY-SA-4.0",
       "id": "cp-72114",
       "aliases": [],
@@ -139726,7 +139744,10 @@
       "country": "Sweden",
       "countryCode": "SE",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 55.552475,
+        "lon": 13.902742
+      },
       "manufacturer": "",
       "manufacturerRefs": [],
       "type": "Steel",
@@ -148619,9 +148640,9 @@
     {
       "sourceId": 76560,
       "name": "Unknown",
-      "sourceRevision": 530541,
-      "sourceUpdatedAt": "2026-11-02T08:44:48.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Walibi%20Belgium%20Rocky%20Mountain%20Construction%20coaster)&oldid=530541",
+      "sourceRevision": 531349,
+      "sourceUpdatedAt": "2026-11-03T15:40:39.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Walibi%20Belgium%20Rocky%20Mountain%20Construction%20coaster)&oldid=531349",
       "license": "CC-BY-SA-4.0",
       "id": "cp-76560",
       "aliases": [],
@@ -158010,9 +158031,9 @@
     {
       "sourceId": 79655,
       "name": "Sky Hawk",
-      "sourceRevision": 489622,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Hawk%20(Six%20Flags%20Great%20America)&oldid=489622",
+      "sourceRevision": 531635,
+      "sourceUpdatedAt": "2026-11-03T19:16:28.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Hawk%20(Six%20Flags%20Great%20America)&oldid=531635",
       "license": "CC-BY-SA-4.0",
       "id": "cp-79655",
       "aliases": [],
@@ -158027,7 +158048,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 42.367316,
+        "lon": -87.933074
+      },
       "manufacturer": "Vekoma",
       "manufacturerRefs": [
         {
@@ -188068,9 +188092,9 @@
     {
       "sourceId": 91807,
       "name": "Runaway Mine Train",
-      "sourceRevision": 495022,
-      "sourceUpdatedAt": "2026-10-25T13:18:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Runaway%20Mine%20Train%20(Atlantic%20Splash%20Adventure)&oldid=495022",
+      "sourceRevision": 531150,
+      "sourceUpdatedAt": "2026-11-03T08:18:13.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Runaway%20Mine%20Train%20(Atlantic%20Splash%20Adventure)&oldid=531150",
       "license": "CC-BY-SA-4.0",
       "id": "cp-91807",
       "aliases": [
@@ -199308,16 +199332,19 @@
     {
       "sourceId": 15526,
       "name": "Haunted Trails Joliet",
-      "sourceRevision": 464698,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Haunted%20Trails%20Joliet&oldid=464698",
+      "sourceRevision": 531677,
+      "sourceUpdatedAt": "2026-11-03T19:34:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Haunted%20Trails%20Joliet&oldid=531677",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-15526",
       "country": "United States",
       "countryCode": "US",
       "place": "Joliet",
       "state": "Illinois",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 41.550575,
+        "lon": -88.088518
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -201857,14 +201884,14 @@
     {
       "sourceId": 18214,
       "name": "Craig Tara",
-      "sourceRevision": 462109,
-      "sourceUpdatedAt": "2026-10-16T16:35:54.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Craig%20Tara%20Holiday%20Camp&oldid=462109",
+      "sourceRevision": 531476,
+      "sourceUpdatedAt": "2026-11-03T17:24:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Craig%20Tara%20Holiday%20Camp&oldid=531476",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-18214",
       "country": "United Kingdom",
       "countryCode": "GB",
-      "place": "Ayr, Scotland",
+      "place": "Ayr, South Ayrshire, Scotland",
       "state": "",
       "coordinates": {
         "lat": 55.429674927191,
@@ -204431,9 +204458,9 @@
     {
       "sourceId": 23931,
       "name": "Kentucky Shores Family Fun Center",
-      "sourceRevision": 530664,
-      "sourceUpdatedAt": "2026-11-02T18:26:42.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kentucky%20Shores%20Family%20Fun%20Center&oldid=530664",
+      "sourceRevision": 531619,
+      "sourceUpdatedAt": "2026-11-03T19:05:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kentucky%20Shores%20Family%20Fun%20Center&oldid=531619",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-23931",
       "country": "United States",
@@ -204454,7 +204481,11 @@
           "latest": "2025-12-31"
         }
       },
-      "aliases": []
+      "aliases": [
+        "Miniature Golf Course",
+        "Henry's Race Place",
+        "Kentucky Shores Family Fun Center"
+      ]
     },
     {
       "sourceId": 23932,
@@ -250019,6 +250050,113 @@
           "edtf": "2026-12-19",
           "earliest": "2026-12-19",
           "latest": "2026-12-19"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93086,
+      "name": "Karlsrobadet Eslöv",
+      "sourceRevision": 531135,
+      "sourceUpdatedAt": "2026-11-03T08:09:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Karlsrobadet%20Esl%C3%B6v&oldid=531135",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93086",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "place": "Eslöv, Skåne",
+      "state": "",
+      "coordinates": {
+        "lat": 55.842811666361,
+        "lon": 13.293286048851
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1968",
+          "earliest": "1968-01-01",
+          "latest": "1968-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93095,
+      "name": "Forgotten Past",
+      "sourceRevision": 531489,
+      "sourceUpdatedAt": "2026-11-03T17:38:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Forgotten%20Past&oldid=531489",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93095",
+      "country": "United States",
+      "countryCode": "US",
+      "place": "3390 US Highway 68 E in Benton, Kentucky",
+      "state": "Kentucky",
+      "coordinates": {
+        "lat": 36.890847,
+        "lon": -88.29992
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1971",
+          "earliest": "1971-01-01",
+          "latest": "1971-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93100,
+      "name": "Glasgow Club Pollok",
+      "sourceRevision": 531536,
+      "sourceUpdatedAt": "2026-11-03T18:13:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Glasgow%20Club%20Pollok&oldid=531536",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93100",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Glasgow, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.822866,
+        "lon": -4.345222
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1986",
+          "earliest": "1986-01-01",
+          "latest": "1986-12-31"
+        }
+      },
+      "aliases": [
+        "Pollok Leisure Pool",
+        "Glasgow Club Pollok"
+      ]
+    },
+    {
+      "sourceId": 93102,
+      "name": "Hamilton Water Palace",
+      "sourceRevision": 531683,
+      "sourceUpdatedAt": "2026-11-03T19:35:44.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hamilton%20Water%20Palace&oldid=531683",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93102",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hamilton, South Lanarkshire, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.779274802275,
+        "lon": -4.045873915341
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1995-06-14",
+          "earliest": "1995-06-14",
+          "latest": "1995-06-14"
         }
       },
       "aliases": []
