@@ -56,3 +56,11 @@ test('reauthenticated deletion calls the service before forgetting the account a
  sdk.functions.httpsCallable=(functions,name)=>async()=>{events.push(name);return {data:{accepted:true}};};context.TracklistApp={forgetAccountLocal:uid=>events.push('forget '+uid)};
  await api.deleteAccount('password');assert.deepEqual(events,['reauthenticate','refresh','deleteAccount','forget alice']);assert.equal(api.user(),null);
 });
+
+test('accepted deletion succeeds when the lifecycle listener signs out before the response',async()=>{
+ const {api,sdk,setUser,context}=await cloud();setUser({uid:'alice',email:'alice@example.test',getIdToken:async()=>{}});
+ sdk.auth.EmailAuthProvider={credential:()=>({})};sdk.auth.reauthenticateWithCredential=async()=>{};
+ sdk.functions.httpsCallable=()=>async()=>{context.TracklistApp.forgetAccountLocal('alice');setUser(null);return {data:{accepted:true}};};
+ let forgotten=false;context.TracklistApp={forgetAccountLocal:uid=>{assert.equal(uid,'alice');forgotten=true;}};
+ await api.deleteAccount('password');assert.equal(forgotten,true);assert.equal(api.user(),null);
+});
