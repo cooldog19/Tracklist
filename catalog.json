@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-02T21:49:17.708Z",
+  "updatedAt": "2026-11-03T07:00:38.655Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -1861,9 +1861,9 @@
     {
       "sourceId": 10216,
       "name": "Van Helsing's Factory",
-      "sourceRevision": 490322,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Van%20Helsing's%20Factory&oldid=490322",
+      "sourceRevision": 530897,
+      "sourceUpdatedAt": "2026-11-02T22:05:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Van%20Helsing's%20Factory&oldid=530897",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10216",
       "aliases": [],
@@ -1902,7 +1902,8 @@
       "rcdb": "https://rcdb.com/9539.htm",
       "pov": "https://www.youtube.com/watch?v=AAu_SWN-YkM",
       "categories": [
-        "Enclosed"
+        "Enclosed",
+        "Wild Mouse"
       ],
       "trackCount": 1
     },
@@ -72913,9 +72914,9 @@
     {
       "sourceId": 3676,
       "name": "Mindbender",
-      "sourceRevision": 488746,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mindbender%20(Galaxyland)&oldid=488746",
+      "sourceRevision": 530888,
+      "sourceUpdatedAt": "2026-11-02T21:55:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mindbender%20(Galaxyland)&oldid=530888",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3676",
       "aliases": [],
@@ -85265,9 +85266,9 @@
     {
       "sourceId": 433,
       "name": "Mad Mouse",
-      "sourceRevision": 488646,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mad%20Mouse%20(Fuji-Q%20Highland)&oldid=488646",
+      "sourceRevision": 530895,
+      "sourceUpdatedAt": "2026-11-02T22:03:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mad%20Mouse%20(Fuji-Q%20Highland)&oldid=530895",
       "license": "CC-BY-SA-4.0",
       "id": "cp-433",
       "aliases": [],
@@ -102038,9 +102039,9 @@
     {
       "sourceId": 49728,
       "name": "YoY",
-      "sourceRevision": 490677,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=YOY&oldid=490677",
+      "sourceRevision": 530909,
+      "sourceUpdatedAt": "2026-11-02T22:35:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=YOY&oldid=530909",
       "license": "CC-BY-SA-4.0",
       "id": "cp-49728",
       "aliases": [],
@@ -106581,9 +106582,9 @@
     {
       "sourceId": 5103,
       "name": "King Cobra",
-      "sourceRevision": 488407,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=King%20Cobra%20(Paramount's%20Kings%20Island)&oldid=488407",
+      "sourceRevision": 530892,
+      "sourceUpdatedAt": "2026-11-02T21:57:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=King%20Cobra%20(Paramount's%20Kings%20Island)&oldid=530892",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5103",
       "aliases": [],
@@ -107013,9 +107014,9 @@
     {
       "sourceId": 51254,
       "name": "Mroczny Dwór",
-      "sourceRevision": 488912,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mroczny%20Dw%C3%B3r&oldid=488912",
+      "sourceRevision": 530912,
+      "sourceUpdatedAt": "2026-11-02T23:37:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mroczny%20Dw%C3%B3r&oldid=530912",
       "license": "CC-BY-SA-4.0",
       "id": "cp-51254",
       "aliases": [],
@@ -107050,7 +107051,7 @@
       "categories": [
         "Spinning",
         "Kiddie",
-        "Enclosed"
+        "Indoor"
       ],
       "trackCount": 1
     },
@@ -115794,9 +115795,9 @@
     {
       "sourceId": 55787,
       "name": "Aquila",
-      "sourceRevision": 486665,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Aquila%20(Mandoria)&oldid=486665",
+      "sourceRevision": 530913,
+      "sourceUpdatedAt": "2026-11-02T23:37:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Aquila%20(Mandoria)&oldid=530913",
       "license": "CC-BY-SA-4.0",
       "id": "cp-55787",
       "aliases": [],
@@ -115830,7 +115831,7 @@
       "pov": "https://www.youtube.com/watch?v=WdMPgDA7Jb8",
       "categories": [
         "Launched",
-        "Enclosed"
+        "Indoor"
       ],
       "trackCount": 1
     },
@@ -133178,9 +133179,9 @@
     {
       "sourceId": 66925,
       "name": "Original Wild Mouse",
-      "sourceRevision": 489025,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Original%20Wild%20Mouse&oldid=489025",
+      "sourceRevision": 530910,
+      "sourceUpdatedAt": "2026-11-02T22:35:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Original%20Wild%20Mouse&oldid=530910",
       "license": "CC-BY-SA-4.0",
       "id": "cp-66925",
       "aliases": [],
@@ -136499,9 +136500,9 @@
     {
       "sourceId": 68776,
       "name": "Congo Cruizer",
-      "sourceRevision": 487223,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Congo%20Cruizer&oldid=487223",
+      "sourceRevision": 530908,
+      "sourceUpdatedAt": "2026-11-02T22:33:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Congo%20Cruizer&oldid=530908",
       "license": "CC-BY-SA-4.0",
       "id": "cp-68776",
       "aliases": [],
@@ -146445,9 +146446,9 @@
     {
       "sourceId": 75471,
       "name": "Kikker8baan",
-      "sourceRevision": 530045,
-      "sourceUpdatedAt": "2026-11-01T20:10:09.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kikker8baan&oldid=530045",
+      "sourceRevision": 530890,
+      "sourceUpdatedAt": "2026-11-02T21:55:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kikker8baan&oldid=530890",
       "license": "CC-BY-SA-4.0",
       "id": "cp-75471",
       "aliases": [],
@@ -193066,9 +193067,9 @@
     {
       "sourceId": 9708,
       "name": "Falcon",
-      "sourceRevision": 490180,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Falcon%20(Duinrell)&oldid=490180",
+      "sourceRevision": 530907,
+      "sourceUpdatedAt": "2026-11-02T22:30:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Falcon%20(Duinrell)&oldid=530907",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9708",
       "aliases": [],
@@ -193102,7 +193103,7 @@
         }
       },
       "rcdb": "https://rcdb.com/3936.htm",
-      "pov": "https://www.youtube.com/watch?v=t9NZmUZCLxE",
+      "pov": "https://www.youtube.com/watch?v=2ndVpIy91Dk",
       "categories": [],
       "trackCount": 1
     },
@@ -228921,10 +228922,10 @@
     },
     {
       "sourceId": 66061,
-      "name": "Wonnemar Marktheidenfeld",
-      "sourceRevision": 464553,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wonnemar%20Marktheidenfeld&oldid=464553",
+      "name": "M2 – Bad am Maradies",
+      "sourceRevision": 530922,
+      "sourceUpdatedAt": "2026-11-02T23:40:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=M2%20%E2%80%93%20Bad%20am%20Maradies&oldid=530922",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-66061",
       "country": "Germany",
@@ -228932,7 +228933,7 @@
       "place": "Marktheidenfeld, Bavaria",
       "state": "",
       "coordinates": null,
-      "status": "Standing but not operating",
+      "status": "Operating",
       "dates": {
         "opened": {
           "edtf": "2012-12-17",
@@ -228945,7 +228946,10 @@
           "latest": "2020-11-02"
         }
       },
-      "aliases": []
+      "aliases": [
+        "Wonnemar Marktheidenfeld",
+        "M2 – Bad am Maradies"
+      ]
     },
     {
       "sourceId": 66076,
@@ -249989,6 +249993,32 @@
           "edtf": "1997-12-31",
           "earliest": "1997-12-31",
           "latest": "1997-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93079,
+      "name": "Sould Park Málaga",
+      "sourceRevision": 530921,
+      "sourceUpdatedAt": "2026-11-02T23:40:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sould%20Park%20M%C3%A1laga&oldid=530921",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93079",
+      "country": "Spain",
+      "countryCode": "ES",
+      "place": "Málaga, Andalusia",
+      "state": "",
+      "coordinates": {
+        "lat": 36.6601496289,
+        "lon": -4.4740344531
+      },
+      "status": "Under construction",
+      "dates": {
+        "opening": {
+          "edtf": "2026-12-19",
+          "earliest": "2026-12-19",
+          "latest": "2026-12-19"
         }
       },
       "aliases": []
