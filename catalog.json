@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-03T19:39:57.161Z",
+  "updatedAt": "2026-11-04T06:44:33.451Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -42531,9 +42531,9 @@
     {
       "sourceId": 2191,
       "name": "American Eagle",
-      "sourceRevision": 490736,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=American%20Eagle&oldid=490736",
+      "sourceRevision": 531920,
+      "sourceUpdatedAt": "2026-11-03T22:40:52.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=American%20Eagle&oldid=531920",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2191",
       "aliases": [],
@@ -79035,9 +79035,9 @@
     {
       "sourceId": 39441,
       "name": "Kikkerachtbaan",
-      "sourceRevision": 493011,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kikkerachtbaan&oldid=493011",
+      "sourceRevision": 531909,
+      "sourceUpdatedAt": "2026-11-03T22:33:52.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kikkerachtbaan&oldid=531909",
       "license": "CC-BY-SA-4.0",
       "id": "cp-39441",
       "aliases": [],
@@ -82371,9 +82371,9 @@
     {
       "sourceId": 41671,
       "name": "Rodelbaan",
-      "sourceRevision": 489302,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Rodelbaan%20(Duinrell)&oldid=489302",
+      "sourceRevision": 531895,
+      "sourceUpdatedAt": "2026-11-03T22:23:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Rodelbaan%20(Duinrell)&oldid=531895",
       "license": "CC-BY-SA-4.0",
       "id": "cp-41671",
       "aliases": [],
@@ -160426,17 +160426,20 @@
     {
       "sourceId": 8133,
       "name": "Max's Doggy Dog Coaster",
-      "sourceRevision": 493731,
-      "sourceUpdatedAt": "2026-10-21T15:35:38.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Max's%20Doggy%20Dog%20Coaster&oldid=493731",
+      "sourceRevision": 532124,
+      "sourceUpdatedAt": "2026-11-04T03:21:19.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Max's%20Doggy%20Dog%20Coaster&oldid=532124",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8133",
       "aliases": [],
       "legacyIds": [],
-      "park": "Niagara Amusement Park and Splash World",
-      "parkId": "cp-park-7644",
-      "sourceParkId": 7644,
-      "parkAliases": [],
+      "park": "Boomers! Los Angeles",
+      "parkId": "cp-park-55193",
+      "sourceParkId": 55193,
+      "parkAliases": [
+        "SpeedZone",
+        "Boomers! Los Angeles"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -160456,14 +160459,14 @@
       "sourceStatus": "defunct",
       "dates": {
         "opened": {
-          "edtf": "2013-05-25",
-          "earliest": "2013-05-25",
-          "latest": "2013-05-25"
+          "edtf": "2020",
+          "earliest": "2020-01-01",
+          "latest": "2020-12-31"
         },
         "closed": {
-          "edtf": "2019",
-          "earliest": "2019-01-01",
-          "latest": "2019-12-31"
+          "edtf": "2021",
+          "earliest": "2021-01-01",
+          "latest": "2021-12-31"
         }
       },
       "rcdb": "https://rcdb.com/1735.htm",
@@ -174530,12 +174533,14 @@
     {
       "sourceId": 8539,
       "name": "Cootie Coaster",
-      "sourceRevision": 487197,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cootie%20Coaster&oldid=487197",
+      "sourceRevision": 531915,
+      "sourceUpdatedAt": "2026-11-03T22:39:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cootie%20Coaster&oldid=531915",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8539",
-      "aliases": [],
+      "aliases": [
+        "Autosled"
+      ],
       "legacyIds": [],
       "park": "Galaxyland",
       "parkId": "cp-park-9742",
@@ -216834,9 +216839,9 @@
     {
       "sourceId": 55193,
       "name": "Boomers! Los Angeles",
-      "sourceRevision": 530210,
-      "sourceUpdatedAt": "2026-11-01T23:23:59.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Boomers!%20Los%20Angeles&oldid=530210",
+      "sourceRevision": 532107,
+      "sourceUpdatedAt": "2026-11-04T03:07:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Boomers!%20Los%20Angeles&oldid=532107",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-55193",
       "country": "United States",
@@ -250160,6 +250165,35 @@
         }
       },
       "aliases": []
+    },
+    {
+      "sourceId": 93144,
+      "name": "Boomers! Visalia",
+      "sourceRevision": 532089,
+      "sourceUpdatedAt": "2026-11-04T02:45:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Boomers!%20Visalia&oldid=532089",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93144",
+      "country": "United States",
+      "countryCode": "US",
+      "place": "Visalia",
+      "state": "California",
+      "coordinates": {
+        "lat": 36.325624,
+        "lon": -119.352837
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31"
+        }
+      },
+      "aliases": [
+        "Visalia Adventure Park",
+        "Boomers! Visalia"
+      ]
     },
     {
       "sourceId": 9355,
