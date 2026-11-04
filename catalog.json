@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-04T06:44:33.451Z",
+  "updatedAt": "2026-11-04T19:55:45.671Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -79035,12 +79035,14 @@
     {
       "sourceId": 39441,
       "name": "Kikkerachtbaan",
-      "sourceRevision": 531909,
-      "sourceUpdatedAt": "2026-11-03T22:33:52.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kikkerachtbaan&oldid=531909",
+      "sourceRevision": 533491,
+      "sourceUpdatedAt": "2026-11-04T19:49:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kikkerachtbaan&oldid=533491",
       "license": "CC-BY-SA-4.0",
       "id": "cp-39441",
-      "aliases": [],
+      "aliases": [
+        "Kikker-8-Baan"
+      ],
       "legacyIds": [],
       "park": "Duinrell",
       "parkId": "cp-park-16965",
@@ -81953,9 +81955,9 @@
     {
       "sourceId": 41256,
       "name": "Falcons Flight",
-      "sourceRevision": 508102,
-      "sourceUpdatedAt": "2026-10-27T19:31:24.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Falcons%20Flight%20(Six%20Flags%20Qiddiya%20City)&oldid=508102",
+      "sourceRevision": 533429,
+      "sourceUpdatedAt": "2026-11-04T18:45:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Falcons%20Flight%20(Six%20Flags%20Qiddiya%20City)&oldid=533429",
       "license": "CC-BY-SA-4.0",
       "id": "cp-41256",
       "aliases": [
@@ -150826,9 +150828,9 @@
     {
       "sourceId": 77217,
       "name": "Baby Pomme",
-      "sourceRevision": 487059,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Chenille%20Adventure&oldid=487059",
+      "sourceRevision": 533453,
+      "sourceUpdatedAt": "2026-11-04T19:06:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Chenille%20Adventure&oldid=533453",
       "license": "CC-BY-SA-4.0",
       "id": "cp-77217",
       "aliases": [],
@@ -204463,16 +204465,19 @@
     {
       "sourceId": 23931,
       "name": "Kentucky Shores Family Fun Center",
-      "sourceRevision": 531619,
-      "sourceUpdatedAt": "2026-11-03T19:05:43.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kentucky%20Shores%20Family%20Fun%20Center&oldid=531619",
+      "sourceRevision": 533412,
+      "sourceUpdatedAt": "2026-11-04T18:27:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kentucky%20Shores%20Family%20Fun%20Center&oldid=533412",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-23931",
       "country": "United States",
       "countryCode": "US",
       "place": "Gilbertsville",
       "state": "Kentucky",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 36.960079,
+        "lon": -88.301476
+      },
       "status": "Standing but not operating",
       "dates": {
         "opened": {
@@ -228279,6 +228284,32 @@
       ]
     },
     {
+      "sourceId": 65490,
+      "name": "Splashdown Poole",
+      "sourceRevision": 533287,
+      "sourceUpdatedAt": "2026-11-04T17:15:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Splashdown%20Poole&oldid=533287",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-65490",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Poole, Dorset, England",
+      "state": "",
+      "coordinates": {
+        "lat": 50.746264514987,
+        "lon": -1.9516277897586
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1990",
+          "earliest": "1990-01-01",
+          "latest": "1990-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
       "sourceId": 65498,
       "name": "Visulahti",
       "sourceRevision": 463890,
@@ -250194,6 +250225,141 @@
         "Visalia Adventure Park",
         "Boomers! Visalia"
       ]
+    },
+    {
+      "sourceId": 93154,
+      "name": "Lagoon Leisure Centre",
+      "sourceRevision": 532914,
+      "sourceUpdatedAt": "2026-11-04T13:15:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lagoon%20Leisure%20Centre&oldid=532914",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93154",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Paisley, Renfrewshire, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.845621799741,
+        "lon": -4.4152935931071
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1987-04-15",
+          "earliest": "1987-04-15",
+          "latest": "1987-04-15"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93161,
+      "name": "Leisuredrome",
+      "sourceRevision": 533189,
+      "sourceUpdatedAt": "2026-11-04T16:25:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Leisuredrome&oldid=533189",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93161",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bishopbriggs, East Dunbartonshire, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.916332,
+        "lon": -4.233556
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1973",
+          "earliest": "1973-01-01",
+          "latest": "1973-12-31"
+        }
+      },
+      "aliases": [
+        "Bishopbriggs Sports Centre",
+        "Leisuredrome"
+      ]
+    },
+    {
+      "sourceId": 93166,
+      "name": "ON-X Linwood",
+      "sourceRevision": 533220,
+      "sourceUpdatedAt": "2026-11-04T16:41:56.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=ON-X%20Linwood&oldid=533220",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93166",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Linwood, Renfrewshire, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.853162,
+        "lon": -4.503255
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93171,
+      "name": "Play Drome",
+      "sourceRevision": 533256,
+      "sourceUpdatedAt": "2026-11-04T16:59:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Play%20Drome&oldid=533256",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93171",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Clydebank, West Dunbartonshire, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.901738,
+        "lon": -4.40192
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31"
+        },
+        "closed": {
+          "edtf": "2017",
+          "earliest": "2017-01-01",
+          "latest": "2017-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93178,
+      "name": "The Time Capsule",
+      "sourceRevision": 533261,
+      "sourceUpdatedAt": "2026-11-04T17:01:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Time%20Capsule&oldid=533261",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93178",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Coatbridge, North Lanarkshire, Scotland",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1991-09-15",
+          "earliest": "1991-09-15",
+          "latest": "1991-09-15"
+        }
+      },
+      "aliases": []
     },
     {
       "sourceId": 9355,
