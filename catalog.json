@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-04T19:55:45.671Z",
+  "updatedAt": "2026-11-05T07:02:55.344Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -30088,12 +30088,14 @@
     {
       "sourceId": 15739,
       "name": "Roller Coaster",
-      "sourceRevision": 489344,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Upper%20Clements%20Park)&oldid=489344",
+      "sourceRevision": 533519,
+      "sourceUpdatedAt": "2026-11-04T20:24:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Upper%20Clements%20Park)&oldid=533519",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15739",
-      "aliases": [],
+      "aliases": [
+        "Tree Topper"
+      ],
       "legacyIds": [],
       "park": "Upper Clements Park",
       "parkId": "cp-park-27757",
@@ -64831,9 +64833,9 @@
     {
       "sourceId": 3215,
       "name": "Windjammer Surf Racers",
-      "sourceRevision": 490605,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Windjammer%20Surf%20Racers&oldid=490605",
+      "sourceRevision": 533721,
+      "sourceUpdatedAt": "2026-11-04T22:51:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Windjammer%20Surf%20Racers&oldid=533721",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3215",
       "aliases": [],
@@ -85919,15 +85921,15 @@
       "sourceId": 43786,
       "name": "Roaring Timbers",
       "sourceRevision": 489264,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
+      "sourceUpdatedAt": "2026-11-05T03:17:14.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Roaring%20Timbers&oldid=489264",
       "license": "CC-BY-SA-4.0",
       "id": "cp-43786",
       "aliases": [],
       "legacyIds": [],
       "park": "Sun World Hon Thom Nature Park",
-      "parkId": "",
-      "sourceParkId": null,
+      "parkId": "cp-park-93237",
+      "sourceParkId": 93237,
       "parkAliases": [],
       "country": "Vietnam",
       "countryCode": "VN",
@@ -90709,9 +90711,9 @@
     {
       "sourceId": 4548,
       "name": "Viper",
-      "sourceRevision": 490377,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Viper%20(Six%20Flags%20Great%20America)&oldid=490377",
+      "sourceRevision": 533533,
+      "sourceUpdatedAt": "2026-11-04T20:34:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Viper%20(Six%20Flags%20Great%20America)&oldid=533533",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4548",
       "aliases": [],
@@ -141041,9 +141043,9 @@
     {
       "sourceId": 72843,
       "name": "Unknown",
-      "sourceRevision": 490350,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Moku%20Sphere%20Shuttle%20Coaster)&oldid=490350",
+      "sourceRevision": 533764,
+      "sourceUpdatedAt": "2026-11-04T23:19:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Moku%20Sphere%20Shuttle%20Coaster)&oldid=533764",
       "license": "CC-BY-SA-4.0",
       "id": "cp-72843",
       "aliases": [],
@@ -141064,15 +141066,9 @@
         }
       ],
       "type": "Steel",
-      "status": "Under construction",
-      "sourceStatus": "under_construction",
-      "dates": {
-        "opening": {
-          "edtf": "2026",
-          "earliest": "2026-01-01",
-          "latest": "2026-12-31"
-        }
-      },
+      "status": "In storage",
+      "sourceStatus": "in_storage",
+      "dates": {},
       "rcdb": "https://rcdb.com/23598.htm",
       "pov": "",
       "categories": [
@@ -141832,9 +141828,9 @@
     {
       "sourceId": 73250,
       "name": "Unknown",
-      "sourceRevision": 493970,
-      "sourceUpdatedAt": "2026-10-22T13:23:08.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Prater%20Mack%20Rides%20Coaster)&oldid=493970",
+      "sourceRevision": 533674,
+      "sourceUpdatedAt": "2026-11-04T22:09:34.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Prater%20Mack%20Rides%20Coaster)&oldid=533674",
       "license": "CC-BY-SA-4.0",
       "id": "cp-73250",
       "aliases": [],
@@ -141846,7 +141842,10 @@
       "country": "Austria",
       "countryCode": "AT",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 48.215986,
+        "lon": 16.396438
+      },
       "manufacturer": "Mack Rides",
       "manufacturerRefs": [
         {
@@ -172775,9 +172774,9 @@
     {
       "sourceId": 8484,
       "name": "Gravity Coaster",
-      "sourceRevision": 488028,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Gravity%20Coaster&oldid=488028",
+      "sourceRevision": 533714,
+      "sourceUpdatedAt": "2026-11-04T22:47:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Gravity%20Coaster%20(Science%20City)&oldid=533714",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8484",
       "aliases": [],
@@ -190896,6 +190895,89 @@
       "trackCount": 1
     },
     {
+      "sourceId": 93205,
+      "name": "Tigers Den",
+      "sourceRevision": 533539,
+      "sourceUpdatedAt": "2026-11-04T20:39:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tigers%20Den&oldid=533539",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93205",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Adventureland",
+      "parkId": "cp-park-10058",
+      "sourceParkId": 10058,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Zamperla",
+      "manufacturerRefs": [
+        {
+          "id": 2399,
+          "name": "Zamperla"
+        }
+      ],
+      "type": "Steel",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
+      "dates": {
+        "opening": {
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 93232,
+      "name": "Gravity Coaster",
+      "sourceRevision": 533719,
+      "sourceUpdatedAt": "2026-11-04T22:51:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Gravity%20Coaster%20(Mega%20Science%20Center)&oldid=533719",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93232",
+      "aliases": [
+        "Loop & Cork",
+        "Bledek Coaster"
+      ],
+      "legacyIds": [],
+      "park": "Mega Science Center",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "TOGO",
+      "manufacturerRefs": [
+        {
+          "id": 1334,
+          "name": "TOGO"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "2026-08",
+          "earliest": "2026-08-01",
+          "latest": "2026-08-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
       "sourceId": 933,
       "name": "Mighty Canadian Minebuster",
       "sourceRevision": 488743,
@@ -198463,16 +198545,19 @@
     {
       "sourceId": 14084,
       "name": "Genting SkyWorlds",
-      "sourceRevision": 479313,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Genting%20SkyWorlds&oldid=479313",
+      "sourceRevision": 533558,
+      "sourceUpdatedAt": "2026-11-04T20:48:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Genting%20SkyWorlds&oldid=533558",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-14084",
       "country": "Malaysia",
       "countryCode": "MY",
       "place": "Genting Highlands, Pahang",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 3.4220117,
+        "lon": 101.7940231
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -206149,16 +206234,19 @@
     {
       "sourceId": 27757,
       "name": "Upper Clements Park",
-      "sourceRevision": 484486,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Upper%20Clements%20Park&oldid=484486",
+      "sourceRevision": 533504,
+      "sourceUpdatedAt": "2026-11-04T20:05:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Upper%20Clements%20Park&oldid=533504",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-27757",
       "country": "Canada",
       "countryCode": "CA",
       "place": "Upper Clements, Nova Scotia",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 44.706857,
+        "lon": -65.56453
+      },
       "status": "Defunct",
       "dates": {
         "opened": {
@@ -206548,9 +206636,9 @@
     {
       "sourceId": 29658,
       "name": "Moku Sphere",
-      "sourceRevision": 463154,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Moku%20Sphere&oldid=463154",
+      "sourceRevision": 533696,
+      "sourceUpdatedAt": "2026-11-04T22:29:20.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Moku%20Sphere&oldid=533696",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-29658",
       "country": "China",
@@ -206562,13 +206650,7 @@
         "lon": 106.6653963823
       },
       "status": "Under construction",
-      "dates": {
-        "opening": {
-          "edtf": "2026",
-          "earliest": "2026-01-01",
-          "latest": "2026-12-31"
-        }
-      },
+      "dates": {},
       "aliases": []
     },
     {
@@ -208217,16 +208299,19 @@
     {
       "sourceId": 36102,
       "name": "Gero Land",
-      "sourceRevision": 462530,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Gero%20Land&oldid=462530",
+      "sourceRevision": 533554,
+      "sourceUpdatedAt": "2026-11-04T20:46:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Gero%20Land&oldid=533554",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-36102",
       "country": "Egypt",
       "countryCode": "EG",
       "place": "Cairo, Cairo",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 30.1727608,
+        "lon": 31.477317
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -250357,6 +250442,32 @@
           "edtf": "1991-09-15",
           "earliest": "1991-09-15",
           "latest": "1991-09-15"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93237,
+      "name": "Sun World Hon Thom Nature Park",
+      "sourceRevision": 533758,
+      "sourceUpdatedAt": "2026-11-04T23:14:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sun%20World%20Hon%20Thom%20Nature%20Park&oldid=533758",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93237",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "place": "Phú Quốc, Kiên Giang",
+      "state": "",
+      "coordinates": {
+        "lat": 9.9518578828,
+        "lon": 104.0165573992
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2022-02-01",
+          "earliest": "2022-02-01",
+          "latest": "2022-02-01"
         }
       },
       "aliases": []
