@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-05T07:02:55.344Z",
+  "updatedAt": "2026-11-05T20:08:32.214Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -8251,9 +8251,9 @@
     {
       "sourceId": 11106,
       "name": "Valkyria",
-      "sourceRevision": 492626,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Valkyria&oldid=492626",
+      "sourceRevision": 534411,
+      "sourceUpdatedAt": "2026-11-05T09:17:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Valkyria&oldid=534411",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11106",
       "aliases": [],
@@ -12496,9 +12496,9 @@
     {
       "sourceId": 1158,
       "name": "Roller Coaster",
-      "sourceRevision": 489330,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Lagoon)&oldid=489330",
+      "sourceRevision": 534957,
+      "sourceUpdatedAt": "2026-11-05T19:55:09.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Lagoon)&oldid=534957",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1158",
       "aliases": [],
@@ -17908,9 +17908,9 @@
     {
       "sourceId": 12651,
       "name": "Avengers Assemble: Flight Force",
-      "sourceRevision": 486697,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Avengers%20Assemble%3A%20Flight%20Force&oldid=486697",
+      "sourceRevision": 534354,
+      "sourceUpdatedAt": "2026-11-05T08:35:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Avengers%20Assemble%3A%20Flight%20Force&oldid=534354",
       "license": "CC-BY-SA-4.0",
       "id": "cp-12651",
       "aliases": [],
@@ -39697,9 +39697,9 @@
     {
       "sourceId": 190,
       "name": "Magnum XL-200",
-      "sourceRevision": 488645,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Magnum%20XL-200&oldid=488645",
+      "sourceRevision": 534961,
+      "sourceUpdatedAt": "2026-11-05T20:03:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Magnum%20XL-200&oldid=534961",
       "license": "CC-BY-SA-4.0",
       "id": "cp-190",
       "aliases": [],
@@ -46918,9 +46918,9 @@
     {
       "sourceId": 2332,
       "name": "Titán",
-      "sourceRevision": 490126,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tit%C3%A1n&oldid=490126",
+      "sourceRevision": 534910,
+      "sourceUpdatedAt": "2026-11-05T17:41:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tit%C3%A1n&oldid=534910",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2332",
       "aliases": [
@@ -46938,21 +46938,26 @@
         "lat": 20.7241760274,
         "lon": -103.310702864
       },
-      "manufacturer": "Sansei Yusoki Co., Ltd",
+      "manufacturer": "Sansei Yusoki",
       "manufacturerRefs": [
         {
           "id": 60888,
-          "name": "Sansei Yusoki Co., Ltd"
+          "name": "Sansei Yusoki"
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "1994-08",
           "earliest": "1994-08-01",
           "latest": "1994-08-31"
+        },
+        "closed": {
+          "edtf": "2026-08-30",
+          "earliest": "2026-08-30",
+          "latest": "2026-08-30"
         }
       },
       "rcdb": "https://rcdb.com/713.htm",
@@ -59782,9 +59787,9 @@
     {
       "sourceId": 30174,
       "name": "Namazu",
-      "sourceRevision": 528129,
-      "sourceUpdatedAt": "2026-10-30T20:05:33.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Namazu&oldid=528129",
+      "sourceRevision": 487158,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Namazu&oldid=487158",
       "license": "CC-BY-SA-4.0",
       "id": "cp-30174",
       "aliases": [],
@@ -64363,9 +64368,9 @@
     {
       "sourceId": 3190,
       "name": "Bullet",
-      "sourceRevision": 493729,
-      "sourceUpdatedAt": "2026-10-21T15:35:38.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bullet%20(Selva%20M%C3%A1gica)&oldid=493729",
+      "sourceRevision": 534956,
+      "sourceUpdatedAt": "2026-11-05T19:46:39.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bullet%20(Selva%20M%C3%A1gica)&oldid=534956",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3190",
       "aliases": [
@@ -64392,8 +64397,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2013-12-20",
@@ -67226,9 +67231,9 @@
     {
       "sourceId": 3372,
       "name": "Balder",
-      "sourceRevision": 491917,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Balder&oldid=491917",
+      "sourceRevision": 534408,
+      "sourceUpdatedAt": "2026-11-05T09:17:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Balder&oldid=534408",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3372",
       "aliases": [],
@@ -81957,9 +81962,9 @@
     {
       "sourceId": 41256,
       "name": "Falcons Flight",
-      "sourceRevision": 533429,
-      "sourceUpdatedAt": "2026-11-04T18:45:00.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Falcons%20Flight%20(Six%20Flags%20Qiddiya%20City)&oldid=533429",
+      "sourceRevision": 534948,
+      "sourceUpdatedAt": "2026-11-05T19:36:54.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Falcons%20Flight%20(Six%20Flags%20Qiddiya%20City)&oldid=534948",
       "license": "CC-BY-SA-4.0",
       "id": "cp-41256",
       "aliases": [
@@ -81997,7 +82002,8 @@
       "rcdb": "https://rcdb.com/21315.htm",
       "pov": "https://www.youtube.com/watch?v=03vOM12OfNg",
       "categories": [
-        "Launched"
+        "Launched",
+        "Exa"
       ],
       "trackCount": 1
     },
@@ -89563,9 +89569,9 @@
     {
       "sourceId": 45043,
       "name": "Dragon's Apprentice",
-      "sourceRevision": 487546,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Dubai)&oldid=487546",
+      "sourceRevision": 534496,
+      "sourceUpdatedAt": "2026-11-05T10:39:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Dubai)&oldid=534496",
       "license": "CC-BY-SA-4.0",
       "id": "cp-45043",
       "aliases": [],
@@ -123601,13 +123607,15 @@
     },
     {
       "sourceId": 61338,
-      "name": "Mine-Cart Madness",
-      "sourceRevision": 488815,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mine-Cart%20Madness%20(Universal%20Epic%20Universe)&oldid=488815",
+      "name": "Mine Cart Madness",
+      "sourceRevision": 534943,
+      "sourceUpdatedAt": "2026-11-05T19:15:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Cart%20Madness%20(Universal%20Epic%20Universe)&oldid=534943",
       "license": "CC-BY-SA-4.0",
       "id": "cp-61338",
-      "aliases": [],
+      "aliases": [
+        "Mine-Cart Madness"
+      ],
       "legacyIds": [],
       "park": "Universal Epic Universe",
       "parkId": "cp-park-24177",
@@ -126438,9 +126446,9 @@
     {
       "sourceId": 6284,
       "name": "Half Pipe",
-      "sourceRevision": 493777,
-      "sourceUpdatedAt": "2026-10-21T15:40:38.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Half%20Pipe%20(S%C3%A4rk%C3%A4nniemi)&oldid=493777",
+      "sourceRevision": 534735,
+      "sourceUpdatedAt": "2026-11-05T14:03:31.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Half%20Pipe%20(S%C3%A4rk%C3%A4nniemi)&oldid=534735",
       "license": "CC-BY-SA-4.0",
       "id": "cp-6284",
       "aliases": [],
@@ -127902,9 +127910,9 @@
     {
       "sourceId": 63506,
       "name": "Jeepo Dino",
-      "sourceRevision": 488285,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jeepo%20Dino&oldid=488285",
+      "sourceRevision": 534491,
+      "sourceUpdatedAt": "2026-11-05T10:37:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jeepo%20Dino&oldid=534491",
       "license": "CC-BY-SA-4.0",
       "id": "cp-63506",
       "aliases": [],
@@ -132969,9 +132977,9 @@
     {
       "sourceId": 66812,
       "name": "Dragon's Apprentice",
-      "sourceRevision": 487558,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Japan)&oldid=487558",
+      "sourceRevision": 534497,
+      "sourceUpdatedAt": "2026-11-05T10:39:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Japan)&oldid=534497",
       "license": "CC-BY-SA-4.0",
       "id": "cp-66812",
       "aliases": [],
@@ -137682,9 +137690,9 @@
     {
       "sourceId": 70282,
       "name": "Papa Wutz' Achterbahn",
-      "sourceRevision": 489026,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Papa%20Wutz'%20Achterbahn&oldid=489026",
+      "sourceRevision": 534486,
+      "sourceUpdatedAt": "2026-11-05T10:35:27.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Papa%20Wutz'%20Achterbahn&oldid=534486",
       "license": "CC-BY-SA-4.0",
       "id": "cp-70282",
       "aliases": [],
@@ -156426,9 +156434,9 @@
     {
       "sourceId": 78963,
       "name": "Brazillian Buggies",
-      "sourceRevision": 486959,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Brazilian%20Buggies&oldid=486959",
+      "sourceRevision": 534489,
+      "sourceUpdatedAt": "2026-11-05T10:35:27.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Brazilian%20Buggies&oldid=534489",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78963",
       "aliases": [],
@@ -160299,13 +160307,15 @@
     },
     {
       "sourceId": 8117,
-      "name": "Lightning Run",
-      "sourceRevision": 493789,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Lightning%20Run&oldid=493789",
+      "name": "Stampede Run",
+      "sourceRevision": 534815,
+      "sourceUpdatedAt": "2026-11-05T15:59:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Stampede%20Run&oldid=534815",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8117",
-      "aliases": [],
+      "aliases": [
+        "Lightning Run"
+      ],
       "legacyIds": [],
       "park": "Kentucky Kingdom",
       "parkId": "cp-park-3115",
@@ -190978,6 +190988,76 @@
       "trackCount": 1
     },
     {
+      "sourceId": 93247,
+      "name": "Midnight Showdown",
+      "sourceRevision": 534808,
+      "sourceUpdatedAt": "2026-11-05T15:42:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Midnight%20Showdown&oldid=534808",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93247",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Kentucky Kingdom",
+      "parkId": "cp-park-3115",
+      "sourceParkId": 3115,
+      "parkAliases": [
+        "Kentucky Kingdom",
+        "Six Flags Kentucky Kingdom"
+      ],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "The Gravity Group, LLC",
+      "manufacturerRefs": [
+        {
+          "id": 3551,
+          "name": "The Gravity Group, LLC"
+        }
+      ],
+      "type": "Wooden",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
+      "dates": {},
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Enclosed"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 93262,
+      "name": "Unknown",
+      "sourceRevision": 534935,
+      "sourceUpdatedAt": "2026-11-05T18:28:23.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Universal%20Epic%20Universe%20Dark%20Universe%20indoor%20coaster)&oldid=534935",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93262",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Universal Epic Universe",
+      "parkId": "cp-park-24177",
+      "sourceParkId": 24177,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "",
+      "manufacturerRefs": [],
+      "type": "Other",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
+      "dates": {},
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Indoor"
+      ],
+      "trackCount": 1
+    },
+    {
       "sourceId": 933,
       "name": "Mighty Canadian Minebuster",
       "sourceRevision": 488743,
@@ -192148,9 +192228,9 @@
     {
       "sourceId": 9576,
       "name": "Stampbanan",
-      "sourceRevision": 491236,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Stampbanan&oldid=491236",
+      "sourceRevision": 534316,
+      "sourceUpdatedAt": "2026-11-05T08:10:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Stampbanan&oldid=534316",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9576",
       "aliases": [],
@@ -204752,9 +204832,9 @@
     {
       "sourceId": 24177,
       "name": "Universal Epic Universe",
-      "sourceRevision": 464517,
-      "sourceUpdatedAt": "2026-10-13T16:37:25.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Universal%20Epic%20Universe&oldid=464517",
+      "sourceRevision": 534916,
+      "sourceUpdatedAt": "2026-11-05T17:49:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Universal%20Epic%20Universe&oldid=534916",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-24177",
       "country": "United States",
@@ -235024,9 +235104,9 @@
     {
       "sourceId": 72080,
       "name": "Skånes Djurpark",
-      "sourceRevision": 463630,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sk%C3%A5nes%20Djurpark&oldid=463630",
+      "sourceRevision": 534912,
+      "sourceUpdatedAt": "2026-11-05T17:45:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sk%C3%A5nes%20Djurpark&oldid=534912",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-72080",
       "country": "Sweden",
@@ -235034,8 +235114,8 @@
       "place": "Höör, Skåne",
       "state": "",
       "coordinates": {
-        "lat": 55.953611,
-        "lon": 13.535556
+        "lat": 55.963105841389,
+        "lon": 13.536634468245
       },
       "status": "Operating",
       "dates": {
