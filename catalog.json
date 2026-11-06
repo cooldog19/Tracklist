@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-06T07:03:40.335Z",
+  "updatedAt": "2026-11-06T19:34:24.439Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -52916,9 +52916,9 @@
     {
       "sourceId": 25925,
       "name": "Runaway Train",
-      "sourceRevision": 489402,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Runaway%20Train%20(Fun%20Center%20at%20Paige's%20Crossing)&oldid=489402",
+      "sourceRevision": 535551,
+      "sourceUpdatedAt": "2026-11-06T18:07:08.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Runaway%20Train%20(Fun%20Center%20at%20Paige's%20Crossing)&oldid=535551",
       "license": "CC-BY-SA-4.0",
       "id": "cp-25925",
       "aliases": [],
@@ -52942,13 +52942,18 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2007-06-01",
           "earliest": "2007-06-01",
           "latest": "2007-06-01"
+        },
+        "closed": {
+          "edtf": "2021",
+          "earliest": "2021-01-01",
+          "latest": "2021-12-31"
         }
       },
       "rcdb": "https://rcdb.com/3620.htm",
@@ -230259,14 +230264,14 @@
     {
       "sourceId": 66958,
       "name": "Inverness Leisure",
-      "sourceRevision": 464075,
-      "sourceUpdatedAt": "2026-10-16T16:35:54.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Inverness%20Leisure&oldid=464075",
+      "sourceRevision": 535574,
+      "sourceUpdatedAt": "2026-11-06T18:37:38.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Inverness%20Leisure&oldid=535574",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-66958",
       "country": "United Kingdom",
       "countryCode": "GB",
-      "place": "Inverness, Scotland",
+      "place": "Inverness, Highland, Scotland",
       "state": "",
       "coordinates": {
         "lat": 57.464107465136,
@@ -230275,9 +230280,9 @@
       "status": "Operating",
       "dates": {
         "opened": {
-          "edtf": "1997",
-          "earliest": "1997-01-01",
-          "latest": "1997-12-31"
+          "edtf": "1997-03-27",
+          "earliest": "1997-03-27",
+          "latest": "1997-03-27"
         }
       },
       "aliases": [
@@ -250717,6 +250722,100 @@
           "edtf": "1993-07-30",
           "earliest": "1993-07-30",
           "latest": "1993-07-30"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93317,
+      "name": "Riverside Swim and Health Centre",
+      "sourceRevision": 535558,
+      "sourceUpdatedAt": "2026-11-06T18:22:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Riverside%20Swim%20and%20Health%20Centre&oldid=535558",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93317",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Dunoon, Argyll and Bute, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.949839315526,
+        "lon": -4.9252899471407
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1968",
+          "earliest": "1968-01-01",
+          "latest": "1968-12-31"
+        }
+      },
+      "aliases": [
+        "Dunoon Swimming Pool",
+        "Riverside Swim and Health Centre"
+      ]
+    },
+    {
+      "sourceId": 93322,
+      "name": "Xcite Livingston",
+      "sourceRevision": 535568,
+      "sourceUpdatedAt": "2026-11-06T18:33:23.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Xcite%20Livingston&oldid=535568",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93322",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Livingston, West Lothian, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.884529,
+        "lon": -3.519663
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31"
+        },
+        "closed": {
+          "edtf": "2023",
+          "earliest": "2023-01-01",
+          "latest": "2023-12-31"
+        }
+      },
+      "aliases": [
+        "Bubbles Leisure Pool",
+        "Xcite Livingston"
+      ]
+    },
+    {
+      "sourceId": 93327,
+      "name": "Leith Waterworld",
+      "sourceRevision": 535581,
+      "sourceUpdatedAt": "2026-11-06T18:49:09.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Leith%20Waterworld&oldid=535581",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93327",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Edinburgh, City of Edinburgh, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.969836620766,
+        "lon": -3.1715241224083
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1992-05-17",
+          "earliest": "1992-05-17",
+          "latest": "1992-05-17"
+        },
+        "closed": {
+          "edtf": "2012-01-08",
+          "earliest": "2012-01-08",
+          "latest": "2012-01-08"
         }
       },
       "aliases": []
