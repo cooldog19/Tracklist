@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-05T20:08:32.214Z",
+  "updatedAt": "2026-11-06T07:03:40.335Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -1236,9 +1236,9 @@
     {
       "sourceId": 10131,
       "name": "Cú Chulainn Coaster",
-      "sourceRevision": 487339,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=C%C3%BA%20Chulainn%20Coaster&oldid=487339",
+      "sourceRevision": 535076,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=C%C3%BA%20Chulainn%20Coaster&oldid=535076",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10131",
       "aliases": [],
@@ -3952,9 +3952,9 @@
     {
       "sourceId": 10372,
       "name": "Jungle Trailblazer",
-      "sourceRevision": 488320,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Shandong)&oldid=488320",
+      "sourceRevision": 535085,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Shandong)&oldid=535085",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10372",
       "aliases": [],
@@ -5434,9 +5434,9 @@
     {
       "sourceId": 10505,
       "name": "Timber",
-      "sourceRevision": 490086,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Timber&oldid=490086",
+      "sourceRevision": 535101,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Timber&oldid=535101",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10505",
       "aliases": [],
@@ -9953,9 +9953,9 @@
     {
       "sourceId": 11269,
       "name": "Tonnerre 2 Zeus",
-      "sourceRevision": 482823,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tonnerre%202%20Zeus&oldid=482823",
+      "sourceRevision": 535103,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tonnerre%202%20Zeus&oldid=535103",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11269",
       "aliases": [],
@@ -10131,9 +10131,9 @@
     {
       "sourceId": 11306,
       "name": "Mine Blower",
-      "sourceRevision": 480315,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Blower&oldid=480315",
+      "sourceRevision": 535091,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Blower&oldid=535091",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11306",
       "aliases": [],
@@ -10227,9 +10227,9 @@
     {
       "sourceId": 11311,
       "name": "Twister",
-      "sourceRevision": 482962,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Twister%20(Gr%C3%B6na%20Lund)&oldid=482962",
+      "sourceRevision": 535104,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Twister%20(Gr%C3%B6na%20Lund)&oldid=535104",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11311",
       "aliases": [],
@@ -11952,9 +11952,9 @@
     {
       "sourceId": 1153,
       "name": "Colossus The Fire Dragon",
-      "sourceRevision": 487133,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Colossus%20The%20Fire%20Dragon&oldid=487133",
+      "sourceRevision": 534991,
+      "sourceUpdatedAt": "2026-11-05T20:59:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Colossus%20The%20Fire%20Dragon&oldid=534991",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1153",
       "aliases": [
@@ -15897,9 +15897,9 @@
     {
       "sourceId": 12157,
       "name": "Oscar's Wacky Taxi",
-      "sourceRevision": 485466,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Oscar's%20Wacky%20Taxi&oldid=485466",
+      "sourceRevision": 535092,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Oscar's%20Wacky%20Taxi&oldid=535092",
       "license": "CC-BY-SA-4.0",
       "id": "cp-12157",
       "aliases": [],
@@ -19969,9 +19969,9 @@
     {
       "sourceId": 13472,
       "name": "Boardwalk Bullet",
-      "sourceRevision": 486853,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Boardwalk%20Bullet&oldid=486853",
+      "sourceRevision": 535075,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Boardwalk%20Bullet&oldid=535075",
       "license": "CC-BY-SA-4.0",
       "id": "cp-13472",
       "aliases": [],
@@ -20012,9 +20012,9 @@
     {
       "sourceId": 13479,
       "name": "Wood Express",
-      "sourceRevision": 485833,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wood%20Express&oldid=485833",
+      "sourceRevision": 535106,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wood%20Express&oldid=535106",
       "license": "CC-BY-SA-4.0",
       "id": "cp-13479",
       "aliases": [],
@@ -21548,9 +21548,9 @@
     {
       "sourceId": 13862,
       "name": "Kentucky Flyer",
-      "sourceRevision": 485407,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kentucky%20Flyer&oldid=485407",
+      "sourceRevision": 535088,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kentucky%20Flyer&oldid=535088",
       "license": "CC-BY-SA-4.0",
       "id": "cp-13862",
       "aliases": [],
@@ -22376,6 +22376,7 @@
       "parkAliases": [
         "Geauga Lake",
         "Geauga Lake - An American Classic",
+        "Geauga Lake - The Great Escape",
         "Six Flags Ohio",
         "Six Flags Worlds of Adventure",
         "Geauga Lake & Wildwater Kingdom"
@@ -23319,9 +23320,9 @@
     {
       "sourceId": 14499,
       "name": "Leviathan",
-      "sourceRevision": 488519,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Leviathan%20(Sea%20World)&oldid=488519",
+      "sourceRevision": 535089,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Leviathan%20(Sea%20World)&oldid=535089",
       "license": "CC-BY-SA-4.0",
       "id": "cp-14499",
       "aliases": [],
@@ -24688,6 +24689,7 @@
       "parkAliases": [
         "Geauga Lake",
         "Geauga Lake - An American Classic",
+        "Geauga Lake - The Great Escape",
         "Six Flags Ohio",
         "Six Flags Worlds of Adventure",
         "Geauga Lake & Wildwater Kingdom"
@@ -24742,6 +24744,7 @@
       "parkAliases": [
         "Geauga Lake",
         "Geauga Lake - An American Classic",
+        "Geauga Lake - The Great Escape",
         "Six Flags Ohio",
         "Six Flags Worlds of Adventure",
         "Geauga Lake & Wildwater Kingdom"
@@ -24909,9 +24912,9 @@
     {
       "sourceId": 15030,
       "name": "Zippin Pippin",
-      "sourceRevision": 490664,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Zippin%20Pippin%20(Bay%20Beach%20Amusement%20Park)&oldid=490664",
+      "sourceRevision": 535112,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Zippin%20Pippin%20(Bay%20Beach%20Amusement%20Park)&oldid=535112",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15030",
       "aliases": [],
@@ -26446,9 +26449,9 @@
     {
       "sourceId": 15201,
       "name": "Jungle Trailblazer",
-      "sourceRevision": 488326,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Fantawild%20Dreamland%20Shifeng)&oldid=488326",
+      "sourceRevision": 535082,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Fantawild%20Dreamland%20Shifeng)&oldid=535082",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15201",
       "aliases": [],
@@ -27360,9 +27363,9 @@
     {
       "sourceId": 15286,
       "name": "Wooden Coaster - Fireball",
-      "sourceRevision": 490625,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wooden%20Coaster%20-%20Fireball&oldid=490625",
+      "sourceRevision": 535107,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wooden%20Coaster%20-%20Fireball&oldid=535107",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15286",
       "aliases": [],
@@ -29462,9 +29465,9 @@
     {
       "sourceId": 15632,
       "name": "Fjord Flying Dragon",
-      "sourceRevision": 487731,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fjord%20Flying%20Dragon&oldid=487731",
+      "sourceRevision": 535079,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fjord%20Flying%20Dragon&oldid=535079",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15632",
       "aliases": [],
@@ -29727,9 +29730,9 @@
     {
       "sourceId": 15645,
       "name": "Jungle Trailblazer",
-      "sourceRevision": 488327,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Zhejiang)&oldid=488327",
+      "sourceRevision": 535087,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Zhejiang)&oldid=535087",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15645",
       "aliases": [],
@@ -38944,9 +38947,9 @@
     {
       "sourceId": 183,
       "name": "Blue Streak",
-      "sourceRevision": 491669,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Blue%20Streak%20(Cedar%20Point)&oldid=491669",
+      "sourceRevision": 535010,
+      "sourceUpdatedAt": "2026-11-05T21:14:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Blue%20Streak%20(Cedar%20Point)&oldid=535010",
       "license": "CC-BY-SA-4.0",
       "id": "cp-183",
       "aliases": [],
@@ -40353,9 +40356,9 @@
     {
       "sourceId": 197,
       "name": "The Voyage",
-      "sourceRevision": 484019,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Voyage&oldid=484019",
+      "sourceRevision": 535100,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Voyage&oldid=535100",
       "license": "CC-BY-SA-4.0",
       "id": "cp-197",
       "aliases": [],
@@ -40794,9 +40797,9 @@
     {
       "sourceId": 200,
       "name": "Ravine Flyer II",
-      "sourceRevision": 485490,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Ravine%20Flyer%20II&oldid=485490",
+      "sourceRevision": 535094,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ravine%20Flyer%20II&oldid=535094",
       "license": "CC-BY-SA-4.0",
       "id": "cp-200",
       "aliases": [],
@@ -76855,9 +76858,9 @@
     {
       "sourceId": 38809,
       "name": "Wooden Dragons Roller Coaster",
-      "sourceRevision": 490630,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wooden%20Dragons%20Roller%20Coaster&oldid=490630",
+      "sourceRevision": 535108,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wooden%20Dragons%20Roller%20Coaster&oldid=535108",
       "license": "CC-BY-SA-4.0",
       "id": "cp-38809",
       "aliases": [],
@@ -104868,9 +104871,9 @@
     {
       "sourceId": 5066,
       "name": "Dauling Dragon",
-      "sourceRevision": 487332,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dauling%20Dragon&oldid=487332",
+      "sourceRevision": 535077,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dauling%20Dragon&oldid=535077",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5066",
       "aliases": [],
@@ -109722,9 +109725,9 @@
     {
       "sourceId": 52279,
       "name": "The Bobcat",
-      "sourceRevision": 490010,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Bobcat&oldid=490010",
+      "sourceRevision": 535099,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Bobcat&oldid=535099",
       "license": "CC-BY-SA-4.0",
       "id": "cp-52279",
       "aliases": [],
@@ -111467,9 +111470,9 @@
     {
       "sourceId": 5302,
       "name": "Wooden Warrior",
-      "sourceRevision": 490609,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wooden%20Warrior&oldid=490609",
+      "sourceRevision": 535111,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wooden%20Warrior&oldid=535111",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5302",
       "aliases": [],
@@ -112375,6 +112378,7 @@
       "parkAliases": [
         "Geauga Lake",
         "Geauga Lake - An American Classic",
+        "Geauga Lake - The Great Escape",
         "Six Flags Ohio",
         "Six Flags Worlds of Adventure",
         "Geauga Lake & Wildwater Kingdom"
@@ -140792,9 +140796,9 @@
     {
       "sourceId": 72790,
       "name": "Durango",
-      "sourceRevision": 487610,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Durango&oldid=487610",
+      "sourceRevision": 535078,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Durango&oldid=535078",
       "license": "CC-BY-SA-4.0",
       "id": "cp-72790",
       "aliases": [],
@@ -146272,9 +146276,9 @@
     {
       "sourceId": 75420,
       "name": "Jungle Trailblazer",
-      "sourceRevision": 488345,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Fantawild%20Asian%20Legend)&oldid=488345",
+      "sourceRevision": 535081,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Fantawild%20Asian%20Legend)&oldid=535081",
       "license": "CC-BY-SA-4.0",
       "id": "cp-75420",
       "aliases": [],
@@ -146315,9 +146319,9 @@
     {
       "sourceId": 75422,
       "name": "Jungle Trailblazer",
-      "sourceRevision": 488346,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Xiamen)&oldid=488346",
+      "sourceRevision": 535086,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Xiamen)&oldid=535086",
       "license": "CC-BY-SA-4.0",
       "id": "cp-75422",
       "aliases": [],
@@ -151484,9 +151488,9 @@
     {
       "sourceId": 77478,
       "name": "Jungle Trailblazer",
-      "sourceRevision": 488348,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Fantawild%20Dreamland%20Zhengzhou)&oldid=488348",
+      "sourceRevision": 535083,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Fantawild%20Dreamland%20Zhengzhou)&oldid=535083",
       "license": "CC-BY-SA-4.0",
       "id": "cp-77478",
       "aliases": [],
@@ -160399,9 +160403,9 @@
     {
       "sourceId": 8125,
       "name": "Roar-O-Saurus",
-      "sourceRevision": 489248,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Roar-O-Saurus&oldid=489248",
+      "sourceRevision": 535095,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Roar-O-Saurus&oldid=535095",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8125",
       "aliases": [],
@@ -162502,9 +162506,9 @@
     {
       "sourceId": 82158,
       "name": "Jungle Trailblazer",
-      "sourceRevision": 488349,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Anhui)&oldid=488349",
+      "sourceRevision": 535084,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jungle%20Trailblazer%20(Oriental%20Heritage%20Anhui)&oldid=535084",
       "license": "CC-BY-SA-4.0",
       "id": "cp-82158",
       "aliases": [],
@@ -165731,9 +165735,9 @@
     {
       "sourceId": 83276,
       "name": "Forbidden Lair",
-      "sourceRevision": 487863,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Forbidden%20Lair&oldid=487863",
+      "sourceRevision": 535056,
+      "sourceUpdatedAt": "2026-11-05T21:49:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Forbidden%20Lair&oldid=535056",
       "license": "CC-BY-SA-4.0",
       "id": "cp-83276",
       "aliases": [],
@@ -183824,9 +183828,9 @@
     {
       "sourceId": 9022,
       "name": "Black Widow",
-      "sourceRevision": 493425,
-      "sourceUpdatedAt": "2026-10-20T18:32:56.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Black%20Widow%20(Riverside%20Park)&oldid=493425",
+      "sourceRevision": 535282,
+      "sourceUpdatedAt": "2026-11-06T04:40:54.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Black%20Widow%20(Riverside%20Park)&oldid=535282",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9022",
       "aliases": [
@@ -190990,9 +190994,9 @@
     {
       "sourceId": 93247,
       "name": "Midnight Showdown",
-      "sourceRevision": 534808,
-      "sourceUpdatedAt": "2026-11-05T15:42:48.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Midnight%20Showdown&oldid=534808",
+      "sourceRevision": 535090,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Midnight%20Showdown&oldid=535090",
       "license": "CC-BY-SA-4.0",
       "id": "cp-93247",
       "aliases": [],
@@ -191008,11 +191012,11 @@
       "countryCode": "US",
       "locationKind": "park",
       "coordinates": null,
-      "manufacturer": "The Gravity Group, LLC",
+      "manufacturer": "The Gravity Group",
       "manufacturerRefs": [
         {
           "id": 3551,
-          "name": "The Gravity Group, LLC"
+          "name": "The Gravity Group"
         }
       ],
       "type": "Wooden",
@@ -195360,9 +195364,9 @@
     {
       "sourceId": 9960,
       "name": "Switchback",
-      "sourceRevision": 490919,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Switchback%20(ZDT's%20Amusement%20Park)&oldid=490919",
+      "sourceRevision": 535097,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Switchback%20(ZDT's%20Amusement%20Park)&oldid=535097",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9960",
       "aliases": [],
@@ -195405,9 +195409,9 @@
     {
       "sourceId": 9961,
       "name": "Time Travel",
-      "sourceRevision": 490085,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Time%20Travel&oldid=490085",
+      "sourceRevision": 535102,
+      "sourceUpdatedAt": "2026-11-05T22:07:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Time%20Travel&oldid=535102",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9961",
       "aliases": [],
@@ -195443,9 +195447,9 @@
     {
       "sourceId": 9962,
       "name": "Hades 360",
-      "sourceRevision": 485337,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Hades%20360&oldid=485337",
+      "sourceRevision": 535080,
+      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hades%20360&oldid=535080",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9962",
       "aliases": [],
@@ -207387,9 +207391,9 @@
     {
       "sourceId": 3275,
       "name": "Geauga Lake & Wildwater Kingdom",
-      "sourceRevision": 464269,
-      "sourceUpdatedAt": "2026-10-16T16:35:54.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Geauga%20Lake%20%26%20Wildwater%20Kingdom&oldid=464269",
+      "sourceRevision": 535279,
+      "sourceUpdatedAt": "2026-11-06T04:40:54.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Geauga%20Lake%20%26%20Wildwater%20Kingdom&oldid=535279",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-3275",
       "country": "United States",
@@ -207416,6 +207420,7 @@
       "aliases": [
         "Geauga Lake",
         "Geauga Lake - An American Classic",
+        "Geauga Lake - The Great Escape",
         "Six Flags Ohio",
         "Six Flags Worlds of Adventure",
         "Geauga Lake & Wildwater Kingdom"
@@ -225783,6 +225788,34 @@
           "edtf": "1983",
           "earliest": "1983-01-01",
           "latest": "1983-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 63541,
+      "name": "Beach Leisure Centre",
+      "sourceRevision": 534987,
+      "sourceUpdatedAt": "2026-11-05T20:56:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Beach%20Leisure%20Centre&oldid=534987",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-63541",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Aberdeen, Aberdeen City, Scotland",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1989",
+          "earliest": "1989-01-01",
+          "latest": "1989-12-31"
+        },
+        "closed": {
+          "edtf": "2023-04-16",
+          "earliest": "2023-04-16",
+          "latest": "2023-04-16"
         }
       },
       "aliases": []
@@ -250548,6 +250581,142 @@
           "edtf": "2022-02-01",
           "earliest": "2022-02-01",
           "latest": "2022-02-01"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93277,
+      "name": "Atlantis Leisure",
+      "sourceRevision": 534969,
+      "sourceUpdatedAt": "2026-11-05T20:40:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Atlantis%20Leisure&oldid=534969",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93277",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Oban, Argyll and Bute, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 56.419094,
+        "lon": -5.469663
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1992]",
+          "earliest": null,
+          "latest": "1992-12-31"
+        }
+      },
+      "aliases": [
+        "Oban swimming pool",
+        "Atlantis Leisure"
+      ]
+    },
+    {
+      "sourceId": 93285,
+      "name": "Clickimin Leisure Complex",
+      "sourceRevision": 535015,
+      "sourceUpdatedAt": "2026-11-05T21:18:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Clickimin%20Leisure%20Complex&oldid=535015",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93285",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Lerwick, Shetland, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 60.153593043357,
+        "lon": -1.1614739946889
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1985-03-30",
+          "earliest": "1985-03-30",
+          "latest": "1985-03-30"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93288,
+      "name": "DG1 Leisure Complex",
+      "sourceRevision": 535020,
+      "sourceUpdatedAt": "2026-11-05T21:23:56.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=DG1%20Leisure%20Complex&oldid=535020",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93288",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Dumfries, Dumfries and Galloway, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.069146217364,
+        "lon": -3.6046885568412
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2008-05-28",
+          "earliest": "2008-05-28",
+          "latest": "2008-05-28"
+        }
+      },
+      "aliases": [
+        "DG One",
+        "DG1 Leisure Complex"
+      ]
+    },
+    {
+      "sourceId": 93298,
+      "name": "Invergordon Leisure Centre",
+      "sourceRevision": 535051,
+      "sourceUpdatedAt": "2026-11-05T21:44:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Invergordon%20Leisure%20Centre&oldid=535051",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93298",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Invergordon, Highland, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 57.693654,
+        "lon": -4.165245
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1983",
+          "earliest": "1983-01-01",
+          "latest": "1983-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93300,
+      "name": "Moray Leisure Centre",
+      "sourceRevision": 535060,
+      "sourceUpdatedAt": "2026-11-05T21:54:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Moray%20Leisure%20Centre&oldid=535060",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93300",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Elgin, Moray, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 57.651516,
+        "lon": -3.323906
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1993-07-30",
+          "earliest": "1993-07-30",
+          "latest": "1993-07-30"
         }
       },
       "aliases": []
