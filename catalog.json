@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-07T06:16:23.109Z",
+  "updatedAt": "2026-11-07T13:20:05.220Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -51502,9 +51502,9 @@
     {
       "sourceId": 25033,
       "name": "Unknown",
-      "sourceRevision": 530573,
-      "sourceUpdatedAt": "2026-11-02T13:17:30.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Vekoma%20Tsunami&oldid=530573",
+      "sourceRevision": 536777,
+      "sourceUpdatedAt": "2026-11-07T13:08:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20Vekoma%20Whirlwind%20(Lightwater%20Valley)&oldid=536777",
       "license": "CC-BY-SA-4.0",
       "id": "cp-25033",
       "aliases": [
@@ -82922,9 +82922,9 @@
     {
       "sourceId": 4183,
       "name": "Chirp Chaser",
-      "sourceRevision": 536074,
-      "sourceUpdatedAt": "2026-11-07T02:19:18.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Chirp%20Chaser&oldid=536074",
+      "sourceRevision": 536652,
+      "sourceUpdatedAt": "2026-11-07T11:15:04.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Chirp%20Chaser&oldid=536652",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4183",
       "aliases": [
@@ -82954,18 +82954,13 @@
         }
       ],
       "type": "Steel",
-      "status": "Under refurbishment",
-      "sourceStatus": "under_refurbishment",
+      "status": "Operating",
+      "sourceStatus": "operating",
       "dates": {
         "opened": {
           "edtf": "1998",
           "earliest": "1998-01-01",
           "latest": "1998-12-31"
-        },
-        "opening": {
-          "edtf": "2027",
-          "earliest": "2027-01-01",
-          "latest": "2027-12-31"
         }
       },
       "rcdb": "https://rcdb.com/488.htm",
@@ -105154,9 +105149,9 @@
     {
       "sourceId": 50686,
       "name": "Montanha da Leba",
-      "sourceRevision": 488860,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Montanha%20da%20Leba&oldid=488860",
+      "sourceRevision": 536645,
+      "sourceUpdatedAt": "2026-11-07T11:11:19.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Montanha%20da%20Leba&oldid=536645",
       "license": "CC-BY-SA-4.0",
       "id": "cp-50686",
       "aliases": [],
@@ -105180,13 +105175,18 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2015-07-22",
           "earliest": "2015-07-22",
           "latest": "2015-07-22"
+        },
+        "closed": {
+          "edtf": "2019",
+          "earliest": "2019-01-01",
+          "latest": "2019-12-31"
         }
       },
       "rcdb": "https://rcdb.com/12314.htm",
@@ -105197,9 +105197,9 @@
     {
       "sourceId": 50689,
       "name": "Montanha do Moco",
-      "sourceRevision": 488861,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Montanha%20do%20Moco&oldid=488861",
+      "sourceRevision": 536647,
+      "sourceUpdatedAt": "2026-11-07T11:11:19.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Montanha%20do%20Moco&oldid=536647",
       "license": "CC-BY-SA-4.0",
       "id": "cp-50689",
       "aliases": [],
@@ -105218,13 +105218,18 @@
       "manufacturer": "",
       "manufacturerRefs": [],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2015-07-22",
           "earliest": "2015-07-22",
           "latest": "2015-07-22"
+        },
+        "closed": {
+          "edtf": "2019",
+          "earliest": "2019-01-01",
+          "latest": "2019-12-31"
         }
       },
       "rcdb": "https://rcdb.com/13853.htm",
@@ -137083,14 +137088,14 @@
     },
     {
       "sourceId": 69744,
-      "name": "Bluey the Ride: Here Come the Grannies",
-      "sourceRevision": 535625,
-      "sourceUpdatedAt": "2026-11-06T20:35:11.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bluey%20the%20Ride%3A%20Here%20Come%20the%20Grannies&oldid=535625",
+      "name": "Bluey the Ride: Here Come the Grannies!",
+      "sourceRevision": 486875,
+      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bluey%20the%20Ride%3A%20Here%20Come%20the%20Grannies!&oldid=486875",
       "license": "CC-BY-SA-4.0",
       "id": "cp-69744",
       "aliases": [
-        "Bluey the Ride: Here Come the Grannies!"
+        "Bluey the Ride: Here Come the Grannies"
       ],
       "legacyIds": [],
       "park": "Alton Towers",
@@ -165790,6 +165795,49 @@
       "trackCount": 1
     },
     {
+      "sourceId": 83251,
+      "name": "Smerfowa Kolejka",
+      "sourceRevision": 536516,
+      "sourceUpdatedAt": "2026-11-07T09:00:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Smerfowa%20Kolejka&oldid=536516",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-83251",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Majaland Gdańsk",
+      "parkId": "cp-park-73566",
+      "sourceParkId": 73566,
+      "parkAliases": [],
+      "country": "Poland",
+      "countryCode": "PL",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Zierer",
+      "manufacturerRefs": [
+        {
+          "id": 2396,
+          "name": "Zierer"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "2024-06-01",
+          "earliest": "2024-06-01",
+          "latest": "2024-06-01"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie",
+        "indoor"
+      ],
+      "trackCount": 1
+    },
+    {
       "sourceId": 83276,
       "name": "Forbidden Lair",
       "sourceRevision": 535056,
@@ -167277,46 +167325,6 @@
       "categories": [
         "Spinning"
       ],
-      "trackCount": 1
-    },
-    {
-      "sourceId": 83690,
-      "name": "Zum Rittersturz",
-      "sourceRevision": 490710,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Zum%20Rittersturz&oldid=490710",
-      "license": "CC-BY-SA-4.0",
-      "id": "cp-83690",
-      "aliases": [],
-      "legacyIds": [],
-      "park": "Wild- und Freizeitpark Klotten/Cochem",
-      "parkId": "cp-park-83689",
-      "sourceParkId": 83689,
-      "parkAliases": [],
-      "country": "Germany",
-      "countryCode": "DE",
-      "locationKind": "park",
-      "coordinates": null,
-      "manufacturer": "ABC Rides",
-      "manufacturerRefs": [
-        {
-          "id": 49589,
-          "name": "ABC Rides"
-        }
-      ],
-      "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
-      "dates": {
-        "opened": {
-          "edtf": "2012",
-          "earliest": "2012-01-01",
-          "latest": "2012-12-31"
-        }
-      },
-      "rcdb": "",
-      "pov": "https://www.youtube.com/watch?v=LfSh3h4QY9Q",
-      "categories": [],
       "trackCount": 1
     },
     {
@@ -191051,9 +191059,9 @@
     {
       "sourceId": 93247,
       "name": "Midnight Showdown",
-      "sourceRevision": 535090,
-      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Midnight%20Showdown&oldid=535090",
+      "sourceRevision": 536768,
+      "sourceUpdatedAt": "2026-11-07T12:59:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Midnight%20Showdown&oldid=536768",
       "license": "CC-BY-SA-4.0",
       "id": "cp-93247",
       "aliases": [],
@@ -191069,13 +191077,8 @@
       "countryCode": "US",
       "locationKind": "park",
       "coordinates": null,
-      "manufacturer": "The Gravity Group",
-      "manufacturerRefs": [
-        {
-          "id": 3551,
-          "name": "The Gravity Group"
-        }
-      ],
+      "manufacturer": "",
+      "manufacturerRefs": [],
       "type": "Wooden",
       "status": "Under construction",
       "sourceStatus": "under_construction",
@@ -191162,9 +191165,9 @@
     {
       "sourceId": 93348,
       "name": "Project Driftwood",
-      "sourceRevision": 536146,
-      "sourceUpdatedAt": "2026-11-07T03:31:05.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Project%20Driftwood&oldid=536146",
+      "sourceRevision": 536663,
+      "sourceUpdatedAt": "2026-11-07T11:23:49.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Project%20Driftwood&oldid=536663",
       "license": "CC-BY-SA-4.0",
       "id": "cp-93348",
       "aliases": [],
@@ -191190,7 +191193,7 @@
           "name": "Mack Rides"
         }
       ],
-      "type": "Other",
+      "type": "Steel",
       "status": "Under construction",
       "sourceStatus": "under_construction",
       "dates": {
@@ -241104,16 +241107,19 @@
     {
       "sourceId": 77085,
       "name": "St Nicholas Park",
-      "sourceRevision": 463689,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=St%20Nicholas%20Park&oldid=463689",
+      "sourceRevision": 536643,
+      "sourceUpdatedAt": "2026-11-07T11:09:19.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=St%20Nicholas%20Park&oldid=536643",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-77085",
       "country": "United Kingdom",
       "countryCode": "GB",
       "place": "Warwick, Warwickshire, England",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 52.282058,
+        "lon": -1.578308
+      },
       "status": "Operating",
       "dates": {},
       "aliases": []
