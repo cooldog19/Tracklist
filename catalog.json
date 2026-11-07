@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-06T19:34:24.439Z",
+  "updatedAt": "2026-11-07T06:16:23.109Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -15847,9 +15847,9 @@
     {
       "sourceId": 12155,
       "name": "RailBlazer",
-      "sourceRevision": 489198,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=RailBlazer&oldid=489198",
+      "sourceRevision": 535757,
+      "sourceUpdatedAt": "2026-11-06T22:19:13.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=RailBlazer&oldid=535757",
       "license": "CC-BY-SA-4.0",
       "id": "cp-12155",
       "aliases": [],
@@ -15885,6 +15885,11 @@
           "edtf": "2018-06-14",
           "earliest": "2018-06-14",
           "latest": "2018-06-14"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/15412.htm",
@@ -29465,9 +29470,9 @@
     {
       "sourceId": 15632,
       "name": "Fjord Flying Dragon",
-      "sourceRevision": 535079,
-      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fjord%20Flying%20Dragon&oldid=535079",
+      "sourceRevision": 535920,
+      "sourceUpdatedAt": "2026-11-06T23:48:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fjord%20Flying%20Dragon&oldid=535920",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15632",
       "aliases": [],
@@ -29483,8 +29488,13 @@
         "lat": 39.184416,
         "lon": 117.472991
       },
-      "manufacturer": "",
-      "manufacturerRefs": [],
+      "manufacturer": "Martin & Vleminckx",
+      "manufacturerRefs": [
+        {
+          "id": 13615,
+          "name": "Martin & Vleminckx"
+        }
+      ],
       "type": "Wooden",
       "status": "Operating",
       "sourceStatus": "operating",
@@ -30766,9 +30776,9 @@
     {
       "sourceId": 1587,
       "name": "Flight Deck",
-      "sourceRevision": 487772,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flight%20Deck%20(California's%20Great%20America)&oldid=487772",
+      "sourceRevision": 535743,
+      "sourceUpdatedAt": "2026-11-06T22:12:28.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flight%20Deck%20(California's%20Great%20America)&oldid=535743",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1587",
       "aliases": [],
@@ -30804,6 +30814,11 @@
           "edtf": "1993-03-19",
           "earliest": "1993-03-19",
           "latest": "1993-03-19"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/80.htm",
@@ -36298,9 +36313,9 @@
     {
       "sourceId": 1726,
       "name": "Demon",
-      "sourceRevision": 487326,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Demon%20(California's%20Great%20America)&oldid=487326",
+      "sourceRevision": 535738,
+      "sourceUpdatedAt": "2026-11-06T22:10:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Demon%20(California's%20Great%20America)&oldid=535738",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1726",
       "aliases": [],
@@ -36336,6 +36351,11 @@
           "edtf": "1976-05-20",
           "earliest": "1976-05-20",
           "latest": "1976-05-20"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/76.htm",
@@ -36388,9 +36408,9 @@
     {
       "sourceId": 1727,
       "name": "The Grizzly",
-      "sourceRevision": 489988,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Grizzly%20(California's%20Great%20America)&oldid=489988",
+      "sourceRevision": 535747,
+      "sourceUpdatedAt": "2026-11-06T22:13:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Grizzly%20(California's%20Great%20America)&oldid=535747",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1727",
       "aliases": [],
@@ -36421,6 +36441,11 @@
           "edtf": "1986",
           "earliest": "1986-01-01",
           "latest": "1986-12-31"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/77.htm",
@@ -36485,9 +36510,9 @@
     {
       "sourceId": 1729,
       "name": "Psycho Mouse",
-      "sourceRevision": 489087,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Psycho%20Mouse&oldid=489087",
+      "sourceRevision": 535823,
+      "sourceUpdatedAt": "2026-11-06T22:47:59.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Psycho%20Mouse&oldid=535823",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1729",
       "aliases": [],
@@ -36523,6 +36548,11 @@
           "edtf": "2001-03-24",
           "earliest": "2001-03-24",
           "latest": "2001-03-24"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/1036.htm",
@@ -36584,9 +36614,9 @@
     {
       "sourceId": 1730,
       "name": "Lucy's Crabbie Cabbies",
-      "sourceRevision": 488597,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Lucy's%20Crabbie%20Cabbies&oldid=488597",
+      "sourceRevision": 535750,
+      "sourceUpdatedAt": "2026-11-06T22:15:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lucy's%20Crabbie%20Cabbies&oldid=535750",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1730",
       "aliases": [],
@@ -36622,6 +36652,11 @@
           "edtf": "1999",
           "earliest": "1999-01-01",
           "latest": "1999-12-31"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/536.htm",
@@ -36717,9 +36752,9 @@
     {
       "sourceId": 1731,
       "name": "Patriot",
-      "sourceRevision": 489037,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Patriot%20(California's%20Great%20America)&oldid=489037",
+      "sourceRevision": 535752,
+      "sourceUpdatedAt": "2026-11-06T22:15:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Patriot%20(California's%20Great%20America)&oldid=535752",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1731",
       "aliases": [],
@@ -36755,6 +36790,11 @@
           "edtf": "1991-03-09",
           "earliest": "1991-03-09",
           "latest": "1991-03-09"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/79.htm",
@@ -36807,9 +36847,9 @@
     {
       "sourceId": 1733,
       "name": "Woodstock Express",
-      "sourceRevision": 490600,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Woodstock%20Express%20(California's%20Great%20America)&oldid=490600",
+      "sourceRevision": 535760,
+      "sourceUpdatedAt": "2026-11-06T22:20:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Woodstock%20Express%20(California's%20Great%20America)&oldid=535760",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1733",
       "aliases": [
@@ -36847,6 +36887,11 @@
           "edtf": "1987-03-21",
           "earliest": "1987-03-21",
           "latest": "1987-03-21"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/78.htm",
@@ -82877,9 +82922,9 @@
     {
       "sourceId": 4183,
       "name": "Chirp Chaser",
-      "sourceRevision": 531612,
-      "sourceUpdatedAt": "2026-11-03T19:01:58.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sprocket%20Rockets&oldid=531612",
+      "sourceRevision": 536074,
+      "sourceUpdatedAt": "2026-11-07T02:19:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Chirp%20Chaser&oldid=536074",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4183",
       "aliases": [
@@ -100051,9 +100096,9 @@
     {
       "sourceId": 4887,
       "name": "Gold Striker",
-      "sourceRevision": 488025,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Gold%20Striker&oldid=488025",
+      "sourceRevision": 535745,
+      "sourceUpdatedAt": "2026-11-06T22:13:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Gold%20Striker&oldid=535745",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4887",
       "aliases": [],
@@ -100089,6 +100134,11 @@
           "edtf": "2013-05-31",
           "earliest": "2013-05-31",
           "latest": "2013-05-31"
+        },
+        "closing": {
+          "edtf": "2027-09-06",
+          "earliest": "2027-09-06",
+          "latest": "2027-09-06"
         }
       },
       "rcdb": "https://rcdb.com/10857.htm",
@@ -137033,13 +137083,15 @@
     },
     {
       "sourceId": 69744,
-      "name": "Bluey the Ride: Here Come the Grannies!",
-      "sourceRevision": 486875,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bluey%20the%20Ride%3A%20Here%20Come%20the%20Grannies!&oldid=486875",
+      "name": "Bluey the Ride: Here Come the Grannies",
+      "sourceRevision": 535625,
+      "sourceUpdatedAt": "2026-11-06T20:35:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bluey%20the%20Ride%3A%20Here%20Come%20the%20Grannies&oldid=535625",
       "license": "CC-BY-SA-4.0",
       "id": "cp-69744",
-      "aliases": [],
+      "aliases": [
+        "Bluey the Ride: Here Come the Grannies!"
+      ],
       "legacyIds": [],
       "park": "Alton Towers",
       "parkId": "cp-park-2027",
@@ -185886,9 +185938,9 @@
     {
       "sourceId": 913,
       "name": "Scorpion",
-      "sourceRevision": 489479,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Scorpion%20(Busch%20Gardens%20Tampa)&oldid=489479",
+      "sourceRevision": 536148,
+      "sourceUpdatedAt": "2026-11-07T03:31:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Scorpion%20(Busch%20Gardens%20Tampa)&oldid=536148",
       "license": "CC-BY-SA-4.0",
       "id": "cp-913",
       "aliases": [],
@@ -191105,6 +191157,54 @@
       "rcdb": "https://rcdb.com/59.htm",
       "pov": "https://www.youtube.com/watch?v=vcqnYqRbo08",
       "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 93348,
+      "name": "Project Driftwood",
+      "sourceRevision": 536146,
+      "sourceUpdatedAt": "2026-11-07T03:31:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Project%20Driftwood&oldid=536146",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93348",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Busch Gardens Tampa Bay",
+      "parkId": "cp-park-901",
+      "sourceParkId": 901,
+      "parkAliases": [
+        "Busch Gardens",
+        "Busch Gardens: The Dark Content",
+        "Busch Gardens Tampa",
+        "Busch Gardens Africa",
+        "Busch Gardens Tampa Bay"
+      ],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Mack Rides",
+      "manufacturerRefs": [
+        {
+          "id": 2393,
+          "name": "Mack Rides"
+        }
+      ],
+      "type": "Other",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
+      "dates": {
+        "opening": {
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Water"
+      ],
       "trackCount": 1
     },
     {
