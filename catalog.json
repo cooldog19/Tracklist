@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-07T13:20:05.220Z",
+  "updatedAt": "2026-11-07T22:04:26.645Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -1410,12 +1410,14 @@
     {
       "sourceId": 10163,
       "name": "Gekion Live Coaster",
-      "sourceRevision": 487931,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Gekion%20Live%20Coaster&oldid=487931",
+      "sourceRevision": 537278,
+      "sourceUpdatedAt": "2026-11-07T19:59:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Gekion%20Live%20Coaster&oldid=537278",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10163",
-      "aliases": [],
+      "aliases": [
+        "Veil of Dark"
+      ],
       "legacyIds": [],
       "park": "Tokyo Joypolis",
       "parkId": "cp-park-16816",
@@ -9107,9 +9109,9 @@
     {
       "sourceId": 11174,
       "name": "Whistle Punk Chaser",
-      "sourceRevision": 490488,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Whistle%20Punk%20Chaser&oldid=490488",
+      "sourceRevision": 537430,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Whistle%20Punk%20Chaser&oldid=537430",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11174",
       "aliases": [],
@@ -31219,9 +31221,9 @@
     {
       "sourceId": 15971,
       "name": "Southern Express",
-      "sourceRevision": 489689,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Southern%20Express&oldid=489689",
+      "sourceRevision": 537426,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Southern%20Express&oldid=537426",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15971",
       "aliases": [],
@@ -31264,9 +31266,9 @@
     {
       "sourceId": 15976,
       "name": "Dragon Express",
-      "sourceRevision": 487489,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dragon%20Express&oldid=487489",
+      "sourceRevision": 537418,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon%20Express&oldid=537418",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15976",
       "aliases": [],
@@ -35444,9 +35446,9 @@
     {
       "sourceId": 17017,
       "name": "Roller Coaster",
-      "sourceRevision": 489291,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Boomers%20Family%20Fun%20Center)&oldid=489291",
+      "sourceRevision": 537425,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Boomers%20Family%20Fun%20Center)&oldid=537425",
       "license": "CC-BY-SA-4.0",
       "id": "cp-17017",
       "aliases": [],
@@ -35585,9 +35587,9 @@
     {
       "sourceId": 17034,
       "name": "Dragon's Apprentice",
-      "sourceRevision": 487537,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20New%20York)&oldid=487537",
+      "sourceRevision": 537443,
+      "sourceUpdatedAt": "2026-11-07T22:03:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20New%20York)&oldid=537443",
       "license": "CC-BY-SA-4.0",
       "id": "cp-17034",
       "aliases": [],
@@ -50534,9 +50536,9 @@
     {
       "sourceId": 24532,
       "name": "Pindsvinet",
-      "sourceRevision": 489055,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Pindsvinet&oldid=489055",
+      "sourceRevision": 537423,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Pindsvinet&oldid=537423",
       "license": "CC-BY-SA-4.0",
       "id": "cp-24532",
       "aliases": [],
@@ -50854,9 +50856,9 @@
     {
       "sourceId": 24677,
       "name": "Mine Train",
-      "sourceRevision": 494362,
-      "sourceUpdatedAt": "2026-10-23T19:52:22.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Train%20(PowerPark)&oldid=494362",
+      "sourceRevision": 537422,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Train%20(PowerPark)&oldid=537422",
       "license": "CC-BY-SA-4.0",
       "id": "cp-24677",
       "aliases": [],
@@ -52868,9 +52870,9 @@
     {
       "sourceId": 25885,
       "name": "Leocoaster",
-      "sourceRevision": 488522,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Leocoaster&oldid=488522",
+      "sourceRevision": 537421,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Leocoaster&oldid=537421",
       "license": "CC-BY-SA-4.0",
       "id": "cp-25885",
       "aliases": [],
@@ -59933,12 +59935,14 @@
     {
       "sourceId": 3020,
       "name": "Goofy's Sky School",
-      "sourceRevision": 488019,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Goofy's%20Sky%20School&oldid=488019",
+      "sourceRevision": 537263,
+      "sourceUpdatedAt": "2026-11-07T19:52:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Goofy's%20Sky%20School&oldid=537263",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3020",
-      "aliases": [],
+      "aliases": [
+        "Mulholland Madness"
+      ],
       "legacyIds": [],
       "park": "Disney California Adventure Park",
       "parkId": "cp-park-720",
@@ -65298,9 +65302,9 @@
     {
       "sourceId": 3235,
       "name": "The Great Chase",
-      "sourceRevision": 489995,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Great%20Chase%20(Six%20Flags%20America)&oldid=489995",
+      "sourceRevision": 537429,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Great%20Chase%20(Six%20Flags%20America)&oldid=537429",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3235",
       "aliases": [],
@@ -82922,9 +82926,9 @@
     {
       "sourceId": 4183,
       "name": "Chirp Chaser",
-      "sourceRevision": 536652,
-      "sourceUpdatedAt": "2026-11-07T11:15:04.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Chirp%20Chaser&oldid=536652",
+      "sourceRevision": 537068,
+      "sourceUpdatedAt": "2026-11-07T17:14:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Chirp%20Chaser&oldid=537068",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4183",
       "aliases": [
@@ -82954,8 +82958,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Under refurbishment",
+      "sourceStatus": "under_refurbishment",
       "dates": {
         "opened": {
           "edtf": "1998",
@@ -89617,9 +89621,9 @@
     {
       "sourceId": 45043,
       "name": "Dragon's Apprentice",
-      "sourceRevision": 534496,
-      "sourceUpdatedAt": "2026-11-05T10:39:12.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Dubai)&oldid=534496",
+      "sourceRevision": 537437,
+      "sourceUpdatedAt": "2026-11-07T22:00:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Dubai)&oldid=537437",
       "license": "CC-BY-SA-4.0",
       "id": "cp-45043",
       "aliases": [],
@@ -103548,9 +103552,9 @@
     {
       "sourceId": 50068,
       "name": "Drakenbaan",
-      "sourceRevision": 487550,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Drakenbaan&oldid=487550",
+      "sourceRevision": 537419,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Drakenbaan&oldid=537419",
       "license": "CC-BY-SA-4.0",
       "id": "cp-50068",
       "aliases": [],
@@ -108316,9 +108320,9 @@
     {
       "sourceId": 518,
       "name": "Roadrunner Express",
-      "sourceRevision": 489232,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Roadrunner%20Express%20(Six%20Flags%20Discovery%20Kingdom)&oldid=489232",
+      "sourceRevision": 537424,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Roadrunner%20Express%20(Six%20Flags%20Discovery%20Kingdom)&oldid=537424",
       "license": "CC-BY-SA-4.0",
       "id": "cp-518",
       "aliases": [],
@@ -114729,9 +114733,9 @@
     {
       "sourceId": 54504,
       "name": "Achtbaan",
-      "sourceRevision": 486577,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Achtbaan%20(Mini%20Mundi)&oldid=486577",
+      "sourceRevision": 537415,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Achtbaan%20(Mini%20Mundi)&oldid=537415",
       "license": "CC-BY-SA-4.0",
       "id": "cp-54504",
       "aliases": [],
@@ -117166,12 +117170,15 @@
     {
       "sourceId": 56504,
       "name": "Spin Bullet",
-      "sourceRevision": 489759,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Spin%20Bullet&oldid=489759",
+      "sourceRevision": 537280,
+      "sourceUpdatedAt": "2026-11-07T20:01:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Spin%20Bullet&oldid=537280",
       "license": "CC-BY-SA-4.0",
       "id": "cp-56504",
-      "aliases": [],
+      "aliases": [
+        "Rail Chase: The Ride",
+        "Speed Boarder"
+      ],
       "legacyIds": [],
       "park": "Tokyo Joypolis",
       "parkId": "cp-park-16816",
@@ -128880,9 +128887,9 @@
     {
       "sourceId": 6411,
       "name": "Berg- og dalbane",
-      "sourceRevision": 486784,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Berg-%20og%20dalbane&oldid=486784",
+      "sourceRevision": 537416,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Berg-%20og%20dalbane&oldid=537416",
       "license": "CC-BY-SA-4.0",
       "id": "cp-6411",
       "aliases": [],
@@ -133041,9 +133048,9 @@
     {
       "sourceId": 66812,
       "name": "Dragon's Apprentice",
-      "sourceRevision": 534497,
-      "sourceUpdatedAt": "2026-11-05T10:39:12.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Japan)&oldid=534497",
+      "sourceRevision": 537438,
+      "sourceUpdatedAt": "2026-11-07T22:00:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon's%20Apprentice%20(Legoland%20Japan)&oldid=537438",
       "license": "CC-BY-SA-4.0",
       "id": "cp-66812",
       "aliases": [],
@@ -139848,12 +139855,14 @@
     {
       "sourceId": 722,
       "name": "Incredicoaster",
-      "sourceRevision": 491082,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Incredicoaster&oldid=491082",
+      "sourceRevision": 537265,
+      "sourceUpdatedAt": "2026-11-07T19:54:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Incredicoaster&oldid=537265",
       "license": "CC-BY-SA-4.0",
       "id": "cp-722",
-      "aliases": [],
+      "aliases": [
+        "California Screamin'"
+      ],
       "legacyIds": [],
       "park": "Disney California Adventure Park",
       "parkId": "cp-park-720",
@@ -140025,9 +140034,9 @@
     {
       "sourceId": 7238,
       "name": "Speedy Gonzales Hot Rod Racers",
-      "sourceRevision": 489727,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Speedy%20Gonzales%20Hot%20Rod%20Racers&oldid=489727",
+      "sourceRevision": 537428,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Speedy%20Gonzales%20Hot%20Rod%20Racers&oldid=537428",
       "license": "CC-BY-SA-4.0",
       "id": "cp-7238",
       "aliases": [],
@@ -154186,9 +154195,9 @@
     {
       "sourceId": 78693,
       "name": "Family Train",
-      "sourceRevision": 487709,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Family%20Train%20(Hawally%20Park)&oldid=487709",
+      "sourceRevision": 537420,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Family%20Train%20(Hawally%20Park)&oldid=537420",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78693",
       "aliases": [],
@@ -155432,9 +155441,9 @@
     {
       "sourceId": 78918,
       "name": "Family Coaster",
-      "sourceRevision": 479386,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Family%20Coaster%20(Escape%20Theme%20Park)&oldid=479386",
+      "sourceRevision": 537432,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Family%20Coaster%20(Escape%20Theme%20Park)&oldid=537432",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78918",
       "aliases": [],
@@ -165231,9 +165240,9 @@
     {
       "sourceId": 8288,
       "name": "Cocoa Cruiser",
-      "sourceRevision": 487147,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cocoa%20Cruiser&oldid=487147",
+      "sourceRevision": 537417,
+      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cocoa%20Cruiser&oldid=537417",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8288",
       "aliases": [],
@@ -188310,9 +188319,9 @@
     {
       "sourceId": 91822,
       "name": "Family Banana Coaster",
-      "sourceRevision": 528260,
-      "sourceUpdatedAt": "2026-10-31T03:17:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Family%20Banana%20Coaster%20(Yokohama%20Cosmoworld)&oldid=528260",
+      "sourceRevision": 537370,
+      "sourceUpdatedAt": "2026-11-07T21:20:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Family%20Banana%20Coaster%20(Yokohama%20Cosmoworld)&oldid=537370",
       "license": "CC-BY-SA-4.0",
       "id": "cp-91822",
       "aliases": [],
@@ -188324,7 +188333,10 @@
       "country": "Japan",
       "countryCode": "JP",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 35.455534,
+        "lon": 139.6339
+      },
       "manufacturer": "Senyo Kogyo",
       "manufacturerRefs": [
         {
@@ -191207,6 +191219,53 @@
       "pov": "",
       "categories": [
         "Water"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 93354,
+      "name": "Ipanarata",
+      "sourceRevision": 536806,
+      "sourceUpdatedAt": "2026-11-07T13:37:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ipanarata&oldid=536806",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93354",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Linnanmäki",
+      "parkId": "cp-park-9473",
+      "sourceParkId": 9473,
+      "parkAliases": [],
+      "country": "Finland",
+      "countryCode": "FI",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Hakaniemen Metalli Oy",
+      "manufacturerRefs": [
+        {
+          "id": null,
+          "name": "Hakaniemen Metalli Oy"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1971",
+          "earliest": "1971-01-01",
+          "latest": "1971-12-31"
+        },
+        "closed": {
+          "edtf": "1989",
+          "earliest": "1989-01-01",
+          "latest": "1989-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
       ],
       "trackCount": 1
     },
@@ -225929,6 +225988,32 @@
       "aliases": []
     },
     {
+      "sourceId": 63551,
+      "name": "Royal Commonwealth Pool",
+      "sourceRevision": 537177,
+      "sourceUpdatedAt": "2026-11-07T18:43:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Royal%20Commonwealth%20Pool&oldid=537177",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-63551",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Edinburgh, City of Edinburgh, Scotland",
+      "state": "",
+      "coordinates": {
+        "lat": 55.93900498828,
+        "lon": -3.173474959126
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1970-02-18",
+          "earliest": "1970-02-18",
+          "latest": "1970-02-18"
+        }
+      },
+      "aliases": []
+    },
+    {
       "sourceId": 63553,
       "name": "Aqualand Köln",
       "sourceRevision": 464111,
@@ -250922,6 +251007,32 @@
           "edtf": "2012-01-08",
           "earliest": "2012-01-08",
           "latest": "2012-01-08"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93371,
+      "name": "Bangor Aurora Aquatic and Leisure Complex",
+      "sourceRevision": 537378,
+      "sourceUpdatedAt": "2026-11-07T21:25:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bangor%20Aurora%20Aquatic%20and%20Leisure%20Complex&oldid=537378",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93371",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bangor, County Down, Northern Ireland",
+      "state": "",
+      "coordinates": {
+        "lat": 54.652288437588,
+        "lon": -5.6646843365691
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2013-03-23",
+          "earliest": "2013-03-23",
+          "latest": "2013-03-23"
         }
       },
       "aliases": []
