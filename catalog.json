@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-08T13:43:54.179Z",
+  "updatedAt": "2026-11-08T22:17:30.925Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -15098,9 +15098,9 @@
     {
       "sourceId": 11976,
       "name": "Bat Glider",
-      "sourceRevision": 486749,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bat%20Glider%20(Trans%20Studio%20Bali)&oldid=486749",
+      "sourceRevision": 538839,
+      "sourceUpdatedAt": "2026-11-08T16:22:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bat%20Glider%20(Trans%20Studio%20Bali)&oldid=538839",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11976",
       "aliases": [
@@ -23545,13 +23545,17 @@
     },
     {
       "sourceId": 1459,
-      "name": "The Backyardigans: Mission To Mars",
-      "sourceRevision": 489987,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Backyardigans%20Mission%20To%20Mars&oldid=489987",
+      "name": "The Backyardigans Mission To Mars",
+      "sourceRevision": 539220,
+      "sourceUpdatedAt": "2026-11-08T20:42:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Backyardigans%20Mission%20To%20Mars&oldid=539220",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1459",
-      "aliases": [],
+      "aliases": [
+        "Coyotes und Roadrunner's Achterbahn",
+        "Rocket Rider Rollercoaster",
+        "The Backyardigans: Mission To Mars"
+      ],
       "legacyIds": [],
       "park": "Movie Park Germany",
       "parkId": "cp-park-9816",
@@ -26679,12 +26683,15 @@
     {
       "sourceId": 15212,
       "name": "Ghost Chasers",
-      "sourceRevision": 487936,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Ghost%20Chasers&oldid=487936",
+      "sourceRevision": 539216,
+      "sourceUpdatedAt": "2026-11-08T20:41:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ghost%20Chasers&oldid=539216",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15212",
-      "aliases": [],
+      "aliases": [
+        "Tom & Jerry's Mouse in the House",
+        "Mad Manor"
+      ],
       "legacyIds": [],
       "park": "Movie Park Germany",
       "parkId": "cp-park-9816",
@@ -34393,9 +34400,9 @@
     {
       "sourceId": 16553,
       "name": "Black Hole Express",
-      "sourceRevision": 486859,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Black%20Hole%20Express&oldid=486859",
+      "sourceRevision": 538956,
+      "sourceUpdatedAt": "2026-11-08T17:22:52.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Black%20Hole%20Express&oldid=538956",
       "license": "CC-BY-SA-4.0",
       "id": "cp-16553",
       "aliases": [],
@@ -34484,9 +34491,9 @@
     {
       "sourceId": 16576,
       "name": "Crazy Roller Coaster",
-      "sourceRevision": 487294,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Roller%20Coaster%20(Nanhu%20Amusement%20Park)&oldid=487294",
+      "sourceRevision": 538955,
+      "sourceUpdatedAt": "2026-11-08T17:21:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Roller%20Coaster%20(Nanhu%20Amusement%20Park)&oldid=538955",
       "license": "CC-BY-SA-4.0",
       "id": "cp-16576",
       "aliases": [],
@@ -36458,9 +36465,9 @@
     {
       "sourceId": 17283,
       "name": "Batflyer",
-      "sourceRevision": 486758,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Batflyer%20(Duinrell)&oldid=486758",
+      "sourceRevision": 538837,
+      "sourceUpdatedAt": "2026-11-08T16:21:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Batflyer%20(Duinrell)&oldid=538837",
       "license": "CC-BY-SA-4.0",
       "id": "cp-17283",
       "aliases": [],
@@ -37495,9 +37502,9 @@
     {
       "sourceId": 1752,
       "name": "Scooby's Ghoster Coaster",
-      "sourceRevision": 489480,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Scooby's%20Ghoster%20Coaster&oldid=489480",
+      "sourceRevision": 538844,
+      "sourceUpdatedAt": "2026-11-08T16:22:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Scooby's%20Ghoster%20Coaster&oldid=538844",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1752",
       "aliases": [],
@@ -38567,12 +38574,18 @@
     {
       "sourceId": 1802,
       "name": "Batgirl Coaster Chase",
-      "sourceRevision": 486731,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Batgirl%20Coaster%20Chase&oldid=486731",
+      "sourceRevision": 539203,
+      "sourceUpdatedAt": "2026-11-08T20:35:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Batgirl%20Coaster%20Chase&oldid=539203",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1802",
-      "aliases": [],
+      "aliases": [
+        "Pied Piper",
+        "Rollschuhcoaster",
+        "Romp Bomp A Stomp",
+        "Kiddee Koaster",
+        "Streamliner Coaster"
+      ],
       "legacyIds": [],
       "park": "Six Flags Fiesta Texas",
       "parkId": "cp-park-1793",
@@ -40441,9 +40454,9 @@
     {
       "sourceId": 1972,
       "name": "Blue Hawk",
-      "sourceRevision": 486840,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Blue%20Hawk&oldid=486840",
+      "sourceRevision": 538876,
+      "sourceUpdatedAt": "2026-11-08T16:36:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Blue%20Hawk&oldid=538876",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1972",
       "aliases": [
@@ -41942,9 +41955,9 @@
     {
       "sourceId": 2153,
       "name": "Whizzer",
-      "sourceRevision": 531620,
-      "sourceUpdatedAt": "2026-11-03T19:05:43.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Whizzer%20(Six%20Flags%20Great%20America)&oldid=531620",
+      "sourceRevision": 538799,
+      "sourceUpdatedAt": "2026-11-08T15:59:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Whizzer%20(Six%20Flags%20Great%20America)&oldid=538799",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2153",
       "aliases": [],
@@ -77181,9 +77194,9 @@
     {
       "sourceId": 3889,
       "name": "Goudurix",
-      "sourceRevision": 488023,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Goudurix&oldid=488023",
+      "sourceRevision": 538957,
+      "sourceUpdatedAt": "2026-11-08T17:22:52.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Goudurix&oldid=538957",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3889",
       "aliases": [],
@@ -79203,12 +79216,16 @@
     {
       "sourceId": 395,
       "name": "Woodstock Express",
-      "sourceRevision": 490596,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Woodstock%20Express%20(Kings%20Dominion)&oldid=490596",
+      "sourceRevision": 539327,
+      "sourceUpdatedAt": "2026-11-08T22:02:59.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Woodstock%20Express%20(Kings%20Dominion)&oldid=539327",
       "license": "CC-BY-SA-4.0",
       "id": "cp-395",
-      "aliases": [],
+      "aliases": [
+        "Scooby-Doo",
+        "Scooby-Doo Ghoster Coaster",
+        "Ghoster Coaster"
+      ],
       "legacyIds": [],
       "park": "Kings Dominion",
       "parkId": "cp-park-390",
@@ -80594,9 +80611,9 @@
     {
       "sourceId": 4065,
       "name": "Big Loop",
-      "sourceRevision": 486844,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Big%20Loop&oldid=486844",
+      "sourceRevision": 538878,
+      "sourceUpdatedAt": "2026-11-08T16:36:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Big%20Loop&oldid=538878",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4065",
       "aliases": [],
@@ -81564,9 +81581,9 @@
     {
       "sourceId": 41062,
       "name": "Spellbreaker",
-      "sourceRevision": 489751,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Spellbreaker&oldid=489751",
+      "sourceRevision": 538845,
+      "sourceUpdatedAt": "2026-11-08T16:22:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Spellbreaker&oldid=538845",
       "license": "CC-BY-SA-4.0",
       "id": "cp-41062",
       "aliases": [],
@@ -82930,9 +82947,9 @@
     {
       "sourceId": 4183,
       "name": "Chirp Chaser",
-      "sourceRevision": 537068,
-      "sourceUpdatedAt": "2026-11-07T17:14:11.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Chirp%20Chaser&oldid=537068",
+      "sourceRevision": 538802,
+      "sourceUpdatedAt": "2026-11-08T16:01:20.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Chirp%20Chaser&oldid=538802",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4183",
       "aliases": [
@@ -112757,9 +112774,9 @@
     {
       "sourceId": 53544,
       "name": "G-Force",
-      "sourceRevision": 487906,
-      "sourceUpdatedAt": "2026-10-24T03:17:10.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=G-Force%20(Bates%20Brothers%20Amusements)&oldid=487906",
+      "sourceRevision": 539232,
+      "sourceUpdatedAt": "2026-11-08T20:53:27.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=G-Force%20(Bates%20Brothers%20Amusements)&oldid=539232",
       "license": "CC-BY-SA-4.0",
       "id": "cp-53544",
       "aliases": [],
@@ -112780,18 +112797,13 @@
         }
       ],
       "type": "Steel",
-      "status": "Unknown",
-      "sourceStatus": "unknown",
+      "status": "Operating",
+      "sourceStatus": "operating",
       "dates": {
         "opened": {
-          "edtf": "2007",
-          "earliest": "2007-01-01",
-          "latest": "2007-12-31"
-        },
-        "closed": {
-          "edtf": "[2017..]",
-          "earliest": "2017-01-01",
-          "latest": null
+          "edtf": "[..2026]",
+          "earliest": null,
+          "latest": "2026-12-31"
         }
       },
       "rcdb": "",
@@ -115568,9 +115580,9 @@
     {
       "sourceId": 5544,
       "name": "Millennium",
-      "sourceRevision": 488748,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Millennium&oldid=488748",
+      "sourceRevision": 538879,
+      "sourceUpdatedAt": "2026-11-08T16:36:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Millennium&oldid=538879",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5544",
       "aliases": [],
@@ -137458,9 +137470,9 @@
     {
       "sourceId": 7007,
       "name": "Batflyer",
-      "sourceRevision": 486742,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Batflyer%20(Nasu%20Highland%20Park)&oldid=486742",
+      "sourceRevision": 538841,
+      "sourceUpdatedAt": "2026-11-08T16:22:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Batflyer%20(Nasu%20Highland%20Park)&oldid=538841",
       "license": "CC-BY-SA-4.0",
       "id": "cp-7007",
       "aliases": [],
@@ -141594,9 +141606,9 @@
     {
       "sourceId": 7307,
       "name": "Ninja",
-      "sourceRevision": 488943,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Ninja%20(Mid%20America%20Adventure)&oldid=488943",
+      "sourceRevision": 538872,
+      "sourceUpdatedAt": "2026-11-08T16:34:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ninja%20(Mid%20America%20Adventure)&oldid=538872",
       "license": "CC-BY-SA-4.0",
       "id": "cp-7307",
       "aliases": [
@@ -148824,12 +148836,15 @@
     {
       "sourceId": 766,
       "name": "Woodstock's Air Rail",
-      "sourceRevision": 490598,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Woodstock's%20Air%20Rail&oldid=490598",
+      "sourceRevision": 539333,
+      "sourceUpdatedAt": "2026-11-08T22:07:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Woodstock's%20Air%20Rail&oldid=539333",
       "license": "CC-BY-SA-4.0",
       "id": "cp-766",
-      "aliases": [],
+      "aliases": [
+        "Rugrats Runaway Reptar",
+        "Flying Ace Aerial Chase"
+      ],
       "legacyIds": [],
       "park": "Kings Island",
       "parkId": "cp-park-716",
@@ -148912,12 +148927,16 @@
     {
       "sourceId": 767,
       "name": "The Great Pumpkin Coaster",
-      "sourceRevision": 489983,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Great%20Pumpkin%20Coaster%20(Kings%20Island)&oldid=489983",
+      "sourceRevision": 539329,
+      "sourceUpdatedAt": "2026-11-08T22:05:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Great%20Pumpkin%20Coaster%20(Kings%20Island)&oldid=539329",
       "license": "CC-BY-SA-4.0",
       "id": "cp-767",
-      "aliases": [],
+      "aliases": [
+        "Scooby Zoom",
+        "Top Cat's Taxi Jam",
+        "Little Bill's Giggle Coaster"
+      ],
       "legacyIds": [],
       "park": "Kings Island",
       "parkId": "cp-park-716",
@@ -152247,12 +152266,16 @@
     {
       "sourceId": 777,
       "name": "Woodstock Express",
-      "sourceRevision": 490599,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Woodstock%20Express%20(Kings%20Island)&oldid=490599",
+      "sourceRevision": 539331,
+      "sourceUpdatedAt": "2026-11-08T22:05:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Woodstock%20Express%20(Kings%20Island)&oldid=539331",
       "license": "CC-BY-SA-4.0",
       "id": "cp-777",
-      "aliases": [],
+      "aliases": [
+        "Scooby-Doo",
+        "Beastie",
+        "Fairly Odd Coaster"
+      ],
       "legacyIds": [],
       "park": "Kings Island",
       "parkId": "cp-park-716",
@@ -155289,9 +155312,9 @@
     {
       "sourceId": 7883,
       "name": "French Revolution",
-      "sourceRevision": 487826,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=French%20Revolution&oldid=487826",
+      "sourceRevision": 538894,
+      "sourceUpdatedAt": "2026-11-08T16:40:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=French%20Revolution&oldid=538894",
       "license": "CC-BY-SA-4.0",
       "id": "cp-7883",
       "aliases": [],
@@ -155303,7 +155326,10 @@
       "country": "South Korea",
       "countryCode": "KR",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 37.511529,
+        "lon": 127.096767
+      },
       "manufacturer": "Vekoma",
       "manufacturerRefs": [
         {
@@ -158859,9 +158885,9 @@
     {
       "sourceId": 7983,
       "name": "Bat Glider",
-      "sourceRevision": 486743,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bat%20Glider%20(Trans%20Studio%20Action%20Zone)&oldid=486743",
+      "sourceRevision": 538838,
+      "sourceUpdatedAt": "2026-11-08T16:21:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bat%20Glider%20(Trans%20Studio%20Action%20Zone)&oldid=538838",
       "license": "CC-BY-SA-4.0",
       "id": "cp-7983",
       "aliases": [
@@ -165330,9 +165356,9 @@
     {
       "sourceId": 82992,
       "name": "Puppy Coaster",
-      "sourceRevision": 489122,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Puppy%20Coaster%20(Fantawild%20Land)&oldid=489122",
+      "sourceRevision": 538686,
+      "sourceUpdatedAt": "2026-11-08T14:27:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Puppy%20Coaster%20(Fantawild%20Land%20Hubei)&oldid=538686",
       "license": "CC-BY-SA-4.0",
       "id": "cp-82992",
       "aliases": [],
@@ -179642,21 +179668,24 @@
     {
       "sourceId": 87850,
       "name": "Invincible Warriors",
-      "sourceRevision": 488250,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Invincible%20Warriors&oldid=488250",
+      "sourceRevision": 538729,
+      "sourceUpdatedAt": "2026-11-08T15:00:19.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Invincible%20Warriors&oldid=538729",
       "license": "CC-BY-SA-4.0",
       "id": "cp-87850",
       "aliases": [],
       "legacyIds": [],
       "park": "Fantawild Land",
-      "parkId": "",
-      "sourceParkId": null,
+      "parkId": "cp-park-93485",
+      "sourceParkId": 93485,
       "parkAliases": [],
       "country": "China",
       "countryCode": "CN",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 28.5551812811,
+        "lon": 121.5702571581
+      },
       "manufacturer": "Vekoma",
       "manufacturerRefs": [
         {
@@ -179675,7 +179704,7 @@
         }
       },
       "rcdb": "https://rcdb.com/16973.htm",
-      "pov": "",
+      "pov": "https://www.youtube.com/watch?v=TUT5IC9Da1E",
       "categories": [],
       "trackCount": 1
     },
@@ -180912,9 +180941,9 @@
     {
       "sourceId": 88957,
       "name": "Pine Tree Rocket",
-      "sourceRevision": 489081,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Pine%20Tree%20Rocket&oldid=489081",
+      "sourceRevision": 538689,
+      "sourceUpdatedAt": "2026-11-08T14:27:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Pine%20Tree%20Rocket%20(Fantawild%20Wonderland)&oldid=538689",
       "license": "CC-BY-SA-4.0",
       "id": "cp-88957",
       "aliases": [],
@@ -191322,6 +191351,49 @@
       "categories": [
         "Kiddie"
       ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 93487,
+      "name": "Puppy Coaster",
+      "sourceRevision": 538759,
+      "sourceUpdatedAt": "2026-11-08T15:35:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Puppy%20Coaster%20(Fantawild%20Land%20Taizhou)&oldid=538759",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93487",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Fantawild Land",
+      "parkId": "cp-park-93485",
+      "sourceParkId": 93485,
+      "parkAliases": [],
+      "country": "China",
+      "countryCode": "CN",
+      "locationKind": "park",
+      "coordinates": {
+        "lat": 28.552578481,
+        "lon": 121.5683797689
+      },
+      "manufacturer": "Beijing Shibaolai Amusement Equipment",
+      "manufacturerRefs": [
+        {
+          "id": 74161,
+          "name": "Beijing Shibaolai Amusement Equipment"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "2022-07",
+          "earliest": "2022-07-01",
+          "latest": "2022-07-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
       "trackCount": 1
     },
     {
@@ -202908,16 +202980,19 @@
     {
       "sourceId": 19283,
       "name": "Luna Park",
-      "sourceRevision": 480740,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Luna%20Park%20(UK)&oldid=480740",
+      "sourceRevision": 538769,
+      "sourceUpdatedAt": "2026-11-08T15:41:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Luna%20Park%20(UK)&oldid=538769",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-19283",
       "country": "United Kingdom",
       "countryCode": "GB",
       "place": "Scarborough, North Yorkshire, England",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 54.283852,
+        "lon": -0.38663
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -251326,6 +251401,169 @@
           "edtf": "2008-02",
           "earliest": "2008-02-01",
           "latest": "2008-02-29"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93485,
+      "name": "Fantawild Land",
+      "sourceRevision": 538700,
+      "sourceUpdatedAt": "2026-11-08T14:33:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fantawild%20Land%20(Taizhou)&oldid=538700",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93485",
+      "country": "China",
+      "countryCode": "CN",
+      "place": "Luqiao, Taizhou, Zhejiang",
+      "state": "",
+      "coordinates": {
+        "lat": 28.5523107543,
+        "lon": 121.5753564794
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2022-07",
+          "earliest": "2022-07-01",
+          "latest": "2022-07-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93498,
+      "name": "Ebbw Vale Leisure Centre",
+      "sourceRevision": 538835,
+      "sourceUpdatedAt": "2026-11-08T16:21:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ebbw%20Vale%20Leisure%20Centre&oldid=538835",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93498",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Ebbw Vale, Blaenau Gwent, Wales",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1962",
+          "earliest": "1962-01-01",
+          "latest": "1962-12-31"
+        },
+        "closed": {
+          "edtf": "[..2014]",
+          "earliest": null,
+          "latest": "2014-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93504,
+      "name": "Ebbw Vale Sports Centre",
+      "sourceRevision": 538873,
+      "sourceUpdatedAt": "2026-11-08T16:34:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ebbw%20Vale%20Sports%20Centre&oldid=538873",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93504",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Ebbw Vale, Blaenau Gwent, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 51.773621889837,
+        "lon": -3.2029498316983
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93510,
+      "name": "Newbridge Leisure Centre",
+      "sourceRevision": 538915,
+      "sourceUpdatedAt": "2026-11-08T16:52:52.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Newbridge%20Leisure%20Centre&oldid=538915",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93510",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Newbridge, Caerphilly, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 51.664119354749,
+        "lon": -3.1416104014217
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1996]",
+          "earliest": null,
+          "latest": "1996-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93512,
+      "name": "Newport Centre",
+      "sourceRevision": 538920,
+      "sourceUpdatedAt": "2026-11-08T16:57:07.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Newport%20Centre&oldid=538920",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93512",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Newport, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 51.585620103339,
+        "lon": -2.9915671433079
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1985",
+          "earliest": "1985-01-01",
+          "latest": "1985-12-31"
+        },
+        "closed": {
+          "edtf": "2023",
+          "earliest": "2023-01-01",
+          "latest": "2023-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93516,
+      "name": "Penarth Leisure Centre",
+      "sourceRevision": 538929,
+      "sourceUpdatedAt": "2026-11-08T17:06:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Penarth%20Leisure%20Centre&oldid=538929",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93516",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Penarth, Vale of Glamorgan, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 51.444818182781,
+        "lon": -3.1891371736005
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1988]",
+          "earliest": null,
+          "latest": "1988-12-31"
         }
       },
       "aliases": []
