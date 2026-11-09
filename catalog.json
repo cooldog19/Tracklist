@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-08T22:17:30.925Z",
+  "updatedAt": "2026-11-09T06:55:02.760Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -73092,12 +73092,17 @@
     {
       "sourceId": 368,
       "name": "Kenny's Forest Flyer",
-      "sourceRevision": 488351,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kenny's%20Forest%20Flyer&oldid=488351",
+      "sourceRevision": 539373,
+      "sourceUpdatedAt": "2026-11-08T22:23:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kenny's%20Forest%20Flyer&oldid=539373",
       "license": "CC-BY-SA-4.0",
       "id": "cp-368",
-      "aliases": [],
+      "aliases": [
+        "Rugrats Runaway Reptar",
+        "Sky Rocket",
+        "Escape from Madagascar",
+        "Escape Coaster"
+      ],
       "legacyIds": [],
       "park": "Dreamworld",
       "parkId": "cp-park-362",
@@ -90096,7 +90101,7 @@
       "sourceId": 45181,
       "name": "Ziggy's Blast Quest",
       "sourceRevision": 493782,
-      "sourceUpdatedAt": "2026-10-21T15:40:38.000Z",
+      "sourceUpdatedAt": "2026-11-09T03:17:04.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Ziggy's%20Blast%20Quest&oldid=493782",
       "license": "CC-BY-SA-4.0",
       "id": "cp-45181",
@@ -191913,12 +191918,14 @@
     {
       "sourceId": 943,
       "name": "Time Warp",
-      "sourceRevision": 538345,
-      "sourceUpdatedAt": "2026-11-08T10:56:27.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Time%20Warp%20(Canada's%20Wonderland)&oldid=538345",
+      "sourceRevision": 539448,
+      "sourceUpdatedAt": "2026-11-08T23:03:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Time%20Warp%20(Canada's%20Wonderland)&oldid=539448",
       "license": "CC-BY-SA-4.0",
       "id": "cp-943",
-      "aliases": [],
+      "aliases": [
+        "Tomb Raider: The Ride"
+      ],
       "legacyIds": [],
       "park": "Canada's Wonderland",
       "parkId": "cp-park-804",
