@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-10T07:31:48.951Z",
+  "updatedAt": "2026-11-10T19:52:46.216Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -5388,9 +5388,9 @@
     {
       "sourceId": 10499,
       "name": "Wind Chaser",
-      "sourceRevision": 490619,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wind%20Chaser&oldid=490619",
+      "sourceRevision": 541515,
+      "sourceUpdatedAt": "2026-11-10T15:34:23.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wind%20Chaser&oldid=541515",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10499",
       "aliases": [
@@ -61096,9 +61096,9 @@
     {
       "sourceId": 30936,
       "name": "Light of Revenge",
-      "sourceRevision": 488523,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Light%20of%20Revenge&oldid=488523",
+      "sourceRevision": 541541,
+      "sourceUpdatedAt": "2026-11-10T16:49:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Light%20of%20Revenge&oldid=541541",
       "license": "CC-BY-SA-4.0",
       "id": "cp-30936",
       "aliases": [],
@@ -63973,9 +63973,9 @@
     {
       "sourceId": 31706,
       "name": "FamilyBoomerang RollerCoaster",
-      "sourceRevision": 487688,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=FamilyBoomerang%20RollerCoaster&oldid=487688",
+      "sourceRevision": 541543,
+      "sourceUpdatedAt": "2026-11-10T16:54:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=FamilyBoomerang%20RollerCoaster&oldid=541543",
       "license": "CC-BY-SA-4.0",
       "id": "cp-31706",
       "aliases": [],
@@ -140592,9 +140592,9 @@
     {
       "sourceId": 72630,
       "name": "Rodelbanan",
-      "sourceRevision": 482235,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Rodelbanan&oldid=482235",
+      "sourceRevision": 541422,
+      "sourceUpdatedAt": "2026-11-10T10:06:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Rodelbanan&oldid=541422",
       "license": "CC-BY-SA-4.0",
       "id": "cp-72630",
       "aliases": [],
@@ -140702,9 +140702,9 @@
     {
       "sourceId": 72777,
       "name": "Crazy Coaster",
-      "sourceRevision": 491769,
-      "sourceUpdatedAt": "2026-10-16T03:17:02.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Coaster%20(Jacquou%20Parc)&oldid=491769",
+      "sourceRevision": 541421,
+      "sourceUpdatedAt": "2026-11-10T10:04:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Coaster%20(Jacquou%20Parc)&oldid=541421",
       "license": "CC-BY-SA-4.0",
       "id": "cp-72777",
       "aliases": [
@@ -141934,13 +141934,15 @@
     },
     {
       "sourceId": 73250,
-      "name": "Unknown",
-      "sourceRevision": 533674,
-      "sourceUpdatedAt": "2026-11-04T22:09:34.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Prater%20Mack%20Rides%20Coaster)&oldid=533674",
+      "name": "Flying Lili",
+      "sourceRevision": 541460,
+      "sourceUpdatedAt": "2026-11-10T10:42:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flying%20Lili&oldid=541460",
       "license": "CC-BY-SA-4.0",
       "id": "cp-73250",
-      "aliases": [],
+      "aliases": [
+        "Unknown"
+      ],
       "legacyIds": [],
       "park": "Prater",
       "parkId": "cp-park-8847",
@@ -154318,9 +154320,9 @@
     {
       "sourceId": 78696,
       "name": "Big Apple",
-      "sourceRevision": 486820,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Big%20Apple%20(Axels%20N%C3%B6jesf%C3%A4lt%3B%20yellow%20track)&oldid=486820",
+      "sourceRevision": 541420,
+      "sourceUpdatedAt": "2026-11-10T10:04:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Big%20Apple%20(Axels%20N%C3%B6jesf%C3%A4lt%3B%20yellow%20track)&oldid=541420",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78696",
       "aliases": [
@@ -160744,13 +160746,15 @@
     },
     {
       "sourceId": 81679,
-      "name": "Mine Escape",
-      "sourceRevision": 480325,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Escape&oldid=480325",
+      "name": "Wilderness Escape",
+      "sourceRevision": 541551,
+      "sourceUpdatedAt": "2026-11-10T17:03:41.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wilderness%20Escape&oldid=541551",
       "license": "CC-BY-SA-4.0",
       "id": "cp-81679",
-      "aliases": [],
+      "aliases": [
+        "Mine Escape"
+      ],
       "legacyIds": [],
       "park": "Happy Valley",
       "parkId": "cp-park-30934",
@@ -191450,6 +191454,40 @@
       "trackCount": 1
     },
     {
+      "sourceId": 93668,
+      "name": "Unknown",
+      "sourceRevision": 541506,
+      "sourceUpdatedAt": "2026-11-10T14:46:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Moku%20Sphere%20Jinma%20Rides%20Looping%20Coaster)&oldid=541506",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93668",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Moku Sphere",
+      "parkId": "cp-park-29658",
+      "sourceParkId": 29658,
+      "parkAliases": [],
+      "country": "China",
+      "countryCode": "CN",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Jinma Rides",
+      "manufacturerRefs": [
+        {
+          "id": 10008,
+          "name": "Jinma Rides"
+        }
+      ],
+      "type": "Steel",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
+      "dates": {},
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9368,
       "name": "Hyperspace Mountain",
       "sourceRevision": 488218,
@@ -207027,14 +207065,14 @@
     {
       "sourceId": 29658,
       "name": "Moku Sphere",
-      "sourceRevision": 533696,
-      "sourceUpdatedAt": "2026-11-04T22:29:20.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Moku%20Sphere&oldid=533696",
+      "sourceRevision": 541507,
+      "sourceUpdatedAt": "2026-11-10T14:46:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Moku%20Sphere&oldid=541507",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-29658",
       "country": "China",
       "countryCode": "CN",
-      "place": "Chongqing",
+      "place": "Yubei, Chongqing",
       "state": "",
       "coordinates": {
         "lat": 29.7958535287,
@@ -249335,9 +249373,9 @@
     {
       "sourceId": 90573,
       "name": "Turkmenbashi Fairy Tale World",
-      "sourceRevision": 477073,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Turkmenbashi%20Fairy%20Tale%20World&oldid=477073",
+      "sourceRevision": 541329,
+      "sourceUpdatedAt": "2026-11-10T08:27:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Turkmenbashi%20Fairy%20Tale%20World&oldid=541329",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-90573",
       "country": "Turkmenistan",
@@ -249348,12 +249386,17 @@
         "lat": 37.9204107104,
         "lon": 58.3727754623
       },
-      "status": "Operating",
+      "status": "Defunct",
       "dates": {
         "opened": {
           "edtf": "2006-12-08",
           "earliest": "2006-12-08",
           "latest": "2006-12-08"
+        },
+        "closed": {
+          "edtf": "2025",
+          "earliest": "2025-01-01",
+          "latest": "2025-12-31"
         }
       },
       "aliases": []
@@ -251678,6 +251721,75 @@
         }
       },
       "aliases": []
+    },
+    {
+      "sourceId": 93684,
+      "name": "Bro Ddyfi Leisure Centre",
+      "sourceRevision": 541628,
+      "sourceUpdatedAt": "2026-11-10T18:29:42.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bro%20Ddyfi%20Leisure%20Centre&oldid=541628",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93684",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Machynlleth, Powys, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 52.588974317196,
+        "lon": -3.8519554807089
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93700,
+      "name": "Flash Leisure Centre",
+      "sourceRevision": 541696,
+      "sourceUpdatedAt": "2026-11-10T19:10:28.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flash%20Leisure%20Centre&oldid=541696",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93700",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Welshpool, Powys, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 52.665257263829,
+        "lon": -3.1342818807393
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93703,
+      "name": "LC Swansea",
+      "sourceRevision": 541703,
+      "sourceUpdatedAt": "2026-11-10T19:13:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=LC%20Swansea&oldid=541703",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93703",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Swansea, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 51.616969272131,
+        "lon": -3.9407054848397
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1977",
+          "earliest": "1977-01-01",
+          "latest": "1977-12-31"
+        }
+      },
+      "aliases": [
+        "Swansea Leisure Centre",
+        "LC Swansea"
+      ]
     },
     {
       "sourceId": 9374,
