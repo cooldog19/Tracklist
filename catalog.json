@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-09T22:33:33.856Z",
+  "updatedAt": "2026-11-10T07:31:48.951Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -8346,7 +8346,7 @@
       "sourceId": 11111,
       "name": "Icon",
       "sourceRevision": 540650,
-      "sourceUpdatedAt": "2026-11-09T20:40:04.000Z",
+      "sourceUpdatedAt": "2026-11-10T03:17:05.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Icon&oldid=540650",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11111",
