@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-11T06:49:12.976Z",
+  "updatedAt": "2026-11-11T19:44:28.207Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -3527,28 +3527,26 @@
     },
     {
       "sourceId": 10337,
-      "name": "Sky Spin",
-      "sourceRevision": 489594,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Spin&oldid=489594",
+      "name": "Parkour",
+      "sourceRevision": 542866,
+      "sourceUpdatedAt": "2026-11-11T12:40:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Parkour%20(FTE%20Ahrend)&oldid=542866",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10337",
       "aliases": [
         "Cyber Space",
-        "Whirlwind"
+        "Whirlwind",
+        "Sky Spin"
       ],
       "legacyIds": [],
-      "park": "Skyline Park",
-      "parkId": "cp-park-10775",
-      "sourceParkId": 10775,
+      "park": "",
+      "parkId": "",
+      "sourceParkId": null,
       "parkAliases": [],
       "country": "Germany",
       "countryCode": "DE",
-      "locationKind": "park",
-      "coordinates": {
-        "lat": 48.0440207,
-        "lon": 10.5972174
-      },
+      "locationKind": "travelling",
+      "coordinates": null,
       "manufacturer": "Maurer Söhne",
       "manufacturerRefs": [
         {
@@ -3557,15 +3555,9 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
-      "dates": {
-        "opened": {
-          "edtf": "2013-07-06",
-          "earliest": "2013-07-06",
-          "latest": "2013-07-06"
-        }
-      },
+      "status": "Under refurbishment",
+      "sourceStatus": "under_refurbishment",
+      "dates": {},
       "rcdb": "https://rcdb.com/9253.htm",
       "pov": "https://www.youtube.com/watch?v=45rVYiwmp4c",
       "categories": [
@@ -8208,9 +8200,9 @@
     {
       "sourceId": 11099,
       "name": "Sky Dragster",
-      "sourceRevision": 489596,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Dragster&oldid=489596",
+      "sourceRevision": 542765,
+      "sourceUpdatedAt": "2026-11-11T11:20:59.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Dragster&oldid=542765",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11099",
       "aliases": [],
@@ -22601,9 +22593,9 @@
     {
       "sourceId": 14078,
       "name": "Bolt: Ultimate Sea Coaster",
-      "sourceRevision": 486896,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bolt%3A%20Ultimate%20Sea%20Coaster%20(Mardi%20Gras)&oldid=486896",
+      "sourceRevision": 542933,
+      "sourceUpdatedAt": "2026-11-11T13:51:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bolt%3A%20Ultimate%20Sea%20Coaster%20(Mardi%20Gras)&oldid=542933",
       "license": "CC-BY-SA-4.0",
       "id": "cp-14078",
       "aliases": [],
@@ -42243,12 +42235,14 @@
     {
       "sourceId": 2183,
       "name": "Jozi Express",
-      "sourceRevision": 488308,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Jozi%20Express&oldid=488308",
+      "sourceRevision": 542644,
+      "sourceUpdatedAt": "2026-11-11T09:08:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Jozi%20Express&oldid=542644",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2183",
-      "aliases": [],
+      "aliases": [
+        "Super Dragon"
+      ],
       "legacyIds": [],
       "park": "Gold Reef City",
       "parkId": "cp-park-2132",
@@ -58248,9 +58242,9 @@
     {
       "sourceId": 2895,
       "name": "Sky Wheel",
-      "sourceRevision": 491859,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Wheel%20(Skyline%20Park)&oldid=491859",
+      "sourceRevision": 542770,
+      "sourceUpdatedAt": "2026-11-11T11:25:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Wheel%20(Skyline%20Park)&oldid=542770",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2895",
       "aliases": [],
@@ -78248,9 +78242,9 @@
     {
       "sourceId": 392,
       "name": "Reptilian",
-      "sourceRevision": 489182,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Reptilian%20(Kings%20Dominion)&oldid=489182",
+      "sourceRevision": 542942,
+      "sourceUpdatedAt": "2026-11-11T13:58:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Reptilian&oldid=542942",
       "license": "CC-BY-SA-4.0",
       "id": "cp-392",
       "aliases": [],
@@ -86899,9 +86893,9 @@
     {
       "sourceId": 43998,
       "name": "Kids Spin",
-      "sourceRevision": 493648,
-      "sourceUpdatedAt": "2026-10-21T15:26:23.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kids%20Spin&oldid=493648",
+      "sourceRevision": 542786,
+      "sourceUpdatedAt": "2026-11-11T11:35:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kids%20Spin&oldid=542786",
       "license": "CC-BY-SA-4.0",
       "id": "cp-43998",
       "aliases": [],
@@ -91933,9 +91927,9 @@
     {
       "sourceId": 46010,
       "name": "Flotter Otto",
-      "sourceRevision": 487802,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flotter%20Otto&oldid=487802",
+      "sourceRevision": 542782,
+      "sourceUpdatedAt": "2026-11-11T11:33:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flotter%20Otto&oldid=542782",
       "license": "CC-BY-SA-4.0",
       "id": "cp-46010",
       "aliases": [],
@@ -130380,9 +130374,9 @@
     {
       "sourceId": 6523,
       "name": "Crazy Cat",
-      "sourceRevision": 487195,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Cat%20Coaster&oldid=487195",
+      "sourceRevision": 543103,
+      "sourceUpdatedAt": "2026-11-11T16:23:20.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Cat%20Coaster&oldid=543103",
       "license": "CC-BY-SA-4.0",
       "id": "cp-6523",
       "aliases": [],
@@ -130405,7 +130399,18 @@
       "type": "Steel",
       "status": "Unknown",
       "sourceStatus": "unknown",
-      "dates": {},
+      "dates": {
+        "opened": {
+          "edtf": "[..1999]",
+          "earliest": null,
+          "latest": "1999-12-31"
+        },
+        "closed": {
+          "edtf": "[2015..]",
+          "earliest": "2015-01-01",
+          "latest": null
+        }
+      },
       "rcdb": "",
       "pov": "",
       "categories": [],
@@ -142629,9 +142634,9 @@
     {
       "sourceId": 73611,
       "name": "Unknown",
-      "sourceRevision": 490354,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Park%20Mirakulum%20Wood%20Coaster)&oldid=490354",
+      "sourceRevision": 543243,
+      "sourceUpdatedAt": "2026-11-11T18:17:38.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Park%20Mirakulum%20Wood%20Coaster)&oldid=543243",
       "license": "CC-BY-SA-4.0",
       "id": "cp-73611",
       "aliases": [],
@@ -142656,9 +142661,9 @@
       "sourceStatus": "under_construction",
       "dates": {
         "opening": {
-          "edtf": "2027",
-          "earliest": "2027-01-01",
-          "latest": "2027-12-31"
+          "edtf": "2028",
+          "earliest": "2028-01-01",
+          "latest": "2028-12-31"
         }
       },
       "rcdb": "https://rcdb.com/23466.htm",
@@ -144995,9 +145000,9 @@
     {
       "sourceId": 74387,
       "name": "Stone Express",
-      "sourceRevision": 538274,
-      "sourceUpdatedAt": "2026-11-08T10:43:12.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Stone%20Express&oldid=538274",
+      "sourceRevision": 542949,
+      "sourceUpdatedAt": "2026-11-11T14:04:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Stone%20Express&oldid=542949",
       "license": "CC-BY-SA-4.0",
       "id": "cp-74387",
       "aliases": [],
@@ -167381,9 +167386,9 @@
     {
       "sourceId": 83691,
       "name": "Berg- und Tal Hetz",
-      "sourceRevision": 486827,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Berg-%20und%20Tal%20Hetz&oldid=486827",
+      "sourceRevision": 542777,
+      "sourceUpdatedAt": "2026-11-11T11:30:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Berg-%20und%20Tal%20Hetz&oldid=542777",
       "license": "CC-BY-SA-4.0",
       "id": "cp-83691",
       "aliases": [],
@@ -252069,6 +252074,272 @@
       "coordinates": null,
       "status": "Operating",
       "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93830,
+      "name": "Berwick Sports and Leisure Centre",
+      "sourceRevision": 543159,
+      "sourceUpdatedAt": "2026-11-11T17:17:52.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Berwick%20Sports%20and%20Leisure%20Centre&oldid=543159",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93830",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Tweedmouth, Berwick-upon-Tweed, Northumberland, England",
+      "state": "",
+      "coordinates": {
+        "lat": 55.756890404983,
+        "lon": -2.0088017014186
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2022-02-08",
+          "earliest": "2022-02-08",
+          "latest": "2022-02-08"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93834,
+      "name": "Swan Centre for Leisure",
+      "sourceRevision": 543174,
+      "sourceUpdatedAt": "2026-11-11T17:24:22.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Swan%20Centre%20for%20Leisure&oldid=543174",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93834",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Tweedmouth, Berwick-upon-Tweed, Northumberland, England",
+      "state": "",
+      "coordinates": {
+        "lat": 55.757309,
+        "lon": -2.01009
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1998-03-30",
+          "earliest": "1998-03-30",
+          "latest": "1998-03-30"
+        },
+        "closed": {
+          "edtf": "[..2022]",
+          "earliest": null,
+          "latest": "2022-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93838,
+      "name": "Haltwhistle Swimming and Leisure Centre",
+      "sourceRevision": 543191,
+      "sourceUpdatedAt": "2026-11-11T17:40:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Haltwhistle%20Swimming%20and%20Leisure%20Centre&oldid=543191",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93838",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Haltwhistle, Northumberland, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1975",
+          "earliest": "1975-01-01",
+          "latest": "1975-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93840,
+      "name": "Highlight Active Wellbeing Hub",
+      "sourceRevision": 543203,
+      "sourceUpdatedAt": "2026-11-11T17:47:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Highlight%20Active%20Wellbeing%20Hub&oldid=543203",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93840",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hartlepool, County Durham, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.69122580062,
+        "lon": -1.2054254660878
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2026-06-22",
+          "earliest": "2026-06-22",
+          "latest": "2026-06-22"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93843,
+      "name": "Mill House Leisure Centre",
+      "sourceRevision": 543215,
+      "sourceUpdatedAt": "2026-11-11T17:54:07.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mill%20House%20Leisure%20Centre&oldid=543215",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93843",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hartlepool, County Durham, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.689009995025,
+        "lon": -1.2151843477072
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1972-03-04",
+          "earliest": "1972-03-04",
+          "latest": "1972-03-04"
+        },
+        "closed": {
+          "edtf": "2026-04-30",
+          "earliest": "2026-04-30",
+          "latest": "2026-04-30"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93846,
+      "name": "Oasis Fun Pool",
+      "sourceRevision": 543237,
+      "sourceUpdatedAt": "2026-11-11T18:13:23.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Oasis%20Fun%20Pool%20(Mablethorpe)&oldid=543237",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93846",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Mablethorpe, Lincolnshire, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1987",
+          "earliest": "1987-01-01",
+          "latest": "1987-12-31"
+        },
+        "closed": {
+          "edtf": "[..1993]",
+          "earliest": null,
+          "latest": "1993-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93850,
+      "name": "Spennymoor Leisure Centre",
+      "sourceRevision": 543274,
+      "sourceUpdatedAt": "2026-11-11T18:42:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Spennymoor%20Leisure%20Centre&oldid=543274",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93850",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Spennymoor, County Durham, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1984]",
+          "earliest": null,
+          "latest": "1984-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93854,
+      "name": "Splash",
+      "sourceRevision": 543309,
+      "sourceUpdatedAt": "2026-11-11T19:05:09.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Splash%20(Stockton-on-Tees)&oldid=543309",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93854",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Stockton-on-Tees, County Durham, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.567479185645,
+        "lon": -1.3108487413852
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2001-06-12",
+          "earliest": "2001-06-12",
+          "latest": "2001-06-12"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93887,
+      "name": "All Seasons Leisure Centre",
+      "sourceRevision": 543372,
+      "sourceUpdatedAt": "2026-11-11T19:26:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=All%20Seasons%20Leisure%20Centre&oldid=543372",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93887",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Chorley, Lancashire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.659071797011,
+        "lon": -2.6277547667483
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1991-09-14",
+          "earliest": "1991-09-14",
+          "latest": "1991-09-14"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93892,
+      "name": "Hyde Leisure Pool",
+      "sourceRevision": 543380,
+      "sourceUpdatedAt": "2026-11-11T19:29:09.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hyde%20Leisure%20Pool&oldid=543380",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93892",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hyde, Greater Manchester, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.449358608626,
+        "lon": -2.0676647821446
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1988",
+          "earliest": "1988-01-01",
+          "latest": "1988-12-31"
+        }
+      },
       "aliases": []
     },
     {
