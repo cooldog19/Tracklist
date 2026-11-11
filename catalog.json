@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-10T19:52:46.216Z",
+  "updatedAt": "2026-11-11T06:49:12.976Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -1320,7 +1320,7 @@
       "sourceId": 10135,
       "name": "Dizzy Mouse",
       "sourceRevision": 487390,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Dizzy%20Mouse&oldid=487390",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10135",
@@ -6782,9 +6782,9 @@
     {
       "sourceId": 10755,
       "name": "Flight of the Hippogriff",
-      "sourceRevision": 540597,
-      "sourceUpdatedAt": "2026-11-09T20:17:49.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20the%20Hippogriff%20(Universal%20Studios%20Hollywood)&oldid=540597",
+      "sourceRevision": 487791,
+      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20the%20Hippogriff%20(Universal%20Studios%20Hollywood)&oldid=487791",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10755",
       "aliases": [],
@@ -15160,9 +15160,9 @@
     {
       "sourceId": 11978,
       "name": "Tron Lightcycle Run",
-      "sourceRevision": 540548,
-      "sourceUpdatedAt": "2026-11-09T19:56:03.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tron%20Lightcycle%20Run%20(Magic%20Kingdom)&oldid=540548",
+      "sourceRevision": 541975,
+      "sourceUpdatedAt": "2026-11-10T21:56:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tron%20Lightcycle%20Run%20(Magic%20Kingdom)&oldid=541975",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11978",
       "aliases": [],
@@ -22369,7 +22369,7 @@
       "sourceId": 14048,
       "name": "The Villain",
       "sourceRevision": 483058,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=The%20Villain&oldid=483058",
       "license": "CC-BY-SA-4.0",
       "id": "cp-14048",
@@ -32559,7 +32559,7 @@
       "sourceId": 16278,
       "name": "Flagermusen",
       "sourceRevision": 487733,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Flagermusen&oldid=487733",
       "license": "CC-BY-SA-4.0",
       "id": "cp-16278",
@@ -40697,7 +40697,7 @@
       "sourceId": 1988,
       "name": "The Wild One",
       "sourceRevision": 490034,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=The%20Wild%20One&oldid=490034",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1988",
@@ -44765,9 +44765,9 @@
     {
       "sourceId": 228,
       "name": "The Howler",
-      "sourceRevision": 540627,
-      "sourceUpdatedAt": "2026-11-09T20:25:34.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Howler%20(Holiday%20World)&oldid=540627",
+      "sourceRevision": 538600,
+      "sourceUpdatedAt": "2026-11-08T13:20:31.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Howler%20(Holiday%20World)&oldid=538600",
       "license": "CC-BY-SA-4.0",
       "id": "cp-228",
       "aliases": [],
@@ -47595,7 +47595,7 @@
       "sourceId": 235,
       "name": "Stampida",
       "sourceRevision": 528767,
-      "sourceUpdatedAt": "2026-10-31T13:17:32.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Stampida&oldid=528767",
       "license": "CC-BY-SA-4.0",
       "id": "cp-235",
@@ -51731,7 +51731,7 @@
       "sourceId": 25098,
       "name": "Spin Mouse",
       "sourceRevision": 489744,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Spin%20Mouse&oldid=489744",
       "license": "CC-BY-SA-4.0",
       "id": "cp-25098",
@@ -60778,7 +60778,7 @@
       "sourceId": 30530,
       "name": "Zephyr",
       "sourceRevision": 490669,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Zephyr%20(Pontchartrain%20Beach)&oldid=490669",
       "license": "CC-BY-SA-4.0",
       "id": "cp-30530",
@@ -63592,9 +63592,9 @@
     {
       "sourceId": 3156,
       "name": "The Dark Knight Coaster",
-      "sourceRevision": 540613,
-      "sourceUpdatedAt": "2026-11-09T20:20:04.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Dark%20Knight%20Coaster%20(Six%20Flags%20Great%20America)&oldid=540613",
+      "sourceRevision": 489993,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Dark%20Knight%20Coaster%20(Six%20Flags%20Great%20America)&oldid=489993",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3156",
       "aliases": [],
@@ -67261,7 +67261,7 @@
       "sourceId": 337,
       "name": "Phoenix",
       "sourceRevision": 489033,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Phoenix%20(Knoebels%20Amusement%20Resort)&oldid=489033",
       "license": "CC-BY-SA-4.0",
       "id": "cp-337",
@@ -68272,9 +68272,9 @@
     {
       "sourceId": 3401,
       "name": "Wild Eagle",
-      "sourceRevision": 540594,
-      "sourceUpdatedAt": "2026-11-09T20:16:19.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Eagle&oldid=540594",
+      "sourceRevision": 490481,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Eagle&oldid=490481",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3401",
       "aliases": [],
@@ -69517,9 +69517,9 @@
     {
       "sourceId": 347,
       "name": "The Dark Knight Coaster",
-      "sourceRevision": 540611,
-      "sourceUpdatedAt": "2026-11-09T20:20:04.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Dark%20Knight%20Coaster%20(Six%20Flags%20Great%20Adventure)&oldid=540611",
+      "sourceRevision": 489977,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Dark%20Knight%20Coaster%20(Six%20Flags%20Great%20Adventure)&oldid=489977",
       "license": "CC-BY-SA-4.0",
       "id": "cp-347",
       "aliases": [],
@@ -71034,7 +71034,7 @@
       "sourceId": 355,
       "name": "Rolling Thunder",
       "sourceRevision": 489329,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Rolling%20Thunder%20(Six%20Flags%20Great%20Adventure)&oldid=489329",
       "license": "CC-BY-SA-4.0",
       "id": "cp-355",
@@ -78248,9 +78248,9 @@
     {
       "sourceId": 392,
       "name": "Reptilian",
-      "sourceRevision": 540622,
-      "sourceUpdatedAt": "2026-11-09T20:23:49.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Reptilian%20(Kings%20Dominion)&oldid=540622",
+      "sourceRevision": 489182,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Reptilian%20(Kings%20Dominion)&oldid=489182",
       "license": "CC-BY-SA-4.0",
       "id": "cp-392",
       "aliases": [],
@@ -85067,7 +85067,7 @@
       "sourceId": 429,
       "name": "Fujiyama",
       "sourceRevision": 487867,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Fujiyama&oldid=487867",
       "license": "CC-BY-SA-4.0",
       "id": "cp-429",
@@ -98516,9 +98516,9 @@
     {
       "sourceId": 48262,
       "name": "Arctic Rescue",
-      "sourceRevision": 540582,
-      "sourceUpdatedAt": "2026-11-09T20:15:04.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Arctic%20Rescue&oldid=540582",
+      "sourceRevision": 486662,
+      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Arctic%20Rescue&oldid=486662",
       "license": "CC-BY-SA-4.0",
       "id": "cp-48262",
       "aliases": [],
@@ -116464,9 +116464,9 @@
     {
       "sourceId": 55925,
       "name": "Fire in the Hole",
-      "sourceRevision": 540563,
-      "sourceUpdatedAt": "2026-11-09T20:05:49.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fire%20in%20the%20Hole%20(2024)&oldid=540563",
+      "sourceRevision": 541931,
+      "sourceUpdatedAt": "2026-11-10T21:38:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fire%20in%20the%20Hole%20(2024)&oldid=541931",
       "license": "CC-BY-SA-4.0",
       "id": "cp-55925",
       "aliases": [],
@@ -118102,7 +118102,7 @@
       "sourceId": 5761,
       "name": "Antelope",
       "sourceRevision": 486647,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Antelope&oldid=486647",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5761",
@@ -121944,7 +121944,7 @@
       "sourceId": 6002,
       "name": "White Canyon",
       "sourceRevision": 490482,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=White%20Canyon&oldid=490482",
       "license": "CC-BY-SA-4.0",
       "id": "cp-6002",
@@ -122622,9 +122622,9 @@
     {
       "sourceId": 60347,
       "name": "Hiccup's Wing Gliders",
-      "sourceRevision": 540550,
-      "sourceUpdatedAt": "2026-11-09T19:57:33.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Hiccup's%20Wing%20Gliders&oldid=540550",
+      "sourceRevision": 488144,
+      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hiccup's%20Wing%20Gliders&oldid=488144",
       "license": "CC-BY-SA-4.0",
       "id": "cp-60347",
       "aliases": [],
@@ -129056,9 +129056,9 @@
     {
       "sourceId": 64201,
       "name": "Fast & Furious: Hollywood Drift",
-      "sourceRevision": 540571,
-      "sourceUpdatedAt": "2026-11-09T20:12:19.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fast%20%26%20Furious%3A%20Hollywood%20Drift%20(Universal%20Studios%20Hollywood)&oldid=540571",
+      "sourceRevision": 487704,
+      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fast%20%26%20Furious%3A%20Hollywood%20Drift%20(Universal%20Studios%20Hollywood)&oldid=487704",
       "license": "CC-BY-SA-4.0",
       "id": "cp-64201",
       "aliases": [],
@@ -131161,7 +131161,7 @@
       "sourceId": 6608,
       "name": "Milky Way",
       "sourceRevision": 488750,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Milky%20Way&oldid=488750",
       "license": "CC-BY-SA-4.0",
       "id": "cp-6608",
@@ -135934,9 +135934,9 @@
     {
       "sourceId": 680,
       "name": "Matterhorn Bobsleds",
-      "sourceRevision": 540618,
-      "sourceUpdatedAt": "2026-11-09T20:22:19.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Matterhorn%20Bobsleds&oldid=540618",
+      "sourceRevision": 488698,
+      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Matterhorn%20Bobsleds&oldid=488698",
       "license": "CC-BY-SA-4.0",
       "id": "cp-680",
       "aliases": [],
@@ -165488,9 +165488,9 @@
     {
       "sourceId": 8307,
       "name": "Woodstock's Express",
-      "sourceRevision": 540631,
-      "sourceUpdatedAt": "2026-11-09T20:26:34.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Woodstock's%20Express%20(Dorney%20Park%20%26%20Wildwater%20Kingdom)&oldid=540631",
+      "sourceRevision": 538606,
+      "sourceUpdatedAt": "2026-11-08T13:22:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Woodstock's%20Express%20(Dorney%20Park%20%26%20Wildwater%20Kingdom)&oldid=538606",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8307",
       "aliases": [],
@@ -165892,7 +165892,7 @@
       "sourceId": 83276,
       "name": "Forbidden Lair",
       "sourceRevision": 535056,
-      "sourceUpdatedAt": "2026-11-05T21:49:57.000Z",
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Forbidden%20Lair&oldid=535056",
       "license": "CC-BY-SA-4.0",
       "id": "cp-83276",
@@ -181112,9 +181112,9 @@
     {
       "sourceId": 891,
       "name": "Super Grover's Box Car Derby",
-      "sourceRevision": 540565,
-      "sourceUpdatedAt": "2026-11-09T20:08:04.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Super%20Grover's%20Box%20Car%20Derby%20(SeaWorld%20Orlando)&oldid=540565",
+      "sourceRevision": 489825,
+      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Super%20Grover's%20Box%20Car%20Derby%20(SeaWorld%20Orlando)&oldid=489825",
       "license": "CC-BY-SA-4.0",
       "id": "cp-891",
       "aliases": [],
@@ -185696,9 +185696,9 @@
     {
       "sourceId": 9109,
       "name": "Harry Potter and the Escape from Gringotts",
-      "sourceRevision": 540604,
-      "sourceUpdatedAt": "2026-11-09T20:17:49.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Harry%20Potter%20and%20the%20Escape%20from%20Gringotts&oldid=540604",
+      "sourceRevision": 488115,
+      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Harry%20Potter%20and%20the%20Escape%20from%20Gringotts&oldid=488115",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9109",
       "aliases": [],
@@ -192478,9 +192478,9 @@
     {
       "sourceId": 9554,
       "name": "Wonder Mountain's Guardian",
-      "sourceRevision": 540624,
-      "sourceUpdatedAt": "2026-11-09T20:23:49.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wonder%20Mountain's%20Guardian&oldid=540624",
+      "sourceRevision": 490616,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wonder%20Mountain's%20Guardian&oldid=490616",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9554",
       "aliases": [],
@@ -193219,9 +193219,9 @@
     {
       "sourceId": 9674,
       "name": "Joris en de Draak",
-      "sourceRevision": 488317,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Joris%20en%20de%20Draak&oldid=488317",
+      "sourceRevision": 529323,
+      "sourceUpdatedAt": "2026-11-11T03:17:08.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Joris%20en%20de%20Draak&oldid=529323",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9674",
       "aliases": [],
@@ -238079,9 +238079,9 @@
     {
       "sourceId": 73763,
       "name": "Berlin Dungeon",
-      "sourceRevision": 461902,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Berlin%20Dungeon&oldid=461902",
+      "sourceRevision": 541820,
+      "sourceUpdatedAt": "2026-11-10T20:57:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Berlin%20Dungeon&oldid=541820",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-73763",
       "country": "Germany",
@@ -238092,12 +238092,17 @@
         "lat": 52.521335659435,
         "lon": 13.403512577312
       },
-      "status": "Operating",
+      "status": "Standing but not operating",
       "dates": {
         "opened": {
           "edtf": "2013-03-15",
           "earliest": "2013-03-15",
           "latest": "2013-03-15"
+        },
+        "closed": {
+          "edtf": "2026-11-06",
+          "earliest": "2026-11-06",
+          "latest": "2026-11-06"
         }
       },
       "aliases": []
@@ -251792,6 +251797,78 @@
       ]
     },
     {
+      "sourceId": 93716,
+      "name": "Trecco Bay Holiday Park",
+      "sourceRevision": 541766,
+      "sourceUpdatedAt": "2026-11-10T20:00:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Trecco%20Bay%20Holiday%20Park&oldid=541766",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93716",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Porthcawl, Bridgend, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 51.479463444019,
+        "lon": -3.6828036298334
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93724,
+      "name": "Plas Madoc Leisure Centre",
+      "sourceRevision": 541846,
+      "sourceUpdatedAt": "2026-11-10T21:08:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Plas%20Madoc%20Leisure%20Centre&oldid=541846",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93724",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Acrefair, Wrexham, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 52.983347952916,
+        "lon": -3.0627128089752
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1974]",
+          "earliest": null,
+          "latest": "1974-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93729,
+      "name": "SC2",
+      "sourceRevision": 541862,
+      "sourceUpdatedAt": "2026-11-10T21:14:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=SC2&oldid=541862",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93729",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Rhyl, Denbighshire, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 53.320833041125,
+        "lon": -3.4965366582769
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2019-04-12",
+          "earliest": "2019-04-12",
+          "latest": "2019-04-12"
+        }
+      },
+      "aliases": []
+    },
+    {
       "sourceId": 9374,
       "name": "Cinecittà World",
       "sourceRevision": 462051,
@@ -251813,6 +251890,169 @@
         }
       },
       "aliases": []
+    },
+    {
+      "sourceId": 93743,
+      "name": "Sun Centre",
+      "sourceRevision": 541885,
+      "sourceUpdatedAt": "2026-11-10T21:25:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sun%20Centre&oldid=541885",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93743",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Rhyl, Denbighshire, Wales",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1980-06",
+          "earliest": "1980-06-01",
+          "latest": "1980-06-30"
+        },
+        "closed": {
+          "edtf": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93771,
+      "name": "Crowtree Leisure Centre",
+      "sourceRevision": 541945,
+      "sourceUpdatedAt": "2026-11-10T21:43:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Crowtree%20Leisure%20Centre&oldid=541945",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93771",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Sunderland, Tyne and Wear, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1977",
+          "earliest": "1977-01-01",
+          "latest": "1977-12-31"
+        },
+        "closed": {
+          "edtf": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93773,
+      "name": "East End Pool",
+      "sourceRevision": 541948,
+      "sourceUpdatedAt": "2026-11-10T21:47:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=East%20End%20Pool&oldid=541948",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93773",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Byker, Newcastle upon Tyne, Tyne and Wear, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.976773230262,
+        "lon": -1.5777151818242
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2000-09",
+          "earliest": "2000-09-01",
+          "latest": "2000-09-30"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93782,
+      "name": "Haven Point",
+      "sourceRevision": 541978,
+      "sourceUpdatedAt": "2026-11-10T21:56:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Haven%20Point&oldid=541978",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93782",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "South Shields, Tyne and Wear, England",
+      "state": "",
+      "coordinates": {
+        "lat": 55.002074240376,
+        "lon": -1.4210079506512
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2013-10-28",
+          "earliest": "2013-10-28",
+          "latest": "2013-10-28"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93788,
+      "name": "Prudhoe Waterworld",
+      "sourceRevision": 541984,
+      "sourceUpdatedAt": "2026-11-10T21:59:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Prudhoe%20Waterworld&oldid=541984",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93788",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Prudhoe, Northumberland, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.960999418184,
+        "lon": -1.8429470069036
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1990-03",
+          "earliest": "1990-03-01",
+          "latest": "1990-03-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93791,
+      "name": "Waves",
+      "sourceRevision": 541995,
+      "sourceUpdatedAt": "2026-11-10T22:05:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Waves%20(Whitley%20Bay)&oldid=541995",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93791",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Whitley Bay, Tyne and Wear, England",
+      "state": "",
+      "coordinates": {
+        "lat": 55.052450545364,
+        "lon": -1.4530370060899
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1974-03-23",
+          "earliest": "1974-03-23",
+          "latest": "1974-03-23"
+        }
+      },
+      "aliases": [
+        "Whitley Bay Leisure Pool",
+        "Waves"
+      ]
     },
     {
       "sourceId": 9381,
