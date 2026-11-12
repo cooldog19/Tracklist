@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-11T19:44:28.207Z",
+  "updatedAt": "2026-11-12T07:27:13.923Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -12320,9 +12320,9 @@
     {
       "sourceId": 1156,
       "name": "Puff The Little Fire Dragon",
-      "sourceRevision": 493696,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Puff%20The%20Little%20Fire%20Dragon&oldid=493696",
+      "sourceRevision": 543547,
+      "sourceUpdatedAt": "2026-11-11T20:53:56.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Puff%20The%20Little%20Fire%20Dragon&oldid=543547",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1156",
       "aliases": [],
@@ -17278,7 +17278,7 @@
       "sourceId": 12428,
       "name": "Wild Mouse",
       "sourceRevision": 492876,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "sourceUpdatedAt": "2026-11-12T03:17:05.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Wild%20Mouse%20(Primetime%20Carnival)&oldid=492876",
       "license": "CC-BY-SA-4.0",
       "id": "cp-12428",
@@ -202813,16 +202813,19 @@
     {
       "sourceId": 18980,
       "name": "Golden Sands Holiday Park",
-      "sourceRevision": 479476,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Golden%20Sands%20Holiday%20Park&oldid=479476",
+      "sourceRevision": 543563,
+      "sourceUpdatedAt": "2026-11-11T21:07:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Golden%20Sands%20Holiday%20Park&oldid=543563",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-18980",
       "country": "United Kingdom",
       "countryCode": "GB",
       "place": "Mablethorpe, Lincolnshire, England",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 53.355878852302,
+        "lon": 0.248293772929
+      },
       "status": "Operating",
       "dates": {},
       "aliases": []
@@ -212397,9 +212400,9 @@
     {
       "sourceId": 45161,
       "name": "Shady Lake",
-      "sourceRevision": 482640,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Shady%20Lake&oldid=482640",
+      "sourceRevision": 543496,
+      "sourceUpdatedAt": "2026-11-11T20:09:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Shady%20Lake&oldid=543496",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-45161",
       "country": "United States",
@@ -212410,9 +212413,9 @@
       "status": "Defunct",
       "dates": {
         "opened": {
-          "edtf": "1976-06-29",
-          "earliest": "1976-06-29",
-          "latest": "1976-06-29"
+          "edtf": "1977",
+          "earliest": "1977-01-01",
+          "latest": "1977-12-31"
         },
         "closed": {
           "edtf": "1982",
@@ -233579,9 +233582,9 @@
     {
       "sourceId": 70229,
       "name": "Caister-on-Sea Holiday Park",
-      "sourceRevision": 461979,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Caister-on-Sea%20Holiday%20Park&oldid=461979",
+      "sourceRevision": 543549,
+      "sourceUpdatedAt": "2026-11-11T20:53:56.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Caister-on-Sea%20Holiday%20Park&oldid=543549",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-70229",
       "country": "United Kingdom",
@@ -233593,7 +233596,13 @@
         "lon": 1.7235248228222
       },
       "status": "Operating",
-      "dates": {},
+      "dates": {
+        "opened": {
+          "edtf": "1906",
+          "earliest": "1906-01-01",
+          "latest": "1906-12-31"
+        }
+      },
       "aliases": []
     },
     {
@@ -248180,9 +248189,9 @@
     {
       "sourceId": 87289,
       "name": "Episodia Gliwice",
-      "sourceRevision": 478767,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Episodia%20Gliwice&oldid=478767",
+      "sourceRevision": 543425,
+      "sourceUpdatedAt": "2026-11-11T19:44:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Episodia%20Gliwice&oldid=543425",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-87289",
       "country": "Poland",
@@ -248192,7 +248201,7 @@
       "coordinates": null,
       "status": "Under construction",
       "dates": {
-        "opened": {
+        "opening": {
           "edtf": "2027",
           "earliest": "2027-01-01",
           "latest": "2027-12-31"
@@ -252340,6 +252349,120 @@
           "latest": "1988-12-31"
         }
       },
+      "aliases": []
+    },
+    {
+      "sourceId": 93917,
+      "name": "Keswick Leisure Pool",
+      "sourceRevision": 543426,
+      "sourceUpdatedAt": "2026-11-11T19:44:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Keswick%20Leisure%20Pool&oldid=543426",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93917",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Keswick, Cumbria, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.604112227085,
+        "lon": -3.1323367570894
+      },
+      "status": "Standing but not operating",
+      "dates": {
+        "opened": {
+          "edtf": "1987",
+          "earliest": "1987-01-01",
+          "latest": "1987-12-31"
+        },
+        "closed": {
+          "edtf": "2020",
+          "earliest": "2020-01-01",
+          "latest": "2020-12-31"
+        }
+      },
+      "aliases": [
+        "Keswick Spa",
+        "Keswick Leisure Pool"
+      ]
+    },
+    {
+      "sourceId": 93958,
+      "name": "Quay West Holiday Park",
+      "sourceRevision": 543597,
+      "sourceUpdatedAt": "2026-11-11T21:35:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Quay%20West%20Holiday%20Park&oldid=543597",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93958",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "New Quay, Ceredigion, Wales",
+      "state": "",
+      "coordinates": {
+        "lat": 52.206818698904,
+        "lon": -4.346293065324
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93970,
+      "name": "Coastfields Holiday Village",
+      "sourceRevision": 543716,
+      "sourceUpdatedAt": "2026-11-11T23:09:59.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Coastfields%20Holiday%20Village&oldid=543716",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93970",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Ingoldmells, Lincolnshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.199187524668,
+        "lon": 0.35015701948074
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93971,
+      "name": "Riviere Sands Holiday Park",
+      "sourceRevision": 543724,
+      "sourceUpdatedAt": "2026-11-11T23:15:44.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Riviere%20Sands%20Holiday%20Park&oldid=543724",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93971",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Phillack, Hayle, Cornwall, England",
+      "state": "",
+      "coordinates": {
+        "lat": 50.196369160012,
+        "lon": -5.4241855962777
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93972,
+      "name": "Rockley Park Holiday Park",
+      "sourceRevision": 543749,
+      "sourceUpdatedAt": "2026-11-11T23:35:14.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Rockley%20Park%20Holiday%20Park&oldid=543749",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93972",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Poole, Dorset, England",
+      "state": "",
+      "coordinates": {
+        "lat": 50.719745699253,
+        "lon": -2.0295058247188
+      },
+      "status": "Operating",
+      "dates": {},
       "aliases": []
     },
     {
