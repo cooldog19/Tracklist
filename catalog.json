@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-12T07:27:13.923Z",
+  "updatedAt": "2026-11-12T20:10:05.101Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -1598,9 +1598,9 @@
     {
       "sourceId": 10205,
       "name": "Gravity Max",
-      "sourceRevision": 488030,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Gravity%20Max&oldid=488030",
+      "sourceRevision": 544655,
+      "sourceUpdatedAt": "2026-11-12T14:54:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Gravity%20Max&oldid=544655",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10205",
       "aliases": [],
@@ -1635,7 +1635,9 @@
       },
       "rcdb": "https://rcdb.com/1357.htm",
       "pov": "https://www.youtube.com/watch?v=aA4_BjmHzAM",
-      "categories": [],
+      "categories": [
+        "Tilting"
+      ],
       "trackCount": 1
     },
     {
@@ -36027,9 +36029,9 @@
     {
       "sourceId": 17178,
       "name": "Battle of Jungle King",
-      "sourceRevision": 486757,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Battle%20of%20Jungle%20King&oldid=486757",
+      "sourceRevision": 544657,
+      "sourceUpdatedAt": "2026-11-12T14:54:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Battle%20of%20Jungle%20King&oldid=544657",
       "license": "CC-BY-SA-4.0",
       "id": "cp-17178",
       "aliases": [],
@@ -36065,7 +36067,8 @@
       "rcdb": "",
       "pov": "https://www.youtube.com/watch?v=WgIXUjVu84M",
       "categories": [
-        "Twin"
+        "Twin",
+        "Tilting"
       ],
       "trackCount": 2,
       "tracks": [
@@ -91219,9 +91222,9 @@
     {
       "sourceId": 45605,
       "name": "Circuit Breaker",
-      "sourceRevision": 487104,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Circuit%20Breaker&oldid=487104",
+      "sourceRevision": 544652,
+      "sourceUpdatedAt": "2026-11-12T14:52:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Circuit%20Breaker&oldid=544652",
       "license": "CC-BY-SA-4.0",
       "id": "cp-45605",
       "aliases": [],
@@ -91256,7 +91259,9 @@
       },
       "rcdb": "https://rcdb.com/19998.htm",
       "pov": "",
-      "categories": [],
+      "categories": [
+        "Tilting"
+      ],
       "trackCount": 1
     },
     {
@@ -115470,9 +115475,9 @@
     {
       "sourceId": 5521,
       "name": "Winja's Fear & Force",
-      "sourceRevision": 490611,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Winja's%20Fear%20%26%20Force&oldid=490611",
+      "sourceRevision": 544658,
+      "sourceUpdatedAt": "2026-11-12T14:54:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Winja's%20Fear%20%26%20Force&oldid=544658",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5521",
       "aliases": [],
@@ -115511,7 +115516,8 @@
         "Twin",
         "Spinning",
         "Wild Mouse",
-        "Indoor"
+        "Indoor",
+        "Tilting"
       ],
       "trackCount": 2,
       "tracks": [
@@ -120629,9 +120635,9 @@
     {
       "sourceId": 59161,
       "name": "Siren's Curse",
-      "sourceRevision": 489616,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Siren's%20Curse&oldid=489616",
+      "sourceRevision": 544654,
+      "sourceUpdatedAt": "2026-11-12T14:52:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Siren's%20Curse&oldid=544654",
       "license": "CC-BY-SA-4.0",
       "id": "cp-59161",
       "aliases": [],
@@ -120666,7 +120672,9 @@
       },
       "rcdb": "https://rcdb.com/22124.htm",
       "pov": "https://www.youtube.com/watch?v=rj_orAgYKDU",
-      "categories": [],
+      "categories": [
+        "Tilting"
+      ],
       "trackCount": 1
     },
     {
@@ -122297,9 +122305,9 @@
     {
       "sourceId": 60227,
       "name": "Iron Rattler",
-      "sourceRevision": 488243,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Iron%20Rattler%20(Six%20Flags%20Qiddiya%20City)&oldid=488243",
+      "sourceRevision": 544651,
+      "sourceUpdatedAt": "2026-11-12T14:52:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Iron%20Rattler%20(Six%20Flags%20Qiddiya%20City)&oldid=544651",
       "license": "CC-BY-SA-4.0",
       "id": "cp-60227",
       "aliases": [],
@@ -122335,7 +122343,8 @@
       "rcdb": "https://rcdb.com/21312.htm",
       "pov": "",
       "categories": [
-        "Hyper"
+        "Hyper",
+        "Tilting"
       ],
       "trackCount": 1
     },
@@ -149852,9 +149861,9 @@
     {
       "sourceId": 76998,
       "name": "Eagle's Pursuit",
-      "sourceRevision": 487611,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Eagle's%20Pursuit&oldid=487611",
+      "sourceRevision": 545144,
+      "sourceUpdatedAt": "2026-11-12T19:40:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Eagle's%20Pursuit&oldid=545144",
       "license": "CC-BY-SA-4.0",
       "id": "cp-76998",
       "aliases": [],
@@ -149886,7 +149895,9 @@
       },
       "rcdb": "https://rcdb.com/24219.htm",
       "pov": "",
-      "categories": [],
+      "categories": [
+        "Launched"
+      ],
       "trackCount": 1
     },
     {
@@ -191819,6 +191830,49 @@
         "Launched",
         "Winged"
       ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 93983,
+      "name": "Schoene Aussicht",
+      "sourceRevision": 544360,
+      "sourceUpdatedAt": "2026-11-12T09:58:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Schoene%20Aussicht&oldid=544360",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-93983",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Allwetterrodelbahn Weißenfels",
+      "parkId": "cp-park-93982",
+      "sourceParkId": 93982,
+      "parkAliases": [],
+      "country": "Germany",
+      "countryCode": "DE",
+      "locationKind": "park",
+      "coordinates": {
+        "lat": 51.19023,
+        "lon": 11.93751
+      },
+      "manufacturer": "Wiegand",
+      "manufacturerRefs": [
+        {
+          "id": 8270,
+          "name": "Wiegand"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "2001",
+          "earliest": "2001-01-01",
+          "latest": "2001-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
       "trackCount": 1
     },
     {
@@ -247845,9 +247899,9 @@
     {
       "sourceId": 85665,
       "name": "Kalahari Spotsylvania County",
-      "sourceRevision": 462848,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Spotsylvania%20County&oldid=462848",
+      "sourceRevision": 544739,
+      "sourceUpdatedAt": "2026-11-12T16:19:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Spotsylvania%20County&oldid=544739",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-85665",
       "country": "United States",
@@ -247858,9 +247912,9 @@
         "lat": 38.124179,
         "lon": -77.52083
       },
-      "status": "Under construction",
+      "status": "Operating",
       "dates": {
-        "opening": {
+        "opened": {
           "edtf": "2026-11-12",
           "earliest": "2026-11-12",
           "latest": "2026-11-12"
@@ -252463,6 +252517,189 @@
       },
       "status": "Operating",
       "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 93982,
+      "name": "Allwetterrodelbahn Weißenfels",
+      "sourceRevision": 544351,
+      "sourceUpdatedAt": "2026-11-12T09:51:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Allwetterrodelbahn%20Wei%C3%9Fenfels&oldid=544351",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93982",
+      "country": "Germany",
+      "countryCode": "DE",
+      "place": "Weißenfels, Saxony-Anhalt",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2001",
+          "earliest": "2001-01-01",
+          "latest": "2001-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 93984,
+      "name": "Alpincenter Bottrop",
+      "sourceRevision": 544372,
+      "sourceUpdatedAt": "2026-11-12T10:07:30.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Alpincenter%20Bottrop&oldid=544372",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-93984",
+      "country": "Germany",
+      "countryCode": "DE",
+      "place": "Bottrop, North Rhine-Westphalia",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..2008]",
+          "earliest": null,
+          "latest": "2008-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94066,
+      "name": "Manchester Aquatics Centre",
+      "sourceRevision": 545000,
+      "sourceUpdatedAt": "2026-11-12T18:53:59.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Manchester%20Aquatics%20Centre&oldid=545000",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94066",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Manchester, Greater Manchester, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.46951,
+        "lon": -2.235525
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2000-09-16",
+          "earliest": "2000-09-16",
+          "latest": "2000-09-16"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94094,
+      "name": "Ribby Hall Village",
+      "sourceRevision": 545038,
+      "sourceUpdatedAt": "2026-11-12T19:03:14.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ribby%20Hall%20Village&oldid=545038",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94094",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Wrea Green, Lancashire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.779110979313,
+        "lon": -2.8960927185298
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1995",
+          "earliest": "1995-01-01",
+          "latest": "1995-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94120,
+      "name": "Salt Ayre Leisure Centre",
+      "sourceRevision": 545077,
+      "sourceUpdatedAt": "2026-11-12T19:12:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Salt%20Ayre%20Leisure%20Centre&oldid=545077",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94120",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Lancaster, Lancashire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.055529165871,
+        "lon": -2.8226394011956
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1992-09-19",
+          "earliest": "1992-09-19",
+          "latest": "1992-09-19"
+        }
+      },
+      "aliases": [
+        "Salt Ayre Sports Centre",
+        "Salt Ayre Leisure Centre"
+      ]
+    },
+    {
+      "sourceId": 94131,
+      "name": "The Water Place",
+      "sourceRevision": 545092,
+      "sourceUpdatedAt": "2026-11-12T19:16:30.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Water%20Place&oldid=545092",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94131",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bolton, Greater Manchester, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1988-12-02",
+          "earliest": "1988-12-02",
+          "latest": "1988-12-02"
+        },
+        "closed": {
+          "edtf": "2002",
+          "earliest": "2002-01-01",
+          "latest": "2002-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94134,
+      "name": "Waves",
+      "sourceRevision": 545102,
+      "sourceUpdatedAt": "2026-11-12T19:21:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Waves%20(Blackburn)&oldid=545102",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94134",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Blackburn, Lancashire, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1986",
+          "earliest": "1986-01-01",
+          "latest": "1986-12-31"
+        },
+        "closed": {
+          "edtf": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31"
+        }
+      },
       "aliases": []
     },
     {
