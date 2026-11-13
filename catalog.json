@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-12T20:10:05.101Z",
+  "updatedAt": "2026-11-13T06:58:27.348Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -252462,9 +252462,9 @@
     {
       "sourceId": 93970,
       "name": "Coastfields Holiday Village",
-      "sourceRevision": 543716,
-      "sourceUpdatedAt": "2026-11-11T23:09:59.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Coastfields%20Holiday%20Village&oldid=543716",
+      "sourceRevision": 545861,
+      "sourceUpdatedAt": "2026-11-13T05:39:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Coastfields%20Holiday%20Village&oldid=545861",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-93970",
       "country": "United Kingdom",
@@ -252698,6 +252698,57 @@
           "edtf": "2015",
           "earliest": "2015-01-01",
           "latest": "2015-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94162,
+      "name": "Herringthorpe Leisure Centre",
+      "sourceRevision": 545421,
+      "sourceUpdatedAt": "2026-11-12T22:01:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Herringthorpe%20Leisure%20Centre&oldid=545421",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94162",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Rotherham, South Yorkshire, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[..1974]",
+          "earliest": null,
+          "latest": "1974-12-31"
+        },
+        "closed": {
+          "edtf": "[..2004]",
+          "earliest": null,
+          "latest": "2004-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94166,
+      "name": "Hillsborough Leisure Centre",
+      "sourceRevision": 545439,
+      "sourceUpdatedAt": "2026-11-12T22:14:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hillsborough%20Leisure%20Centre&oldid=545439",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94166",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Sheffield, South Yorkshire, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1991",
+          "earliest": "1991-01-01",
+          "latest": "1991-12-31"
         }
       },
       "aliases": []
