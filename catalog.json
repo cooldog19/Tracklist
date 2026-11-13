@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-13T06:58:27.348Z",
+  "updatedAt": "2026-11-13T19:53:38.061Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -15154,9 +15154,9 @@
     {
       "sourceId": 11978,
       "name": "Tron Lightcycle Run",
-      "sourceRevision": 541975,
-      "sourceUpdatedAt": "2026-11-10T21:56:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tron%20Lightcycle%20Run%20(Magic%20Kingdom)&oldid=541975",
+      "sourceRevision": 546711,
+      "sourceUpdatedAt": "2026-11-13T19:23:34.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tron%20Lightcycle%20Run%20(Magic%20Kingdom)&oldid=546711",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11978",
       "aliases": [],
@@ -15981,9 +15981,9 @@
     {
       "sourceId": 12163,
       "name": "Guardians of the Galaxy: Cosmic Rewind",
-      "sourceRevision": 488084,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Guardians%20of%20the%20Galaxy%3A%20Cosmic%20Rewind&oldid=488084",
+      "sourceRevision": 546702,
+      "sourceUpdatedAt": "2026-11-13T19:20:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Guardians%20of%20the%20Galaxy%3A%20Cosmic%20Rewind&oldid=546702",
       "license": "CC-BY-SA-4.0",
       "id": "cp-12163",
       "aliases": [],
@@ -17909,9 +17909,9 @@
     {
       "sourceId": 12651,
       "name": "Avengers Assemble: Flight Force",
-      "sourceRevision": 534354,
-      "sourceUpdatedAt": "2026-11-05T08:35:48.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Avengers%20Assemble%3A%20Flight%20Force&oldid=534354",
+      "sourceRevision": 546696,
+      "sourceUpdatedAt": "2026-11-13T19:19:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Avengers%20Assemble%3A%20Flight%20Force&oldid=546696",
       "license": "CC-BY-SA-4.0",
       "id": "cp-12651",
       "aliases": [],
@@ -40166,9 +40166,9 @@
     {
       "sourceId": 195,
       "name": "Millennium Force",
-      "sourceRevision": 493888,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Millennium%20Force%20(Cedar%20Point)&oldid=493888",
+      "sourceRevision": 546703,
+      "sourceUpdatedAt": "2026-11-13T19:20:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Millennium%20Force%20(Cedar%20Point)&oldid=546703",
       "license": "CC-BY-SA-4.0",
       "id": "cp-195",
       "aliases": [],
@@ -43162,9 +43162,9 @@
     {
       "sourceId": 2216,
       "name": "Expedition Everest",
-      "sourceRevision": 487628,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Expedition%20Everest&oldid=487628",
+      "sourceRevision": 546697,
+      "sourceUpdatedAt": "2026-11-13T19:19:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Expedition%20Everest&oldid=546697",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2216",
       "aliases": [],
@@ -56010,9 +56010,9 @@
     {
       "sourceId": 2808,
       "name": "Rock 'n' Roller Coaster",
-      "sourceRevision": 489241,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Rock%20'n'%20Roller%20Coaster%20(Disney's%20Hollywood%20Studios)&oldid=489241",
+      "sourceRevision": 546706,
+      "sourceUpdatedAt": "2026-11-13T19:21:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Rock%20'n'%20Roller%20Coaster%20(Disney's%20Hollywood%20Studios)&oldid=546706",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2808",
       "aliases": [],
@@ -66205,9 +66205,9 @@
     {
       "sourceId": 3330,
       "name": "Viper",
-      "sourceRevision": 488696,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Viper%20(Six%20Flags%20Great%20Adventure)&oldid=488696",
+      "sourceRevision": 546712,
+      "sourceUpdatedAt": "2026-11-13T19:23:34.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Viper%20(Six%20Flags%20Great%20Adventure)&oldid=546712",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3330",
       "aliases": [],
@@ -79020,9 +79020,9 @@
     {
       "sourceId": 394,
       "name": "Flight of Fear",
-      "sourceRevision": 492479,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20Fear%20(Kings%20Dominion)&oldid=492479",
+      "sourceRevision": 546698,
+      "sourceUpdatedAt": "2026-11-13T19:19:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20Fear%20(Kings%20Dominion)&oldid=546698",
       "license": "CC-BY-SA-4.0",
       "id": "cp-394",
       "aliases": [
@@ -128599,9 +128599,9 @@
     {
       "sourceId": 63838,
       "name": "Broken Rail Roller Coaster",
-      "sourceRevision": 486955,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Broken%20Rail%20Roller%20Coaster%20(Suzhou%20Amusement%20Land%20Forest%20World)&oldid=486955",
+      "sourceRevision": 546301,
+      "sourceUpdatedAt": "2026-11-13T13:09:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Broken%20Rail%20Roller%20Coaster%20(Suzhou%20Amusement%20Land%20Forest%20World)&oldid=546301",
       "license": "CC-BY-SA-4.0",
       "id": "cp-63838",
       "aliases": [],
@@ -128636,7 +128636,9 @@
       },
       "rcdb": "https://rcdb.com/15501.htm",
       "pov": "https://www.youtube.com/watch?v=AC8wf7JUP6g",
-      "categories": [],
+      "categories": [
+        "Tilting"
+      ],
       "trackCount": 1
     },
     {
@@ -129792,9 +129794,9 @@
     {
       "sourceId": 6439,
       "name": "Tron Lightcycle Power Run",
-      "sourceRevision": 490226,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tron%20Lightcycle%20Power%20Run%20(Shanghai%20Disneyland)&oldid=490226",
+      "sourceRevision": 546709,
+      "sourceUpdatedAt": "2026-11-13T19:23:34.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tron%20Lightcycle%20Power%20Run%20(Shanghai%20Disneyland)&oldid=546709",
       "license": "CC-BY-SA-4.0",
       "id": "cp-6439",
       "aliases": [],
@@ -148668,9 +148670,9 @@
     {
       "sourceId": 765,
       "name": "Flight of Fear",
-      "sourceRevision": 530055,
-      "sourceUpdatedAt": "2026-11-01T20:25:39.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20Fear%20(Kings%20Island)&oldid=530055",
+      "sourceRevision": 546700,
+      "sourceUpdatedAt": "2026-11-13T19:20:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20Fear%20(Kings%20Island)&oldid=546700",
       "license": "CC-BY-SA-4.0",
       "id": "cp-765",
       "aliases": [
@@ -151237,9 +151239,9 @@
     {
       "sourceId": 77323,
       "name": "Star Loop",
-      "sourceRevision": 489817,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Star%20Loop&oldid=489817",
+      "sourceRevision": 546656,
+      "sourceUpdatedAt": "2026-11-13T19:00:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Star%20Loop&oldid=546656",
       "license": "CC-BY-SA-4.0",
       "id": "cp-77323",
       "aliases": [
@@ -151568,9 +151570,9 @@
     {
       "sourceId": 77468,
       "name": "Tilt of Thunder",
-      "sourceRevision": 490115,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tilt%20of%20Thunder&oldid=490115",
+      "sourceRevision": 546308,
+      "sourceUpdatedAt": "2026-11-13T13:14:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tilt%20of%20Thunder&oldid=546308",
       "license": "CC-BY-SA-4.0",
       "id": "cp-77468",
       "aliases": [],
@@ -151602,7 +151604,9 @@
       },
       "rcdb": "https://rcdb.com/23444.htm",
       "pov": "",
-      "categories": [],
+      "categories": [
+        "Tilting"
+      ],
       "trackCount": 1
     },
     {
@@ -157737,9 +157741,9 @@
     {
       "sourceId": 79115,
       "name": "Tilt Track Coaster",
-      "sourceRevision": 490116,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tilt%20Track%20Coaster%20(Wowstock%20Happy%20Island)&oldid=490116",
+      "sourceRevision": 546684,
+      "sourceUpdatedAt": "2026-11-13T19:05:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tilt%20Track%20Coaster%20(Wowstock%20Happy%20Island)&oldid=546684",
       "license": "CC-BY-SA-4.0",
       "id": "cp-79115",
       "aliases": [],
@@ -157771,15 +157775,17 @@
       },
       "rcdb": "https://rcdb.com/13863.htm",
       "pov": "",
-      "categories": [],
+      "categories": [
+        "Tilting"
+      ],
       "trackCount": 1
     },
     {
       "sourceId": 79119,
       "name": "Broken Roller Coaster",
-      "sourceRevision": 486961,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Broken%20Roller%20Coaster&oldid=486961",
+      "sourceRevision": 546302,
+      "sourceUpdatedAt": "2026-11-13T13:09:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Broken%20Roller%20Coaster&oldid=546302",
       "license": "CC-BY-SA-4.0",
       "id": "cp-79119",
       "aliases": [],
@@ -157816,7 +157822,9 @@
       },
       "rcdb": "https://rcdb.com/16310.htm",
       "pov": "",
-      "categories": [],
+      "categories": [
+        "Tilting"
+      ],
       "trackCount": 1
     },
     {
@@ -173800,9 +173808,9 @@
     {
       "sourceId": 84954,
       "name": "Kålmasken",
-      "sourceRevision": 488496,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=K%C3%A5lmasken%20(Halmstad%20%C3%84ventyrsland%3B%20opened%202005)&oldid=488496",
+      "sourceRevision": 546070,
+      "sourceUpdatedAt": "2026-11-13T09:13:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=K%C3%A5lmasken%20(Halmstad%20%C3%84ventyrsland%3B%20opened%202005)&oldid=546070",
       "license": "CC-BY-SA-4.0",
       "id": "cp-84954",
       "aliases": [],
@@ -174146,9 +174154,9 @@
     {
       "sourceId": 84991,
       "name": "Kålmasken",
-      "sourceRevision": 488497,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=K%C3%A5lmasken%20(Halmstad%20%C3%84ventyrsland%3B%20opened%202010-2012)&oldid=488497",
+      "sourceRevision": 546061,
+      "sourceUpdatedAt": "2026-11-13T09:07:31.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=K%C3%A5lmasken%20(Halmstad%20%C3%84ventyrsland%3B%20opened%202010)&oldid=546061",
       "license": "CC-BY-SA-4.0",
       "id": "cp-84991",
       "aliases": [],
@@ -189761,9 +189769,9 @@
     {
       "sourceId": 9251,
       "name": "Revenge of the Mummy",
-      "sourceRevision": 489192,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Revenge%20of%20the%20Mummy%20(Universal%20Studios%20Florida)&oldid=489192",
+      "sourceRevision": 546704,
+      "sourceUpdatedAt": "2026-11-13T19:21:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Revenge%20of%20the%20Mummy%20(Universal%20Studios%20Florida)&oldid=546704",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9251",
       "aliases": [],
@@ -191548,9 +191556,9 @@
     {
       "sourceId": 9370,
       "name": "Space Mountain",
-      "sourceRevision": 489681,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Space%20Mountain%20(Magic%20Kingdom)&oldid=489681",
+      "sourceRevision": 546707,
+      "sourceUpdatedAt": "2026-11-13T19:21:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Space%20Mountain%20(Magic%20Kingdom)&oldid=546707",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9370",
       "aliases": [],
@@ -228079,6 +228087,37 @@
       "aliases": []
     },
     {
+      "sourceId": 64824,
+      "name": "Richard Dunn Sports Centre",
+      "sourceRevision": 546677,
+      "sourceUpdatedAt": "2026-11-13T19:03:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Richard%20Dunn%20Sports%20Centre&oldid=546677",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-64824",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bradford, West Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.766760232716,
+        "lon": -1.7590829177036
+      },
+      "status": "Standing but not operating",
+      "dates": {
+        "opened": {
+          "edtf": "1978",
+          "earliest": "1978-01-01",
+          "latest": "1978-12-31"
+        },
+        "closed": {
+          "edtf": "2019-11",
+          "earliest": "2019-11-01",
+          "latest": "2019-11-30"
+        }
+      },
+      "aliases": []
+    },
+    {
       "sourceId": 64928,
       "name": "The Alaska Club Eagle River",
       "sourceRevision": 464095,
@@ -252751,6 +252790,75 @@
           "latest": "1991-12-31"
         }
       },
+      "aliases": []
+    },
+    {
+      "sourceId": 94186,
+      "name": "Huddersfield Leisure Centre",
+      "sourceRevision": 546554,
+      "sourceUpdatedAt": "2026-11-13T17:48:31.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Huddersfield%20Leisure%20Centre&oldid=546554",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94186",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Huddersfield, West Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.643947828744,
+        "lon": -1.7877823624538
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2015-05-18",
+          "earliest": "2015-05-18",
+          "latest": "2015-05-18"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94191,
+      "name": "Ponds Forge International Sports Centre",
+      "sourceRevision": 546578,
+      "sourceUpdatedAt": "2026-11-13T18:06:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ponds%20Forge%20International%20Sports%20Centre&oldid=546578",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94191",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Sheffield, South Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.38246342443,
+        "lon": -1.4619517351937
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1991-03-23",
+          "earliest": "1991-03-23",
+          "latest": "1991-03-23"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94199,
+      "name": "Park Kultury i Vidpochynku",
+      "sourceRevision": 546596,
+      "sourceUpdatedAt": "2026-11-13T18:15:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Park%20Kultury%20i%20Vidpochynku%20(Shepetivskyi)&oldid=546596",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94199",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "place": "Shepetivskyi, Khmelnytskyi",
+      "state": "",
+      "coordinates": null,
+      "status": "Unknown",
+      "dates": {},
       "aliases": []
     },
     {
