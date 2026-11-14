@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-13T19:53:38.061Z",
+  "updatedAt": "2026-11-14T18:19:46.667Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -44464,9 +44464,9 @@
     {
       "sourceId": 22660,
       "name": "Pitts Special",
-      "sourceRevision": 489107,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Pitts%20Special&oldid=489107",
+      "sourceRevision": 547032,
+      "sourceUpdatedAt": "2026-11-14T08:45:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Pitts%20Special&oldid=547032",
       "license": "CC-BY-SA-4.0",
       "id": "cp-22660",
       "aliases": [],
@@ -44478,7 +44478,10 @@
       "country": "Finland",
       "countryCode": "FI",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 63.230482,
+        "lon": 22.854846
+      },
       "manufacturer": "Gerstlauer",
       "manufacturerRefs": [
         {
@@ -81483,9 +81486,9 @@
     {
       "sourceId": 41060,
       "name": "Tornado",
-      "sourceRevision": 490197,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tornado%20(Salitre%20Magico)&oldid=490197",
+      "sourceRevision": 547091,
+      "sourceUpdatedAt": "2026-11-14T14:34:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tornado%20(Salitre%20Magico)&oldid=547091",
       "license": "CC-BY-SA-4.0",
       "id": "cp-41060",
       "aliases": [
@@ -85205,9 +85208,9 @@
     {
       "sourceId": 43121,
       "name": "Hot Wheels",
-      "sourceRevision": 488191,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Hot%20Wheels%20Twin%20Mill%20Racer%20(Mattel%20Adventure%20Park)&oldid=488191",
+      "sourceRevision": 547027,
+      "sourceUpdatedAt": "2026-11-14T07:48:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hot%20Wheels%20Twin%20Mill%20Racer%20(Mattel%20Adventure%20Park)&oldid=547027",
       "license": "CC-BY-SA-4.0",
       "id": "cp-43121",
       "aliases": [],
@@ -85232,9 +85235,9 @@
       "sourceStatus": "under_construction",
       "dates": {
         "opening": {
-          "edtf": "2026",
-          "earliest": "2026-01-01",
-          "latest": "2026-12-31"
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
         }
       },
       "rcdb": "https://rcdb.com/19394.htm",
@@ -86552,9 +86555,9 @@
     {
       "sourceId": 43948,
       "name": "Bone Shaker",
-      "sourceRevision": 486906,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bone%20Shaker%20(Mattel%20Adventure%20Park)&oldid=486906",
+      "sourceRevision": 547026,
+      "sourceUpdatedAt": "2026-11-14T07:48:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bone%20Shaker%20(Mattel%20Adventure%20Park)&oldid=547026",
       "license": "CC-BY-SA-4.0",
       "id": "cp-43948",
       "aliases": [],
@@ -86579,9 +86582,9 @@
       "sourceStatus": "under_construction",
       "dates": {
         "opening": {
-          "edtf": "2025",
-          "earliest": "2025-01-01",
-          "latest": "2025-12-31"
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
         }
       },
       "rcdb": "https://rcdb.com/19724.htm",
@@ -96772,9 +96775,9 @@
     {
       "sourceId": 47509,
       "name": "Heiße Fahrt",
-      "sourceRevision": 488135,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Hei%C3%9Fe%20Fahrt&oldid=488135",
+      "sourceRevision": 547033,
+      "sourceUpdatedAt": "2026-11-14T08:47:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hei%C3%9Fe%20Fahrt&oldid=547033",
       "license": "CC-BY-SA-4.0",
       "id": "cp-47509",
       "aliases": [],
@@ -96786,7 +96789,10 @@
       "country": "Germany",
       "countryCode": "DE",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 50.157915,
+        "lon": 7.161928
+      },
       "manufacturer": "Gerstlauer",
       "manufacturerRefs": [
         {
@@ -135950,9 +135956,9 @@
     {
       "sourceId": 680,
       "name": "Matterhorn Bobsleds",
-      "sourceRevision": 488698,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Matterhorn%20Bobsleds&oldid=488698",
+      "sourceRevision": 547069,
+      "sourceUpdatedAt": "2026-11-14T11:48:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Matterhorn%20Bobsleds&oldid=547069",
       "license": "CC-BY-SA-4.0",
       "id": "cp-680",
       "aliases": [],
@@ -194113,13 +194119,15 @@
     },
     {
       "sourceId": 9770,
-      "name": "Galaxy Orbiter",
-      "sourceRevision": 487929,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Galaxy%20Orbiter&oldid=487929",
+      "name": "Mouse Trap",
+      "sourceRevision": 547055,
+      "sourceUpdatedAt": "2026-11-14T11:08:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mouse%20Trap%20(Galaxyland)&oldid=547055",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9770",
-      "aliases": [],
+      "aliases": [
+        "Galaxy Orbiter"
+      ],
       "legacyIds": [],
       "park": "Galaxyland",
       "parkId": "cp-park-9742",
@@ -252847,19 +252855,283 @@
     {
       "sourceId": 94199,
       "name": "Park Kultury i Vidpochynku",
-      "sourceRevision": 546596,
-      "sourceUpdatedAt": "2026-11-13T18:15:46.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Park%20Kultury%20i%20Vidpochynku%20(Shepetivskyi)&oldid=546596",
+      "sourceRevision": 547137,
+      "sourceUpdatedAt": "2026-11-14T16:26:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Park%20Kultury%20i%20Vidpochynku%20(Shepetivskyi)&oldid=547137",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-94199",
       "country": "Ukraine",
       "countryCode": "UA",
       "place": "Shepetivskyi, Khmelnytskyi",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 50.186944,
+        "lon": 27.067775
+      },
       "status": "Unknown",
       "dates": {},
       "aliases": []
+    },
+    {
+      "sourceId": 94334,
+      "name": "The Dome",
+      "sourceRevision": 547118,
+      "sourceUpdatedAt": "2026-11-14T15:57:30.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Dome&oldid=547118",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94334",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Doncaster, South Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.515492,
+        "lon": -1.09918
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1989-10-01",
+          "earliest": "1989-10-01",
+          "latest": "1989-10-01"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94345,
+      "name": "Waterworld",
+      "sourceRevision": 547129,
+      "sourceUpdatedAt": "2026-11-14T16:18:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Waterworld%20(York)&oldid=547129",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94345",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "York, North Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.984904,
+        "lon": -1.050663
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1997-07-19",
+          "earliest": "1997-07-19",
+          "latest": "1997-07-19"
+        },
+        "closed": {
+          "edtf": "2014-11-30",
+          "earliest": "2014-11-30",
+          "latest": "2014-11-30"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94356,
+      "name": "Atlantis Water Park",
+      "sourceRevision": 547157,
+      "sourceUpdatedAt": "2026-11-14T16:34:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Atlantis%20Water%20Park&oldid=547157",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94356",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Scarborough, North Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.292748,
+        "lon": -0.408301
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1984",
+          "earliest": "1984-01-01",
+          "latest": "1984-12-31"
+        },
+        "closed": {
+          "edtf": "[..2007]",
+          "earliest": null,
+          "latest": "2007-12-31"
+        }
+      },
+      "aliases": [
+        "Waterscene",
+        "Water Splash World",
+        "Atlantis Water Park"
+      ]
+    },
+    {
+      "sourceId": 94360,
+      "name": "Cleethorpes Leisure Centre",
+      "sourceRevision": 547162,
+      "sourceUpdatedAt": "2026-11-14T16:43:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cleethorpes%20Leisure%20Centre&oldid=547162",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94360",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Cleethorpes, Lincolnshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.55174615187,
+        "lon": -0.017638261840206
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1983",
+          "earliest": "1983-01-01",
+          "latest": "1983-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94367,
+      "name": "East Riding Leisure Goole",
+      "sourceRevision": 547170,
+      "sourceUpdatedAt": "2026-11-14T16:59:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=East%20Riding%20Leisure%20Goole&oldid=547170",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94367",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Goole, East Riding of Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.701890246079,
+        "lon": -0.86845338349554
+      },
+      "status": "Under refurbishment",
+      "dates": {
+        "opened": {
+          "edtf": "[..1988]",
+          "earliest": null,
+          "latest": "1988-12-31"
+        }
+      },
+      "aliases": [
+        "Boothferry Leisure Centre",
+        "Goole Leisure Centre",
+        "East Riding Leisure Goole"
+      ]
+    },
+    {
+      "sourceId": 94371,
+      "name": "Northallerton Leisure and Wellbeing Hub",
+      "sourceRevision": 547179,
+      "sourceUpdatedAt": "2026-11-14T17:09:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Northallerton%20Leisure%20and%20Wellbeing%20Hub&oldid=547179",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94371",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Northallerton, North Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 54.348062692667,
+        "lon": -1.4348216988573
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1990-03",
+          "earliest": "1990-03-01",
+          "latest": "1990-03-31"
+        }
+      },
+      "aliases": [
+        "Hambleton Leisure Centre",
+        "Northallerton Leisure Centre",
+        "Northallerton Leisure and Wellbeing Hub"
+      ]
+    },
+    {
+      "sourceId": 94378,
+      "name": "Scunthorpe Leisure Centre",
+      "sourceRevision": 547188,
+      "sourceUpdatedAt": "2026-11-14T17:17:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Scunthorpe%20Leisure%20Centre&oldid=547188",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94378",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Scunthorpe, Lincolnshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.591546,
+        "lon": -0.642359
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1984-03",
+          "earliest": "1984-03-01",
+          "latest": "1984-03-31"
+        },
+        "closed": {
+          "edtf": "2011",
+          "earliest": "2011-01-01",
+          "latest": "2011-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94384,
+      "name": "Dubovyi Hai",
+      "sourceRevision": 547194,
+      "sourceUpdatedAt": "2026-11-14T17:21:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dubovyi%20Hai&oldid=547194",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94384",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "place": "Zaporizhzhia, Zaporizhzhia",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1959-05-01",
+          "earliest": "1959-05-01",
+          "latest": "1959-05-01"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94387,
+      "name": "Woodford Leisure Centre",
+      "sourceRevision": 547197,
+      "sourceUpdatedAt": "2026-11-14T17:26:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Woodford%20Leisure%20Centre&oldid=547197",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94387",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hull, East Riding of Yorkshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.762900134136,
+        "lon": -0.29907769771431
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1983]",
+          "earliest": null,
+          "latest": "1983-12-31"
+        }
+      },
+      "aliases": [
+        "Woodford Sports Centre",
+        "Woodford Leisure Centre"
+      ]
     },
     {
       "sourceId": 9473,
