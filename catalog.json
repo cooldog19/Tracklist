@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-14T18:19:46.667Z",
+  "updatedAt": "2026-11-14T22:38:10.646Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -156625,9 +156625,9 @@
     {
       "sourceId": 78965,
       "name": "Wilde Maus",
-      "sourceRevision": 490638,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wilde%20Maus%20(Prater)&oldid=490638",
+      "sourceRevision": 547252,
+      "sourceUpdatedAt": "2026-11-14T19:30:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wilde%20Maus%20(Prater)&oldid=547252",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78965",
       "aliases": [],
@@ -156639,7 +156639,10 @@
       "country": "Austria",
       "countryCode": "AT",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 48.215016,
+        "lon": 16.399318
+      },
       "manufacturer": "Maurer Rides",
       "manufacturerRefs": [
         {
@@ -161854,9 +161857,9 @@
     {
       "sourceId": 81997,
       "name": "Volare",
-      "sourceRevision": 538352,
-      "sourceUpdatedAt": "2026-11-08T10:57:43.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Volare%20(Prater)&oldid=538352",
+      "sourceRevision": 547251,
+      "sourceUpdatedAt": "2026-11-14T19:29:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Volare%20(Prater)&oldid=547251",
       "license": "CC-BY-SA-4.0",
       "id": "cp-81997",
       "aliases": [],
@@ -161868,7 +161871,10 @@
       "country": "Austria",
       "countryCode": "AT",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 48.217118,
+        "lon": 16.398918
+      },
       "manufacturer": "Zamperla",
       "manufacturerRefs": [
         {
@@ -161896,9 +161902,9 @@
     {
       "sourceId": 81998,
       "name": "Zug des Manitu",
-      "sourceRevision": 490708,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Zug%20des%20Manitu&oldid=490708",
+      "sourceRevision": 547253,
+      "sourceUpdatedAt": "2026-11-14T19:30:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Zug%20des%20Manitu&oldid=547253",
       "license": "CC-BY-SA-4.0",
       "id": "cp-81998",
       "aliases": [],
@@ -161910,7 +161916,10 @@
       "country": "Austria",
       "countryCode": "AT",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 48.216047,
+        "lon": 16.398707
+      },
       "manufacturer": "CAM Baby Kart",
       "manufacturerRefs": [
         {
@@ -252869,6 +252878,23 @@
         "lon": 27.067775
       },
       "status": "Unknown",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 94329,
+      "name": "Busch Gardens Dubai",
+      "sourceRevision": 547215,
+      "sourceUpdatedAt": "2026-11-14T18:28:49.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Busch%20Gardens%20Dubai&oldid=547215",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94329",
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "place": "Dubai, United Arab Emirates",
+      "state": "",
+      "coordinates": null,
+      "status": "Cancelled",
       "dates": {},
       "aliases": []
     },
