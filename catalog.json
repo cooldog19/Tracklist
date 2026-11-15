@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-15T06:51:19.456Z",
+  "updatedAt": "2026-11-15T18:58:53.573Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -22148,7 +22148,10 @@
       "park": "Family Kingdom",
       "parkId": "cp-park-9827",
       "sourceParkId": 9827,
-      "parkAliases": [],
+      "parkAliases": [
+        "Grant Strand Amusement Park",
+        "Family Kingdom"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -25982,9 +25985,9 @@
     {
       "sourceId": 15142,
       "name": "Rex’s Racer",
-      "sourceRevision": 493779,
-      "sourceUpdatedAt": "2026-10-21T15:40:38.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Rex's%20Racer&oldid=493779",
+      "sourceRevision": 548054,
+      "sourceUpdatedAt": "2026-11-15T17:26:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Rex's%20Racer&oldid=548054",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15142",
       "aliases": [],
@@ -69205,7 +69208,10 @@
       "park": "Family Kingdom",
       "parkId": "cp-park-9827",
       "sourceParkId": 9827,
-      "parkAliases": [],
+      "parkAliases": [
+        "Grant Strand Amusement Park",
+        "Family Kingdom"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -139461,7 +139467,10 @@
       "park": "Family Kingdom",
       "parkId": "cp-park-9827",
       "sourceParkId": 9827,
-      "parkAliases": [],
+      "parkAliases": [
+        "Grant Strand Amusement Park",
+        "Family Kingdom"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -147181,7 +147190,10 @@
       "park": "Family Kingdom",
       "parkId": "cp-park-9827",
       "sourceParkId": 9827,
-      "parkAliases": [],
+      "parkAliases": [
+        "Grant Strand Amusement Park",
+        "Family Kingdom"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -155086,9 +155098,9 @@
     {
       "sourceId": 78762,
       "name": "Spirale Express",
-      "sourceRevision": 489818,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Spirale%20Express&oldid=489818",
+      "sourceRevision": 548042,
+      "sourceUpdatedAt": "2026-11-15T17:22:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Spirale%20Express&oldid=548042",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78762",
       "aliases": [],
@@ -155101,8 +155113,8 @@
       "countryCode": "FR",
       "locationKind": "park",
       "coordinates": {
-        "lat": 50.430383,
-        "lon": 1.60534
+        "lat": 50.430535,
+        "lon": 1.601253
       },
       "manufacturer": "Soquet",
       "manufacturerRefs": [
@@ -194742,7 +194754,10 @@
       "park": "Family Kingdom",
       "parkId": "cp-park-9827",
       "sourceParkId": 9827,
-      "parkAliases": [],
+      "parkAliases": [
+        "Grant Strand Amusement Park",
+        "Family Kingdom"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -253162,6 +253177,221 @@
       ]
     },
     {
+      "sourceId": 94497,
+      "name": "Corby International Pool",
+      "sourceRevision": 547653,
+      "sourceUpdatedAt": "2026-11-15T11:19:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Corby%20International%20Pool&oldid=547653",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94497",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Corby, Northamptonshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.488042378256,
+        "lon": -0.70570381178661
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..2009-07]",
+          "earliest": null,
+          "latest": "2009-07-31"
+        }
+      },
+      "aliases": [
+        "Corby East Midlands International Pool",
+        "Corby International Pool"
+      ]
+    },
+    {
+      "sourceId": 94500,
+      "name": "Danes Camp Leisure Centre",
+      "sourceRevision": 547700,
+      "sourceUpdatedAt": "2026-11-15T11:41:31.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Danes%20Camp%20Leisure%20Centre&oldid=547700",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94500",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Northampton, Northamptonshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.214048,
+        "lon": -0.909945
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1987-01",
+          "earliest": "1987-01-01",
+          "latest": "1987-01-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94519,
+      "name": "Geoff Moulder Leisure Complex",
+      "sourceRevision": 547705,
+      "sourceUpdatedAt": "2026-11-15T11:45:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Geoff%20Moulder%20Leisure%20Complex&oldid=547705",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94519",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Boston, Lincolnshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.974344369756,
+        "lon": -0.015210319719336
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1989-09-24",
+          "earliest": "1989-09-24",
+          "latest": "1989-09-24"
+        }
+      },
+      "aliases": [
+        "Geoff Moulder Leisure Pool",
+        "Geoff Moulder Leisure Complex"
+      ]
+    },
+    {
+      "sourceId": 94521,
+      "name": "Grantham Meres Leisure Centre",
+      "sourceRevision": 547710,
+      "sourceUpdatedAt": "2026-11-15T11:48:31.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Grantham%20Meres%20Leisure%20Centre&oldid=547710",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94521",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Grantham, Lincolnshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.907144753084,
+        "lon": -0.66507700328567
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1998-05-01",
+          "earliest": "1998-05-01",
+          "latest": "1998-05-01"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94525,
+      "name": "Meridian Leisure Centre",
+      "sourceRevision": 547720,
+      "sourceUpdatedAt": "2026-11-15T11:53:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Meridian%20Leisure%20Centre&oldid=547720",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94525",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Louth, Lincolnshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.363847265323,
+        "lon": 0.011898385515684
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2010-02",
+          "earliest": "2010-02-01",
+          "latest": "2010-02-28"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94528,
+      "name": "One NK",
+      "sourceRevision": 547727,
+      "sourceUpdatedAt": "2026-11-15T11:58:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=One%20NK&oldid=547727",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94528",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "North Hykeham, Lincolnshire, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1974",
+          "earliest": "1974-01-01",
+          "latest": "1974-12-31"
+        }
+      },
+      "aliases": [
+        "North Kesteven Sports Centre",
+        "North Kesteven Centre",
+        "One NK"
+      ]
+    },
+    {
+      "sourceId": 94531,
+      "name": "Splash Leisure Pool",
+      "sourceRevision": 547739,
+      "sourceUpdatedAt": "2026-11-15T12:05:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Splash%20Leisure%20Pool&oldid=547739",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94531",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Rushden, Northamptonshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.293093950648,
+        "lon": -0.60062134941174
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1990-11-03",
+          "earliest": "1990-11-03",
+          "latest": "1990-11-03"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94533,
+      "name": "Stamford Leisure Pool",
+      "sourceRevision": 547745,
+      "sourceUpdatedAt": "2026-11-15T12:09:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Stamford%20Leisure%20Pool&oldid=547745",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94533",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Stamford, Lincolnshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.658599436179,
+        "lon": -0.47018153452338
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1988-05",
+          "earliest": "1988-05-01",
+          "latest": "1988-05-31"
+        }
+      },
+      "aliases": []
+    },
+    {
       "sourceId": 9473,
       "name": "Linnanmäki",
       "sourceRevision": 493064,
@@ -254167,9 +254397,9 @@
     {
       "sourceId": 9827,
       "name": "Family Kingdom",
-      "sourceRevision": 472691,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Family%20Kingdom&oldid=472691",
+      "sourceRevision": 547800,
+      "sourceUpdatedAt": "2026-11-15T13:09:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Family%20Kingdom&oldid=547800",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-9827",
       "country": "United States",
@@ -254185,7 +254415,10 @@
           "latest": "1966-12-31"
         }
       },
-      "aliases": []
+      "aliases": [
+        "Grant Strand Amusement Park",
+        "Family Kingdom"
+      ]
     },
     {
       "sourceId": 9837,
