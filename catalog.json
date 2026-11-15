@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-14T22:38:10.646Z",
+  "updatedAt": "2026-11-15T06:51:19.456Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -252883,10 +252883,10 @@
     },
     {
       "sourceId": 94329,
-      "name": "Busch Gardens Dubai",
-      "sourceRevision": 547215,
-      "sourceUpdatedAt": "2026-11-14T18:28:49.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Busch%20Gardens%20Dubai&oldid=547215",
+      "name": "Busch Gardens",
+      "sourceRevision": 547434,
+      "sourceUpdatedAt": "2026-11-15T05:31:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Busch%20Gardens%20(Dubai)&oldid=547434",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-94329",
       "country": "United Arab Emirates",
@@ -252896,7 +252896,9 @@
       "coordinates": null,
       "status": "Cancelled",
       "dates": {},
-      "aliases": []
+      "aliases": [
+        "Busch Gardens Dubai"
+      ]
     },
     {
       "sourceId": 94334,
