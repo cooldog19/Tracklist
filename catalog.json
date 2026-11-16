@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-16T06:51:23.820Z",
+  "updatedAt": "2026-11-16T22:22:32.126Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -1009,12 +1009,13 @@
     {
       "sourceId": 10107,
       "name": "Looping Star",
-      "sourceRevision": 488604,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Looping%20Star%20(Tivoli%20Park)&oldid=488604",
+      "sourceRevision": 549282,
+      "sourceUpdatedAt": "2026-11-16T13:55:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Looping%20Star%20(Tivoli%20Park)&oldid=549282",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10107",
       "aliases": [
+        "LisebergsLoopen",
         "Lisebergs Loopen"
       ],
       "legacyIds": [],
@@ -5751,9 +5752,9 @@
     {
       "sourceId": 10543,
       "name": "Lightning Rod",
-      "sourceRevision": 479659,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Lightning%20Rod&oldid=479659",
+      "sourceRevision": 549447,
+      "sourceUpdatedAt": "2026-11-16T16:34:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lightning%20Rod&oldid=549447",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10543",
       "aliases": [],
@@ -13897,9 +13898,9 @@
     {
       "sourceId": 11769,
       "name": "Batman",
-      "sourceRevision": 486748,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Batman&oldid=486748",
+      "sourceRevision": 549653,
+      "sourceUpdatedAt": "2026-11-16T21:07:39.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Batman&oldid=549653",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11769",
       "aliases": [],
@@ -109789,9 +109790,9 @@
     {
       "sourceId": 52276,
       "name": "Colossus",
-      "sourceRevision": 484131,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Colossus%20(Six%20Flags%20Qiddiya%20City)&oldid=484131",
+      "sourceRevision": 549245,
+      "sourceUpdatedAt": "2026-11-16T13:23:20.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Colossus%20(Six%20Flags%20Qiddiya%20City)&oldid=549245",
       "license": "CC-BY-SA-4.0",
       "id": "cp-52276",
       "aliases": [],
@@ -109818,7 +109819,7 @@
       "status": "Operating",
       "sourceStatus": "operating",
       "dates": {
-        "opening": {
+        "opened": {
           "edtf": "2025-12-31",
           "earliest": "2025-12-31",
           "latest": "2025-12-31"
@@ -226472,6 +226473,37 @@
       ]
     },
     {
+      "sourceId": 63638,
+      "name": "Rushcliffe Leisure Centre",
+      "sourceRevision": 549757,
+      "sourceUpdatedAt": "2026-11-16T21:36:54.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Rushcliffe%20Leisure%20Centre&oldid=549757",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-63638",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "West Bridgford, Nottinghamshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.914709,
+        "lon": -1.125462
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1976-10",
+          "earliest": "1976-10-01",
+          "latest": "1976-10-31"
+        },
+        "closed": {
+          "edtf": "2017",
+          "earliest": "2017-01-01",
+          "latest": "2017-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
       "sourceId": 63655,
       "name": "Area 47",
       "sourceRevision": 461786,
@@ -241815,16 +241847,19 @@
     {
       "sourceId": 77326,
       "name": "Avonturenpark de Tovertuin",
-      "sourceRevision": 461807,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Avonturenpark%20de%20Tovertuin&oldid=461807",
+      "sourceRevision": 549417,
+      "sourceUpdatedAt": "2026-11-16T16:09:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Avonturenpark%20de%20Tovertuin&oldid=549417",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-77326",
       "country": "Netherlands",
       "countryCode": "NL",
       "place": "Hoogerheide",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 51.415115,
+        "lon": 4.347955
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -253443,6 +253478,228 @@
       "aliases": []
     },
     {
+      "sourceId": 94622,
+      "name": "Bramcote Leisure Centre",
+      "sourceRevision": 549508,
+      "sourceUpdatedAt": "2026-11-16T20:11:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bramcote%20Leisure%20Centre&oldid=549508",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94622",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bramcote, Nottinghamshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.937226170115,
+        "lon": -1.2482228547923
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1965-06",
+          "earliest": "1965-06-01",
+          "latest": "1965-06-30"
+        }
+      },
+      "aliases": [
+        "Bramcote Hills Swimming Pool",
+        "Bramcote Leisure Centre"
+      ]
+    },
+    {
+      "sourceId": 94629,
+      "name": "Clifton Leisure Centre",
+      "sourceRevision": 549523,
+      "sourceUpdatedAt": "2026-11-16T20:20:23.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Clifton%20Leisure%20Centre&oldid=549523",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94629",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Nottingham, Nottinghamshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.905140404553,
+        "lon": -1.1751246206932
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1996-01-02",
+          "earliest": "1996-01-02",
+          "latest": "1996-01-02"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94634,
+      "name": "Cotgrave Leisure Centre",
+      "sourceRevision": 549535,
+      "sourceUpdatedAt": "2026-11-16T20:24:38.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cotgrave%20Leisure%20Centre&oldid=549535",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94634",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Cotgrave, Nottinghamshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.908688926729,
+        "lon": -1.0344638032052
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1998-10-22",
+          "earliest": "1998-10-22",
+          "latest": "1998-10-22"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94640,
+      "name": "Hinckley Leisure Centre",
+      "sourceRevision": 549558,
+      "sourceUpdatedAt": "2026-11-16T20:36:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hinckley%20Leisure%20Centre&oldid=549558",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94640",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hinckley, Leicestershire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.540236,
+        "lon": -1.377236
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1977",
+          "earliest": "1977-01-01",
+          "latest": "1977-12-31"
+        },
+        "closed": {
+          "edtf": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94642,
+      "name": "Leicester Leys Leisure Centre",
+      "sourceRevision": 549566,
+      "sourceUpdatedAt": "2026-11-16T20:39:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Leicester%20Leys%20Leisure%20Centre&oldid=549566",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94642",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Leicester, Leicestershire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.667429401348,
+        "lon": -1.1660836713941
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1985-06-24",
+          "earliest": "1985-06-24",
+          "latest": "1985-06-24"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94672,
+      "name": "South Forest Leisure Complex",
+      "sourceRevision": 549609,
+      "sourceUpdatedAt": "2026-11-16T20:51:38.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=South%20Forest%20Leisure%20Complex&oldid=549609",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94672",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Edwinstowe, Nottinghamshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.183482260219,
+        "lon": -1.0568368497707
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1991",
+          "earliest": "1991-01-01",
+          "latest": "1991-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94675,
+      "name": "Southglade Leisure Centre",
+      "sourceRevision": 549616,
+      "sourceUpdatedAt": "2026-11-16T20:55:38.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Southglade%20Leisure%20Centre&oldid=549616",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94675",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bestwood, Nottingham, Nottinghamshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.999381605412,
+        "lon": -1.1728569507469
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1972]",
+          "earliest": null,
+          "latest": "1972-12-31"
+        }
+      },
+      "aliases": [
+        "Southglade Sports Centre",
+        "Southglade Leisure Centre"
+      ]
+    },
+    {
+      "sourceId": 94684,
+      "name": "Victoria Park Leisure Centre",
+      "sourceRevision": 549655,
+      "sourceUpdatedAt": "2026-11-16T21:07:39.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Victoria%20Park%20Leisure%20Centre&oldid=549655",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94684",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Ilkeston, Derbyshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.976017619634,
+        "lon": -1.3136144991788
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1972-04",
+          "earliest": "1972-04-01",
+          "latest": "1972-04-30"
+        }
+      },
+      "aliases": [
+        "Ilkeston Swimming Pools",
+        "Victoria Park Leisure Centre"
+      ]
+    },
+    {
       "sourceId": 9473,
       "name": "Linnanmäki",
       "sourceRevision": 493064,
@@ -254502,16 +254759,19 @@
     {
       "sourceId": 9940,
       "name": "Happy Valley",
-      "sourceRevision": 462566,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Happy%20Valley%20(Tianjin)&oldid=462566",
+      "sourceRevision": 549710,
+      "sourceUpdatedAt": "2026-11-16T21:18:39.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Happy%20Valley%20(Tianjin)&oldid=549710",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-9940",
       "country": "China",
       "countryCode": "CN",
       "place": "Dongli, Tianjin",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 39.18598888,
+        "lon": 117.4696405867
+      },
       "status": "Operating",
       "dates": {
         "opened": {
