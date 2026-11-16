@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-15T18:58:53.573Z",
+  "updatedAt": "2026-11-16T06:51:23.820Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -50872,9 +50872,9 @@
     {
       "sourceId": 24677,
       "name": "Mine Train",
-      "sourceRevision": 537422,
-      "sourceUpdatedAt": "2026-11-07T21:56:33.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Train%20(PowerPark)&oldid=537422",
+      "sourceRevision": 548457,
+      "sourceUpdatedAt": "2026-11-15T22:54:08.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mine%20Train%20(PowerPark)&oldid=548457",
       "license": "CC-BY-SA-4.0",
       "id": "cp-24677",
       "aliases": [],
@@ -50886,7 +50886,10 @@
       "country": "Finland",
       "countryCode": "FI",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 63.228147,
+        "lon": 22.861175
+      },
       "manufacturer": "Zamperla",
       "manufacturerRefs": [
         {
@@ -51822,9 +51825,9 @@
     {
       "sourceId": 25111,
       "name": "Joyride",
-      "sourceRevision": 488329,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Joyride&oldid=488329",
+      "sourceRevision": 548455,
+      "sourceUpdatedAt": "2026-11-15T22:52:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Joyride&oldid=548455",
       "license": "CC-BY-SA-4.0",
       "id": "cp-25111",
       "aliases": [],
@@ -51836,7 +51839,10 @@
       "country": "Finland",
       "countryCode": "FI",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 63.229274,
+        "lon": 22.858661
+      },
       "manufacturer": "L&T Systems",
       "manufacturerRefs": [
         {
@@ -101194,9 +101200,9 @@
     {
       "sourceId": 49481,
       "name": "Big Apple",
-      "sourceRevision": 492893,
-      "sourceUpdatedAt": "2026-10-18T19:39:55.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Big%20Apple%20(Ocean%20Beach%20Pleasure%20Park)&oldid=492893",
+      "sourceRevision": 548701,
+      "sourceUpdatedAt": "2026-11-16T02:35:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Big%20Apple%20(Ocean%20Beach%20Pleasure%20Park)&oldid=548701",
       "license": "CC-BY-SA-4.0",
       "id": "cp-49481",
       "aliases": [],
@@ -101220,8 +101226,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Unknown",
+      "sourceStatus": "unknown",
       "dates": {
         "opened": {
           "edtf": "[1999..2002]",
@@ -166690,9 +166696,9 @@
     {
       "sourceId": 83552,
       "name": "Taxi Driver",
-      "sourceRevision": 489968,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Taxi%20Driver&oldid=489968",
+      "sourceRevision": 548450,
+      "sourceUpdatedAt": "2026-11-15T22:51:08.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Taxi%20Driver&oldid=548450",
       "license": "CC-BY-SA-4.0",
       "id": "cp-83552",
       "aliases": [],
@@ -166705,13 +166711,8 @@
       "countryCode": "FR",
       "locationKind": "travelling",
       "coordinates": null,
-      "manufacturer": "Pinfari",
-      "manufacturerRefs": [
-        {
-          "id": 1227,
-          "name": "Pinfari"
-        }
-      ],
+      "manufacturer": "",
+      "manufacturerRefs": [],
       "type": "Steel",
       "status": "Operating",
       "sourceStatus": "operating",
@@ -187545,9 +187546,9 @@
     {
       "sourceId": 91596,
       "name": "Family Roller Coaster",
-      "sourceRevision": 494239,
-      "sourceUpdatedAt": "2026-10-23T09:41:48.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Family%20Roller%20Coaster&oldid=494239",
+      "sourceRevision": 548574,
+      "sourceUpdatedAt": "2026-11-16T00:37:09.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Family%20Roller%20Coaster&oldid=548574",
       "license": "CC-BY-SA-4.0",
       "id": "cp-91596",
       "aliases": [],
@@ -187560,19 +187561,24 @@
       "countryCode": "GB",
       "locationKind": "park",
       "coordinates": {
-        "lat": 55.00152,
-        "lon": -1.4175844
+        "lat": 55.00108,
+        "lon": -1.416937
       },
-      "manufacturer": "",
-      "manufacturerRefs": [],
+      "manufacturer": "Güven Lunapark",
+      "manufacturerRefs": [
+        {
+          "id": null,
+          "name": "Güven Lunapark"
+        }
+      ],
       "type": "Steel",
       "status": "Operating",
       "sourceStatus": "operating",
       "dates": {
         "opened": {
-          "edtf": "2026",
-          "earliest": "2026-01-01",
-          "latest": "2026-12-31"
+          "edtf": "2026-02-21",
+          "earliest": "2026-02-21",
+          "latest": "2026-02-21"
         }
       },
       "rcdb": "",
@@ -192191,6 +192197,51 @@
       "categories": [
         "Suspended"
       ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 94607,
+      "name": "Thriller",
+      "sourceRevision": 548699,
+      "sourceUpdatedAt": "2026-11-16T02:35:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Thriller%20(Arnolds%20Park)&oldid=548699",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-94607",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Arnolds Park",
+      "parkId": "cp-park-24362",
+      "sourceParkId": 24362,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Okoboji Coaster Company",
+      "manufacturerRefs": [
+        {
+          "id": null,
+          "name": "Okoboji Coaster Company"
+        }
+      ],
+      "type": "Wooden",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1930-06-01",
+          "earliest": "1930-06-01",
+          "latest": "1930-06-01"
+        },
+        "closed": {
+          "edtf": "[1948..1949]",
+          "earliest": "1948-01-01",
+          "latest": "1949-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
       "trackCount": 1
     },
     {
