@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-17T08:10:38.089Z",
+  "updatedAt": "2026-11-17T21:07:34.902Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -50732,9 +50732,9 @@
     {
       "sourceId": 246,
       "name": "The Loch Ness Monster",
-      "sourceRevision": 489976,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Loch%20Ness%20Monster&oldid=489976",
+      "sourceRevision": 550666,
+      "sourceUpdatedAt": "2026-11-17T14:13:04.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Loch%20Ness%20Monster&oldid=550666",
       "license": "CC-BY-SA-4.0",
       "id": "cp-246",
       "aliases": [],
@@ -50754,8 +50754,13 @@
         "lat": 37.234662,
         "lon": -76.646695
       },
-      "manufacturer": "",
-      "manufacturerRefs": [],
+      "manufacturer": "Arrow Development",
+      "manufacturerRefs": [
+        {
+          "id": 1829,
+          "name": "Arrow Development"
+        }
+      ],
       "type": "Steel",
       "status": "Operating",
       "sourceStatus": "operating",
@@ -55127,9 +55132,9 @@
     {
       "sourceId": 2739,
       "name": "RC Racer",
-      "sourceRevision": 493739,
-      "sourceUpdatedAt": "2026-10-21T15:36:53.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=RC%20Racer%20(Hong%20Kong%20Disneyland)&oldid=493739",
+      "sourceRevision": 551018,
+      "sourceUpdatedAt": "2026-11-17T20:53:56.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=RC%20Racer%20(Hong%20Kong%20Disneyland)&oldid=551018",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2739",
       "aliases": [],
@@ -55157,9 +55162,9 @@
       "sourceStatus": "operating",
       "dates": {
         "opened": {
-          "edtf": "2011-11-17",
-          "earliest": "2011-11-17",
-          "latest": "2011-11-17"
+          "edtf": "2011-11-18",
+          "earliest": "2011-11-18",
+          "latest": "2011-11-18"
         }
       },
       "rcdb": "https://rcdb.com/9667.htm",
@@ -195988,12 +195993,14 @@
     {
       "sourceId": 9962,
       "name": "Hades 360",
-      "sourceRevision": 535080,
-      "sourceUpdatedAt": "2026-11-05T22:06:42.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Hades%20360&oldid=535080",
+      "sourceRevision": 550714,
+      "sourceUpdatedAt": "2026-11-17T15:08:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hades%20360&oldid=550714",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9962",
-      "aliases": [],
+      "aliases": [
+        "Hades"
+      ],
       "legacyIds": [],
       "park": "Mt. Olympus Water & Theme Park",
       "parkId": "cp-park-6279",
@@ -247698,9 +247705,9 @@
     {
       "sourceId": 84676,
       "name": "Waterworld",
-      "sourceRevision": 468529,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Waterworld%20(Portrush)&oldid=468529",
+      "sourceRevision": 550855,
+      "sourceUpdatedAt": "2026-11-17T17:41:23.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Waterworld%20(Portrush)&oldid=550855",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-84676",
       "country": "United Kingdom",
@@ -247719,9 +247726,9 @@
           "latest": "1986-12-31"
         },
         "closed": {
-          "edtf": "2020",
-          "earliest": "2020-01-01",
-          "latest": "2020-12-31"
+          "edtf": "2019-08",
+          "earliest": "2019-08-01",
+          "latest": "2019-08-31"
         }
       },
       "aliases": []
@@ -253751,6 +253758,55 @@
         "Ilkeston Swimming Pools",
         "Victoria Park Leisure Centre"
       ]
+    },
+    {
+      "sourceId": 94711,
+      "name": "Pecorama Pleasure Gardens",
+      "sourceRevision": 550753,
+      "sourceUpdatedAt": "2026-11-17T15:54:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Pecorama&oldid=550753",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94711",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Beer, Devon, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1975-07-14",
+          "earliest": "1975-07-14",
+          "latest": "1975-07-14"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94715,
+      "name": "E. P. Ripley Park",
+      "sourceRevision": 551004,
+      "sourceUpdatedAt": "2026-11-17T20:39:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=E.%20P.%20Ripley%20Park&oldid=551004",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94715",
+      "country": "United States",
+      "countryCode": "US",
+      "place": "Marceline",
+      "state": "Missouri",
+      "coordinates": {
+        "lat": 39.715482473258,
+        "lon": -92.949519276667
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1898",
+          "earliest": "1898-01-01",
+          "latest": "1898-12-31"
+        }
+      },
+      "aliases": []
     },
     {
       "sourceId": 9473,
