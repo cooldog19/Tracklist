@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-16T22:22:32.126Z",
+  "updatedAt": "2026-11-17T08:10:38.089Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -42378,9 +42378,9 @@
     {
       "sourceId": 21840,
       "name": "Route 66 West Coaster",
-      "sourceRevision": 489395,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Route%2066%20West%20Coaster&oldid=489395",
+      "sourceRevision": 550211,
+      "sourceUpdatedAt": "2026-11-17T04:11:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Route%2066%20West%20Coaster&oldid=550211",
       "license": "CC-BY-SA-4.0",
       "id": "cp-21840",
       "aliases": [],
@@ -85228,10 +85228,12 @@
       "id": "cp-43121",
       "aliases": [],
       "legacyIds": [],
-      "park": "Mattel Adventure Park",
+      "park": "Mattel City",
       "parkId": "cp-park-43947",
       "sourceParkId": 43947,
-      "parkAliases": [],
+      "parkAliases": [
+        "Mattel Adventure Park"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -86575,10 +86577,12 @@
       "id": "cp-43948",
       "aliases": [],
       "legacyIds": [],
-      "park": "Mattel Adventure Park",
+      "park": "Mattel City",
       "parkId": "cp-park-43947",
       "sourceParkId": 43947,
-      "parkAliases": [],
+      "parkAliases": [
+        "Mattel Adventure Park"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -192289,6 +192293,53 @@
       "trackCount": 1
     },
     {
+      "sourceId": 94701,
+      "name": "Roller Coaster",
+      "sourceRevision": 549967,
+      "sourceUpdatedAt": "2026-11-16T23:34:27.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Chippewa%20Park)&oldid=549967",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-94701",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Chippewa Park",
+      "parkId": "cp-park-75964",
+      "sourceParkId": 75964,
+      "parkAliases": [],
+      "country": "Canada",
+      "countryCode": "CA",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Spillman Engineering",
+      "manufacturerRefs": [
+        {
+          "id": 41418,
+          "name": "Spillman Engineering"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1967",
+          "earliest": "1967-01-01",
+          "latest": "1967-12-31"
+        },
+        "closed": {
+          "edtf": "2011",
+          "earliest": "2011-01-01",
+          "latest": "2011-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "https://www.youtube.com/watch?v=_oirbK3jE_E",
+      "categories": [
+        "Family"
+      ],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9471,
       "name": "Inferno",
       "sourceRevision": 488219,
@@ -211829,10 +211880,10 @@
     },
     {
       "sourceId": 43947,
-      "name": "Mattel Adventure Park",
-      "sourceRevision": 485538,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mattel%20Adventure%20Park&oldid=485538",
+      "name": "Mattel City",
+      "sourceRevision": 550219,
+      "sourceUpdatedAt": "2026-11-17T04:21:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mattel%20Adventure%20Park&oldid=550219",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-43947",
       "country": "United States",
@@ -211842,7 +211893,9 @@
       "coordinates": null,
       "status": "Under construction",
       "dates": {},
-      "aliases": []
+      "aliases": [
+        "Mattel Adventure Park"
+      ]
     },
     {
       "sourceId": 43949,
