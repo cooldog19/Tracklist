@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-18T07:44:40.883Z",
+  "updatedAt": "2026-11-18T20:44:16.404Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -13593,20 +13593,20 @@
     {
       "sourceId": 11722,
       "name": "Crazy Mouse",
-      "sourceRevision": 487244,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Mouse%20(Curry's%20Fun%20Park%20Portrush)&oldid=487244",
+      "sourceRevision": 551692,
+      "sourceUpdatedAt": "2026-11-18T16:54:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Crazy%20Mouse%20(Rieger)&oldid=551692",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11722",
       "aliases": [],
       "legacyIds": [],
-      "park": "Austrian Fair Circuit",
+      "park": "",
       "parkId": "",
       "sourceParkId": null,
       "parkAliases": [],
       "country": "Austria",
       "countryCode": "AT",
-      "locationKind": "park",
+      "locationKind": "travelling",
       "coordinates": null,
       "manufacturer": "Reverchon",
       "manufacturerRefs": [
@@ -13618,7 +13618,13 @@
       "type": "Steel",
       "status": "Operating",
       "sourceStatus": "operating",
-      "dates": {},
+      "dates": {
+        "opened": {
+          "edtf": "[..2002]",
+          "earliest": null,
+          "latest": "2002-12-31"
+        }
+      },
       "rcdb": "",
       "pov": "https://www.youtube.com/watch?v=7rTT67tgaNs",
       "categories": [
@@ -28056,9 +28062,9 @@
     {
       "sourceId": 15472,
       "name": "Dragon Legend",
-      "sourceRevision": 487486,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dragon%20Legend&oldid=487486",
+      "sourceRevision": 551601,
+      "sourceUpdatedAt": "2026-11-18T13:35:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon%20Legend&oldid=551601",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15472",
       "aliases": [],
@@ -39574,9 +39580,9 @@
     {
       "sourceId": 188,
       "name": "Iron Dragon",
-      "sourceRevision": 488204,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Iron%20Dragon%20(Cedar%20Point)&oldid=488204",
+      "sourceRevision": 551913,
+      "sourceUpdatedAt": "2026-11-18T20:23:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Iron%20Dragon%20(Cedar%20Point)&oldid=551913",
       "license": "CC-BY-SA-4.0",
       "id": "cp-188",
       "aliases": [],
@@ -39941,9 +39947,9 @@
     {
       "sourceId": 193,
       "name": "Mean Streak",
-      "sourceRevision": 488692,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mean%20Streak&oldid=488692",
+      "sourceRevision": 551758,
+      "sourceUpdatedAt": "2026-11-18T17:50:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mean%20Streak&oldid=551758",
       "license": "CC-BY-SA-4.0",
       "id": "cp-193",
       "aliases": [],
@@ -121116,9 +121122,9 @@
     {
       "sourceId": 59432,
       "name": "Space Mountain",
-      "sourceRevision": 489706,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Space%20Mountain%20(Disneyland%20Park%3B%20opened%201977)&oldid=489706",
+      "sourceRevision": 551754,
+      "sourceUpdatedAt": "2026-11-18T17:47:22.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Space%20Mountain%20(Disneyland%20Park%3B%20opened%201977)&oldid=551754",
       "license": "CC-BY-SA-4.0",
       "id": "cp-59432",
       "aliases": [],
@@ -134600,9 +134606,9 @@
     {
       "sourceId": 676,
       "name": "Big Thunder Mountain Railroad",
-      "sourceRevision": 486836,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Big%20Thunder%20Mountain%20Railroad%20(Disneyland%20Park)&oldid=486836",
+      "sourceRevision": 551894,
+      "sourceUpdatedAt": "2026-11-18T20:13:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Big%20Thunder%20Mountain%20Railroad%20(Disneyland%20Park)&oldid=551894",
       "license": "CC-BY-SA-4.0",
       "id": "cp-676",
       "aliases": [],
@@ -138506,9 +138512,9 @@
     {
       "sourceId": 706,
       "name": "Space Mountain",
-      "sourceRevision": 489673,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Space%20Mountain%20(Disneyland%20Park%3B%20opened%202005)&oldid=489673",
+      "sourceRevision": 551747,
+      "sourceUpdatedAt": "2026-11-18T17:37:22.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Space%20Mountain%20(Disneyland%20Park%3B%20opened%202005)&oldid=551747",
       "license": "CC-BY-SA-4.0",
       "id": "cp-706",
       "aliases": [],
@@ -141984,9 +141990,9 @@
     {
       "sourceId": 73250,
       "name": "Flying Lili",
-      "sourceRevision": 541460,
-      "sourceUpdatedAt": "2026-11-10T10:42:16.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flying%20Lili&oldid=541460",
+      "sourceRevision": 551750,
+      "sourceUpdatedAt": "2026-11-18T17:43:22.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flying%20Lili&oldid=551750",
       "license": "CC-BY-SA-4.0",
       "id": "cp-73250",
       "aliases": [
@@ -142023,7 +142029,9 @@
       },
       "rcdb": "https://rcdb.com/23772.htm",
       "pov": "",
-      "categories": [],
+      "categories": [
+        "Launched"
+      ],
       "trackCount": 1
     },
     {
@@ -149856,9 +149864,9 @@
     {
       "sourceId": 7697,
       "name": "Delfinexpressen",
-      "sourceRevision": 487336,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Delfinexpressen&oldid=487336",
+      "sourceRevision": 551637,
+      "sourceUpdatedAt": "2026-11-18T15:34:20.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Delfinexpressen&oldid=551637",
       "license": "CC-BY-SA-4.0",
       "id": "cp-7697",
       "aliases": [],
@@ -175358,9 +175366,9 @@
     {
       "sourceId": 8578,
       "name": "Godiståget",
-      "sourceRevision": 487971,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Godist%C3%A5get&oldid=487971",
+      "sourceRevision": 551651,
+      "sourceUpdatedAt": "2026-11-18T16:21:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Godist%C3%A5get&oldid=551651",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8578",
       "aliases": [],
@@ -179784,9 +179792,9 @@
     {
       "sourceId": 8786,
       "name": "Wildfire",
-      "sourceRevision": 490615,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wildfire%20(Kolm%C3%A5rden)&oldid=490615",
+      "sourceRevision": 551640,
+      "sourceUpdatedAt": "2026-11-18T15:35:35.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wildfire%20(Kolm%C3%A5rden)&oldid=551640",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8786",
       "aliases": [],
@@ -186067,9 +186075,9 @@
     {
       "sourceId": 913,
       "name": "Scorpion",
-      "sourceRevision": 536148,
-      "sourceUpdatedAt": "2026-11-07T03:31:05.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Scorpion%20(Busch%20Gardens%20Tampa)&oldid=536148",
+      "sourceRevision": 551731,
+      "sourceUpdatedAt": "2026-11-18T17:22:07.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Scorpion%20(Busch%20Gardens%20Tampa)&oldid=551731",
       "license": "CC-BY-SA-4.0",
       "id": "cp-913",
       "aliases": [],
@@ -191293,13 +191301,15 @@
     },
     {
       "sourceId": 93348,
-      "name": "Project Driftwood",
-      "sourceRevision": 536663,
-      "sourceUpdatedAt": "2026-11-07T11:23:49.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Project%20Driftwood&oldid=536663",
+      "name": "Simbi Rush",
+      "sourceRevision": 551759,
+      "sourceUpdatedAt": "2026-11-18T17:50:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Simbi%20Rush&oldid=551759",
       "license": "CC-BY-SA-4.0",
       "id": "cp-93348",
-      "aliases": [],
+      "aliases": [
+        "Project Driftwood"
+      ],
       "legacyIds": [],
       "park": "Busch Gardens Tampa Bay",
       "parkId": "cp-park-901",
@@ -191335,7 +191345,8 @@
       "rcdb": "",
       "pov": "",
       "categories": [
-        "Water"
+        "Water",
+        "Launched"
       ],
       "trackCount": 1
     },
@@ -192390,6 +192401,46 @@
         "Enclosed",
         "Launched"
       ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 94724,
+      "name": "Aero Test Lab",
+      "sourceRevision": 551612,
+      "sourceUpdatedAt": "2026-11-18T14:24:04.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Aero%20Test%20Lab&oldid=551612",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-94724",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Kennedy Space Center",
+      "parkId": "cp-park-94725",
+      "sourceParkId": 94725,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Maurer Rides",
+      "manufacturerRefs": [
+        {
+          "id": 2407,
+          "name": "Maurer Rides"
+        }
+      ],
+      "type": "Other",
+      "status": "Planned",
+      "sourceStatus": "planned",
+      "dates": {
+        "opening": {
+          "edtf": "2028",
+          "earliest": "2028-01-01",
+          "latest": "2028-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
       "trackCount": 1
     },
     {
@@ -218037,16 +218088,19 @@
     {
       "sourceId": 55521,
       "name": "The Wave Coventry",
-      "sourceRevision": 464509,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Wave%20Coventry&oldid=464509",
+      "sourceRevision": 551853,
+      "sourceUpdatedAt": "2026-11-18T19:48:09.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Wave%20Coventry&oldid=551853",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-55521",
       "country": "United Kingdom",
       "countryCode": "GB",
       "place": "Coventry, West Midlands, England",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 52.405721314898,
+        "lon": -1.5109990443268
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -253762,29 +253816,6 @@
       ]
     },
     {
-      "sourceId": 94711,
-      "name": "Pecorama Pleasure Gardens",
-      "sourceRevision": 550753,
-      "sourceUpdatedAt": "2026-11-17T15:54:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Pecorama&oldid=550753",
-      "license": "CC-BY-SA-4.0",
-      "id": "cp-park-94711",
-      "country": "United Kingdom",
-      "countryCode": "GB",
-      "place": "Beer, Devon, England",
-      "state": "",
-      "coordinates": null,
-      "status": "Operating",
-      "dates": {
-        "opened": {
-          "edtf": "1975-07-14",
-          "earliest": "1975-07-14",
-          "latest": "1975-07-14"
-        }
-      },
-      "aliases": []
-    },
-    {
       "sourceId": 94715,
       "name": "E. P. Ripley Park",
       "sourceRevision": 551004,
@@ -253811,6 +253842,26 @@
       "aliases": []
     },
     {
+      "sourceId": 94725,
+      "name": "Kennedy Space Center",
+      "sourceRevision": 551602,
+      "sourceUpdatedAt": "2026-11-18T13:52:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kennedy%20Space%20Center&oldid=551602",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94725",
+      "country": "United States",
+      "countryCode": "US",
+      "place": "Merritt Island",
+      "state": "Florida",
+      "coordinates": {
+        "lat": 28.523443,
+        "lon": -80.681626
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
       "sourceId": 9473,
       "name": "Linnanmäki",
       "sourceRevision": 493064,
@@ -253829,6 +253880,84 @@
           "edtf": "1950-05-27",
           "earliest": "1950-05-27",
           "latest": "1950-05-27"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94742,
+      "name": "Centre AT7",
+      "sourceRevision": 551837,
+      "sourceUpdatedAt": "2026-11-18T19:40:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Centre%20AT7&oldid=551837",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94742",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Coventry, West Midlands, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.428956730909,
+        "lon": -1.4825618554586
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1987",
+          "earliest": "1987-01-01",
+          "latest": "1987-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94744,
+      "name": "Cocks Moors Woods Leisure Centre",
+      "sourceRevision": 551847,
+      "sourceUpdatedAt": "2026-11-18T19:46:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cocks%20Moors%20Woods%20Leisure%20Centre&oldid=551847",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94744",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Birmingham, West Midlands, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.417441080039,
+        "lon": -1.8883547593561
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1987-07-20",
+          "earliest": "1987-07-20",
+          "latest": "1987-07-20"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94748,
+      "name": "Crystal Leisure Centre",
+      "sourceRevision": 551876,
+      "sourceUpdatedAt": "2026-11-18T20:04:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Crystal%20Leisure%20Centre&oldid=551876",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94748",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Stourbridge, West Midlands, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.456027422503,
+        "lon": -2.1490286778555
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1990-03-19",
+          "earliest": "1990-03-19",
+          "latest": "1990-03-19"
         }
       },
       "aliases": []
