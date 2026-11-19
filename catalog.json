@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-18T20:44:16.404Z",
+  "updatedAt": "2026-11-19T07:40:24.450Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -47137,9 +47137,9 @@
     {
       "sourceId": 23395,
       "name": "Big Apple",
-      "sourceRevision": 492896,
-      "sourceUpdatedAt": "2026-10-18T19:39:55.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Big%20Apple%20(West%20Sands%20Fun%20Fair)&oldid=492896",
+      "sourceRevision": 552028,
+      "sourceUpdatedAt": "2026-11-18T21:19:41.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Big%20Apple%20(West%20Sands%20Fun%20Fair)&oldid=552028",
       "license": "CC-BY-SA-4.0",
       "id": "cp-23395",
       "aliases": [],
@@ -47163,13 +47163,18 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2012",
           "earliest": "2012-01-01",
           "latest": "2012-12-31"
+        },
+        "closed": {
+          "edtf": "2026",
+          "earliest": "2026-01-01",
+          "latest": "2026-12-31"
         }
       },
       "rcdb": "https://rcdb.com/11066.htm",
@@ -150660,9 +150665,9 @@
     {
       "sourceId": 77188,
       "name": "Grand Canyon",
-      "sourceRevision": 488051,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Grand%20Canyon%20(Parc%20de%20la%20Vall%C3%A9e)&oldid=488051",
+      "sourceRevision": 552074,
+      "sourceUpdatedAt": "2026-11-18T21:37:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Grand%20Canyon%20(Parc%20de%20la%20Vall%C3%A9e)&oldid=552074",
       "license": "CC-BY-SA-4.0",
       "id": "cp-77188",
       "aliases": [
@@ -150677,7 +150682,10 @@
       "country": "France",
       "countryCode": "FR",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 46.998376,
+        "lon": -0.343415
+      },
       "manufacturer": "TOGO",
       "manufacturerRefs": [
         {
@@ -204947,9 +204955,9 @@
     {
       "sourceId": 23394,
       "name": "West Sands Fun Fair",
-      "sourceRevision": 466949,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=West%20Sands%20Fun%20Fair&oldid=466949",
+      "sourceRevision": 551984,
+      "sourceUpdatedAt": "2026-11-18T20:59:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=West%20Sands%20Fun%20Fair&oldid=551984",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-23394",
       "country": "United Kingdom",
@@ -204957,8 +204965,14 @@
       "place": "Selsey Bill, West Sussex, England",
       "state": "",
       "coordinates": null,
-      "status": "Operating",
-      "dates": {},
+      "status": "Defunct",
+      "dates": {
+        "closed": {
+          "edtf": "2026",
+          "earliest": "2026-01-01",
+          "latest": "2026-12-31"
+        }
+      },
       "aliases": []
     },
     {
@@ -253961,6 +253975,126 @@
         }
       },
       "aliases": []
+    },
+    {
+      "sourceId": 94756,
+      "name": "Ken Marriott Leisure Centre",
+      "sourceRevision": 551954,
+      "sourceUpdatedAt": "2026-11-18T20:48:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ken%20Marriott%20Leisure%20Centre&oldid=551954",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94756",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Rugby, Warwickshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.366177,
+        "lon": -1.254802
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1973",
+          "earliest": "1973-01-01",
+          "latest": "1973-12-31"
+        },
+        "closed": {
+          "edtf": "2013-03-31",
+          "earliest": "2013-03-31",
+          "latest": "2013-03-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94767,
+      "name": "Kingstanding Wellbeing Centre",
+      "sourceRevision": 551987,
+      "sourceUpdatedAt": "2026-11-18T21:01:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kingstanding%20Wellbeing%20Centre&oldid=551987",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94767",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Birmingham, West Midlands, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.541425023622,
+        "lon": -1.8755757676414
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1988-03-20",
+          "earliest": "1988-03-20",
+          "latest": "1988-03-20"
+        }
+      },
+      "aliases": [
+        "Kingstanding Leisure Centre",
+        "Kingstanding Wellbeing Centre"
+      ]
+    },
+    {
+      "sourceId": 94770,
+      "name": "Tipton Swimming Centre",
+      "sourceRevision": 552007,
+      "sourceUpdatedAt": "2026-11-18T21:11:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tipton%20Swimming%20Centre&oldid=552007",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94770",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Tipton, West Midlands, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.526785,
+        "lon": -2.064994
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[..1934]",
+          "earliest": null,
+          "latest": "1934-12-31"
+        },
+        "closed": {
+          "edtf": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94810,
+      "name": "Tudor Grange Leisure Centre",
+      "sourceRevision": 552083,
+      "sourceUpdatedAt": "2026-11-18T21:42:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tudor%20Grange%20Leisure%20Centre&oldid=552083",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94810",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Solihull, West Midlands, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.412343,
+        "lon": -1.786925
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1965-06",
+          "earliest": "1965-06-01",
+          "latest": "1965-06-30"
+        }
+      },
+      "aliases": [
+        "Tudor Grange Swimming Pool",
+        "Tudor Grange Leisure Centre"
+      ]
     },
     {
       "sourceId": 9504,
