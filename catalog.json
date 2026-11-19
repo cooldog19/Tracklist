@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-19T07:40:24.450Z",
+  "updatedAt": "2026-11-19T20:49:50.891Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -18225,12 +18225,15 @@
     {
       "sourceId": 1276,
       "name": "Giant Dipper",
-      "sourceRevision": 487918,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Giant%20Dipper%20(Belmont%20Park)&oldid=487918",
+      "sourceRevision": 553169,
+      "sourceUpdatedAt": "2026-11-19T20:08:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Giant%20Dipper%20(Belmont%20Park)&oldid=553169",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1276",
-      "aliases": [],
+      "aliases": [
+        "Roller Coaster",
+        "Earthquake"
+      ],
       "legacyIds": [],
       "park": "Belmont Park",
       "parkId": "cp-park-1272",
@@ -39198,9 +39201,9 @@
     {
       "sourceId": 184,
       "name": "Cedar Creek Mine Ride",
-      "sourceRevision": 484197,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cedar%20Creek%20Mine%20Ride&oldid=484197",
+      "sourceRevision": 553170,
+      "sourceUpdatedAt": "2026-11-19T20:08:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cedar%20Creek%20Mine%20Ride&oldid=553170",
       "license": "CC-BY-SA-4.0",
       "id": "cp-184",
       "aliases": [],
@@ -85236,13 +85239,15 @@
     },
     {
       "sourceId": 43121,
-      "name": "Hot Wheels",
-      "sourceRevision": 551365,
-      "sourceUpdatedAt": "2026-11-18T04:25:12.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Hot%20Wheels%20Twin%20Mill%20Racer&oldid=551365",
+      "name": "Hot Wheels Twin Mill Racer",
+      "sourceRevision": 552691,
+      "sourceUpdatedAt": "2026-11-19T11:57:13.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hot%20Wheels%20Twin%20Mill%20Racer&oldid=552691",
       "license": "CC-BY-SA-4.0",
       "id": "cp-43121",
-      "aliases": [],
+      "aliases": [
+        "Hot Wheels"
+      ],
       "legacyIds": [],
       "park": "Mattel City",
       "parkId": "cp-park-43947",
@@ -181235,9 +181240,9 @@
     {
       "sourceId": 89110,
       "name": "J3 Grand Prix",
-      "sourceRevision": 493792,
-      "sourceUpdatedAt": "2026-10-21T17:25:24.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=J3%20Grand%20Prix&oldid=493792",
+      "sourceRevision": 552574,
+      "sourceUpdatedAt": "2026-11-19T09:47:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=J3%20Grand%20Prix&oldid=552574",
       "license": "CC-BY-SA-4.0",
       "id": "cp-89110",
       "aliases": [],
@@ -194356,9 +194361,9 @@
     {
       "sourceId": 9771,
       "name": "Eurofigther",
-      "sourceRevision": 487632,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Eurofigther&oldid=487632",
+      "sourceRevision": 552906,
+      "sourceUpdatedAt": "2026-11-19T16:04:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Eurofigther&oldid=552906",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9771",
       "aliases": [],
@@ -254095,6 +254100,94 @@
         "Tudor Grange Swimming Pool",
         "Tudor Grange Leisure Centre"
       ]
+    },
+    {
+      "sourceId": 94823,
+      "name": "Aquaworld Resort Budapest",
+      "sourceRevision": 553016,
+      "sourceUpdatedAt": "2026-11-19T18:03:04.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Aquaworld%20Resort%20Budapest&oldid=553016",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94823",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "place": "Budapest",
+      "state": "",
+      "coordinates": {
+        "lat": 47.600596657762,
+        "lon": 19.111183790408
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2008-12-05",
+          "earliest": "2008-12-05",
+          "latest": "2008-12-05"
+        }
+      },
+      "aliases": [
+        "Ramada Resort Aquaworld Budapest",
+        "Aquaworld Resort Budapest"
+      ]
+    },
+    {
+      "sourceId": 94842,
+      "name": "Kool Runnings Water Park",
+      "sourceRevision": 553101,
+      "sourceUpdatedAt": "2026-11-19T19:19:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kool%20Runnings%20Water%20Park&oldid=553101",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94842",
+      "country": "Jamaica",
+      "countryCode": "JM",
+      "place": "Negril",
+      "state": "",
+      "coordinates": {
+        "lat": 18.330374,
+        "lon": -78.336005
+      },
+      "status": "Standing but not operating",
+      "dates": {
+        "opened": {
+          "edtf": "2007-02",
+          "earliest": "2007-02-01",
+          "latest": "2007-02-28"
+        },
+        "closed": {
+          "edtf": "2024",
+          "earliest": "2024-01-01",
+          "latest": "2024-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 94850,
+      "name": "Castle Pool",
+      "sourceRevision": 553219,
+      "sourceUpdatedAt": "2026-11-19T20:43:22.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Castle%20Pool&oldid=553219",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-94850",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Tamworth, Staffordshire, England",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1971-10",
+          "earliest": "1971-10-01",
+          "latest": "1971-10-31"
+        },
+        "closed": {
+          "edtf": "1993-11-28",
+          "earliest": "1993-11-28",
+          "latest": "1993-11-28"
+        }
+      },
+      "aliases": []
     },
     {
       "sourceId": 9504,
