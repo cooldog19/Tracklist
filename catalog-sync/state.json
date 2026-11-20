@@ -2,7 +2,9 @@
   "schemaVersion": 1,
   "initialized": true,
   "view": "latest",
-  "cursor": "WyJjaGFuZ2VzIiwiMTVlOTA5OWU0OGFmNTVjYyIsMTE0NDgzXQ",
-  "lastSuccessfulAt": "2026-11-19T20:49:50.891Z",
-  "redirects": {}
+  "cursor": "WyJjaGFuZ2VzIiwiMTVlOTA5OWU0OGFmNTVjYyIsMTE0NTI5XQ",
+  "lastSuccessfulAt": "2026-11-20T07:31:16.605Z",
+  "redirects": {
+    "cp-70562": "cp-71975"
+  }
 }

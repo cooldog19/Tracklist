@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "catalogURL": "catalog.json",
-  "sha256": "b6071c42b55f20beed9d7bf6277210e557ce87e8415d4dcf60d53e0cd3a551e7",
-  "datasetVersion": "b6071c42b55f20be",
-  "datasetChangedAt": "2026-11-19T20:49:50.891Z",
-  "lastCheckedAt": "2026-11-19T20:49:50.891Z",
+  "sha256": "08305fc0fd1e698a7fad1fc5c21fe85aa205c620031bf0bbcea7fdb26e787f5e",
+  "datasetVersion": "08305fc0fd1e698a",
+  "datasetChangedAt": "2026-11-20T07:31:16.605Z",
+  "lastCheckedAt": "2026-11-20T07:31:16.605Z",
   "initialized": true,
   "mode": "incremental",
   "counts": {
-    "rides": 4406,
-    "parks": 2323
+    "rides": 4407,
+    "parks": 2329
   },
   "sources": [
     {
