@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-20T07:31:16.605Z",
+  "updatedAt": "2026-11-20T20:34:22.848Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -110282,9 +110282,9 @@
     {
       "sourceId": 5245,
       "name": "Lisebergbanan",
-      "sourceRevision": 488509,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Lisebergbanan&oldid=488509",
+      "sourceRevision": 554423,
+      "sourceUpdatedAt": "2026-11-20T18:13:08.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lisebergbanan&oldid=554423",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5245",
       "aliases": [],
@@ -139490,13 +139490,15 @@
     },
     {
       "sourceId": 71733,
-      "name": "Unknown",
-      "sourceRevision": 491201,
-      "sourceUpdatedAt": "2026-10-14T10:44:28.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20Raptor%20Track%20(Family%20Kingdom%20Amusement%20Park)&oldid=491201",
+      "name": "Dark Tides",
+      "sourceRevision": 554076,
+      "sourceUpdatedAt": "2026-11-20T08:58:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dark%20Tides&oldid=554076",
       "license": "CC-BY-SA-4.0",
       "id": "cp-71733",
-      "aliases": [],
+      "aliases": [
+        "Unknown"
+      ],
       "legacyIds": [],
       "park": "Family Kingdom",
       "parkId": "cp-park-9827",
@@ -179557,9 +179559,9 @@
     {
       "sourceId": 87668,
       "name": "Dinoachterbahn",
-      "sourceRevision": 487419,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dinoachterbahn&oldid=487419",
+      "sourceRevision": 554270,
+      "sourceUpdatedAt": "2026-11-20T12:39:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dinoachterbahn&oldid=554270",
       "license": "CC-BY-SA-4.0",
       "id": "cp-87668",
       "aliases": [],
@@ -179599,9 +179601,9 @@
     {
       "sourceId": 87669,
       "name": "Eulenblitz",
-      "sourceRevision": 487669,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Eulenblitz&oldid=487669",
+      "sourceRevision": 554279,
+      "sourceUpdatedAt": "2026-11-20T12:48:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Eulenblitz&oldid=554279",
       "license": "CC-BY-SA-4.0",
       "id": "cp-87669",
       "aliases": [],
@@ -179682,9 +179684,9 @@
     {
       "sourceId": 87671,
       "name": "Marienkäferexpress",
-      "sourceRevision": 488737,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Marienk%C3%A4ferexpress&oldid=488737",
+      "sourceRevision": 554272,
+      "sourceUpdatedAt": "2026-11-20T12:41:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Marienk%C3%A4ferexpress&oldid=554272",
       "license": "CC-BY-SA-4.0",
       "id": "cp-87671",
       "aliases": [],
@@ -192149,9 +192151,9 @@
     {
       "sourceId": 9446,
       "name": "Egg-Spress",
-      "sourceRevision": 493018,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Egg-Spress&oldid=493018",
+      "sourceRevision": 554324,
+      "sourceUpdatedAt": "2026-11-20T16:12:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Egg-Spress&oldid=554324",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9446",
       "aliases": [],
@@ -192640,6 +192642,53 @@
       "pov": "",
       "categories": [
         "Inverted"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95050,
+      "name": "Spinning Coaster",
+      "sourceRevision": 554504,
+      "sourceUpdatedAt": "2026-11-20T19:12:28.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Spinning%20Coaster%20(Victory%20Kingdom)&oldid=554504",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95050",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Victory Kingdom",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "China",
+      "countryCode": "CN",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Golden Horse",
+      "manufacturerRefs": [
+        {
+          "id": 10008,
+          "name": "Golden Horse"
+        }
+      ],
+      "type": "Steel",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
+      "dates": {
+        "opened": {
+          "edtf": "2012-07-07",
+          "earliest": "2012-07-07",
+          "latest": "2012-07-07"
+        },
+        "closed": {
+          "edtf": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Spinning"
       ],
       "trackCount": 1
     },
@@ -198134,9 +198183,9 @@
     {
       "sourceId": 11030,
       "name": "Beijing Shijingshan Amusement Park",
-      "sourceRevision": 461815,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Beijing%20Shijingshan%20Amusement%20Park&oldid=461815",
+      "sourceRevision": 554335,
+      "sourceUpdatedAt": "2026-11-20T16:18:50.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Beijing%20Shijingshan%20Amusement%20Park&oldid=554335",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-11030",
       "country": "China",
@@ -254393,6 +254442,35 @@
       "aliases": [
         "Peaks Leisure Centre",
         "Snowdome"
+      ]
+    },
+    {
+      "sourceId": 95026,
+      "name": "The Quarry Swimming and Fitness Centre",
+      "sourceRevision": 554425,
+      "sourceUpdatedAt": "2026-11-20T18:17:08.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Quarry%20Swimming%20and%20Fitness%20Centre&oldid=554425",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95026",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Shrewsbury, Shropshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.708346913376,
+        "lon": -2.7602253870343
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1968-12-02",
+          "earliest": "1968-12-02",
+          "latest": "1968-12-02"
+        }
+      },
+      "aliases": [
+        "Quarry Swimming Centre",
+        "The Quarry Swimming and Fitness Centre"
       ]
     },
     {
