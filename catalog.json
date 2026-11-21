@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-21T07:27:13.298Z",
+  "updatedAt": "2026-11-21T19:32:14.587Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -92981,25 +92981,27 @@
     },
     {
       "sourceId": 4635,
-      "name": "Li'l Renegade",
-      "sourceRevision": 488453,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=L'il%20Renegade&oldid=488453",
+      "name": "Barnyard Coaster",
+      "sourceRevision": 555606,
+      "sourceUpdatedAt": "2026-11-21T11:38:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Barnyard%20Coaster&oldid=555606",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4635",
-      "aliases": [],
+      "aliases": [
+        "Roller Coaster",
+        "Renegade",
+        "Little D",
+        "Li'l Renegade"
+      ],
       "legacyIds": [],
-      "park": "Southern Adventures",
-      "parkId": "",
-      "sourceParkId": null,
+      "park": "4D Farm",
+      "parkId": "cp-park-45348",
+      "sourceParkId": 45348,
       "parkAliases": [],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": {
-        "lat": 34.697027,
-        "lon": -86.594377
-      },
+      "coordinates": null,
       "manufacturer": "Allan Herschell Company",
       "manufacturerRefs": [
         {
@@ -93012,14 +93014,14 @@
       "sourceStatus": "defunct",
       "dates": {
         "opened": {
-          "edtf": "1999",
-          "earliest": "1999-01-01",
-          "latest": "1999-12-31"
+          "edtf": "2019",
+          "earliest": "2019-01-01",
+          "latest": "2019-12-31"
         },
         "closed": {
-          "edtf": "2018",
-          "earliest": "2018-01-01",
-          "latest": "2018-12-31"
+          "edtf": "2022",
+          "earliest": "2022-01-01",
+          "latest": "2022-12-31"
         }
       },
       "rcdb": "https://rcdb.com/1654.htm",
@@ -142565,9 +142567,9 @@
     {
       "sourceId": 73498,
       "name": "Skutan",
-      "sourceRevision": 482438,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Skutan&oldid=482438",
+      "sourceRevision": 555601,
+      "sourceUpdatedAt": "2026-11-21T11:34:20.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Skutan&oldid=555601",
       "license": "CC-BY-SA-4.0",
       "id": "cp-73498",
       "aliases": [],
@@ -181801,57 +181803,6 @@
       "trackCount": 1
     },
     {
-      "sourceId": 89165,
-      "name": "Barnyard Coaster",
-      "sourceRevision": 486775,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Barnyard%20Coaster&oldid=486775",
-      "license": "CC-BY-SA-4.0",
-      "id": "cp-89165",
-      "aliases": [
-        "Roller Coaster",
-        "Renegade",
-        "Little D"
-      ],
-      "legacyIds": [],
-      "park": "4D Farm",
-      "parkId": "cp-park-45348",
-      "sourceParkId": 45348,
-      "parkAliases": [],
-      "country": "United States",
-      "countryCode": "US",
-      "locationKind": "park",
-      "coordinates": null,
-      "manufacturer": "Allan Herschell Company",
-      "manufacturerRefs": [
-        {
-          "id": 43114,
-          "name": "Allan Herschell Company"
-        }
-      ],
-      "type": "Steel",
-      "status": "Defunct",
-      "sourceStatus": "defunct",
-      "dates": {
-        "opened": {
-          "edtf": "2019",
-          "earliest": "2019-01-01",
-          "latest": "2019-12-31"
-        },
-        "closed": {
-          "edtf": "2022",
-          "earliest": "2022-01-01",
-          "latest": "2022-12-31"
-        }
-      },
-      "rcdb": "https://rcdb.com/18709.htm",
-      "pov": "",
-      "categories": [
-        "Kiddie"
-      ],
-      "trackCount": 1
-    },
-    {
       "sourceId": 89173,
       "name": "Roller Coaster",
       "sourceRevision": 489325,
@@ -186090,9 +186041,9 @@
     {
       "sourceId": 913,
       "name": "Scorpion",
-      "sourceRevision": 551731,
-      "sourceUpdatedAt": "2026-11-18T17:22:07.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Scorpion%20(Busch%20Gardens%20Tampa)&oldid=551731",
+      "sourceRevision": 555906,
+      "sourceUpdatedAt": "2026-11-21T16:43:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Scorpion%20(Busch%20Gardens%20Tampa)&oldid=555906",
       "license": "CC-BY-SA-4.0",
       "id": "cp-913",
       "aliases": [],
@@ -191319,9 +191270,9 @@
     {
       "sourceId": 93348,
       "name": "Simbi Rush",
-      "sourceRevision": 551759,
-      "sourceUpdatedAt": "2026-11-18T17:50:37.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Simbi%20Rush&oldid=551759",
+      "sourceRevision": 555905,
+      "sourceUpdatedAt": "2026-11-21T16:43:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Simbi%20Rush&oldid=555905",
       "license": "CC-BY-SA-4.0",
       "id": "cp-93348",
       "aliases": [
