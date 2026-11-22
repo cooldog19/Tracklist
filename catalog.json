@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-22T07:08:19.804Z",
+  "updatedAt": "2026-11-22T19:52:21.330Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -25455,9 +25455,9 @@
     {
       "sourceId": 15113,
       "name": "Orion",
-      "sourceRevision": 556628,
-      "sourceUpdatedAt": "2026-11-22T01:18:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Orion&oldid=556628",
+      "sourceRevision": 494490,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Orion&oldid=494490",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15113",
       "aliases": [],
@@ -25484,8 +25484,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2020-07-12",
@@ -34462,10 +34462,12 @@
       "id": "cp-16554",
       "aliases": [],
       "legacyIds": [],
-      "park": "Tom Foolery's Adventure Park",
+      "park": "Tom Foolerys Adventure Park",
       "parkId": "cp-park-16556",
       "sourceParkId": 16556,
-      "parkAliases": [],
+      "parkAliases": [
+        "Tom Foolery's Adventure Park"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -36240,9 +36242,9 @@
     {
       "sourceId": 17250,
       "name": "Timmy's Half Pipe Havoc",
-      "sourceRevision": 556695,
-      "sourceUpdatedAt": "2026-11-22T02:19:33.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Timmy's%20Half%20Pipe%20Havoc&oldid=556695",
+      "sourceRevision": 493740,
+      "sourceUpdatedAt": "2026-10-21T15:36:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Timmy's%20Half%20Pipe%20Havoc&oldid=493740",
       "license": "CC-BY-SA-4.0",
       "id": "cp-17250",
       "aliases": [],
@@ -63807,17 +63809,19 @@
     {
       "sourceId": 31689,
       "name": "Screamin' Centipede",
-      "sourceRevision": 493657,
-      "sourceUpdatedAt": "2026-10-21T15:27:38.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Screamin'%20Centipede&oldid=493657",
+      "sourceRevision": 557451,
+      "sourceUpdatedAt": "2026-11-22T13:39:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Screamin'%20Centipede%20(Tom%20Foolerys%20Adventure%20Park%3B%20USA-Texas)&oldid=557451",
       "license": "CC-BY-SA-4.0",
       "id": "cp-31689",
       "aliases": [],
       "legacyIds": [],
-      "park": "Tom Foolery's Adventure Park",
+      "park": "Tom Foolerys Adventure Park",
       "parkId": "cp-park-31690",
       "sourceParkId": 31690,
-      "parkAliases": [],
+      "parkAliases": [
+        "Tom Foolery's Adventure Park"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -68179,10 +68183,12 @@
       "id": "cp-33914",
       "aliases": [],
       "legacyIds": [],
-      "park": "Tom Foolery's Adventure Park",
+      "park": "Tom Foolerys Adventure Park",
       "parkId": "cp-park-31690",
       "sourceParkId": 31690,
-      "parkAliases": [],
+      "parkAliases": [
+        "Tom Foolery's Adventure Park"
+      ],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
@@ -68301,9 +68307,9 @@
     {
       "sourceId": 3401,
       "name": "Wild Eagle",
-      "sourceRevision": 556667,
-      "sourceUpdatedAt": "2026-11-22T01:58:02.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Eagle&oldid=556667",
+      "sourceRevision": 490481,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Eagle&oldid=490481",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3401",
       "aliases": [],
@@ -106701,9 +106707,9 @@
     {
       "sourceId": 50991,
       "name": "Hurricane",
-      "sourceRevision": 488197,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Hurricane%20(Western%20Playland)&oldid=488197",
+      "sourceRevision": 557536,
+      "sourceUpdatedAt": "2026-11-22T14:45:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hurricane%20(Western%20Playland)&oldid=557536",
       "license": "CC-BY-SA-4.0",
       "id": "cp-50991",
       "aliases": [],
@@ -129109,9 +129115,9 @@
     {
       "sourceId": 64201,
       "name": "Fast & Furious: Hollywood Drift",
-      "sourceRevision": 556664,
-      "sourceUpdatedAt": "2026-11-22T01:56:18.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fast%20%26%20Furious%3A%20Hollywood%20Drift%20(Universal%20Studios%20Hollywood)&oldid=556664",
+      "sourceRevision": 487704,
+      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fast%20%26%20Furious%3A%20Hollywood%20Drift%20(Universal%20Studios%20Hollywood)&oldid=487704",
       "license": "CC-BY-SA-4.0",
       "id": "cp-64201",
       "aliases": [],
@@ -147747,9 +147753,9 @@
     {
       "sourceId": 760,
       "name": "Diamondback",
-      "sourceRevision": 556626,
-      "sourceUpdatedAt": "2026-11-22T01:18:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Diamondback&oldid=556626",
+      "sourceRevision": 494493,
+      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Diamondback&oldid=494493",
       "license": "CC-BY-SA-4.0",
       "id": "cp-760",
       "aliases": [],
@@ -147776,8 +147782,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2009-04-18",
@@ -155792,9 +155798,9 @@
     {
       "sourceId": 78924,
       "name": "Flume Ride",
-      "sourceRevision": 487814,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flume%20Ride%20(E-DA%20Theme%20Park)&oldid=487814",
+      "sourceRevision": 557190,
+      "sourceUpdatedAt": "2026-11-22T11:02:34.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flume%20Ride%20(E-DA%20Theme%20Park)&oldid=557190",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78924",
       "aliases": [],
@@ -155810,11 +155816,11 @@
         "lat": 22.7311783,
         "lon": 120.409772
       },
-      "manufacturer": "Jinma Rides",
+      "manufacturer": "RES Rides",
       "manufacturerRefs": [
         {
-          "id": 10008,
-          "name": "Jinma Rides"
+          "id": 35268,
+          "name": "RES Rides"
         }
       ],
       "type": "Steel",
@@ -192830,6 +192836,46 @@
       "trackCount": 1
     },
     {
+      "sourceId": 95319,
+      "name": "Screamin' Centipede",
+      "sourceRevision": 557486,
+      "sourceUpdatedAt": "2026-11-22T14:00:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Screamin'%20Centipede%20(Tom%20Foolerys%20Adventure%20Park%3B%20USA-Virginia)&oldid=557486",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95319",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Tom Foolerys Adventure Park",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "SBF Visa Group",
+      "manufacturerRefs": [
+        {
+          "id": 10715,
+          "name": "SBF Visa Group"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "2026-11-12",
+          "earliest": "2026-11-12",
+          "latest": "2026-11-12"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9535,
       "name": "Sea Viper",
       "sourceRevision": 489543,
@@ -201596,10 +201642,10 @@
     },
     {
       "sourceId": 16556,
-      "name": "Tom Foolery's Adventure Park",
-      "sourceRevision": 483960,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolery's%20Adventure%20Park%20(Wisconsin%20Dells%2C%20Wisconsin)&oldid=483960",
+      "name": "Tom Foolerys Adventure Park",
+      "sourceRevision": 557454,
+      "sourceUpdatedAt": "2026-11-22T13:39:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Wisconsin%20Dells%2C%20Wisconsin)&oldid=557454",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-16556",
       "country": "United States",
@@ -201615,7 +201661,9 @@
           "latest": "2008-12-31"
         }
       },
-      "aliases": []
+      "aliases": [
+        "Tom Foolery's Adventure Park"
+      ]
     },
     {
       "sourceId": 16570,
@@ -208005,10 +208053,10 @@
     },
     {
       "sourceId": 31690,
-      "name": "Tom Foolery's Adventure Park",
-      "sourceRevision": 483965,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolery's%20Adventure%20Park%20(Round%20Rock%2C%20Texas)&oldid=483965",
+      "name": "Tom Foolerys Adventure Park",
+      "sourceRevision": 557443,
+      "sourceUpdatedAt": "2026-11-22T13:36:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Round%20Rock%2C%20Texas)&oldid=557443",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-31690",
       "country": "United States",
@@ -208024,7 +208072,9 @@
           "latest": "2020-11-12"
         }
       },
-      "aliases": []
+      "aliases": [
+        "Tom Foolery's Adventure Park"
+      ]
     },
     {
       "sourceId": 3170,
@@ -254799,6 +254849,29 @@
           "edtf": "1954",
           "earliest": "1954-01-01",
           "latest": "1954-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95321,
+      "name": "Tom Foolerys Adventure Park",
+      "sourceRevision": 557494,
+      "sourceUpdatedAt": "2026-11-22T14:02:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Woodford%2C%20Virginia)&oldid=557494",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95321",
+      "country": "United States",
+      "countryCode": "US",
+      "place": "Woodford",
+      "state": "Virginia",
+      "coordinates": null,
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2026-11-12",
+          "earliest": "2026-11-12",
+          "latest": "2026-11-12"
         }
       },
       "aliases": []
