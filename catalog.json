@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-21T19:32:14.587Z",
+  "updatedAt": "2026-11-22T07:08:19.804Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -6820,9 +6820,9 @@
     {
       "sourceId": 10760,
       "name": "Ba-a-a Express",
-      "sourceRevision": 486696,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Ba-a-a%20Express&oldid=486696",
+      "sourceRevision": 556711,
+      "sourceUpdatedAt": "2026-11-22T02:29:48.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ba-a-a%20Express&oldid=556711",
       "license": "CC-BY-SA-4.0",
       "id": "cp-10760",
       "aliases": [],
@@ -25455,9 +25455,9 @@
     {
       "sourceId": 15113,
       "name": "Orion",
-      "sourceRevision": 494490,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Orion&oldid=494490",
+      "sourceRevision": 556628,
+      "sourceUpdatedAt": "2026-11-22T01:18:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Orion&oldid=556628",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15113",
       "aliases": [],
@@ -25484,8 +25484,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Standing but not operating",
-      "sourceStatus": "standing_but_not_operating",
+      "status": "Operating",
+      "sourceStatus": "operating",
       "dates": {
         "opened": {
           "edtf": "2020-07-12",
@@ -25731,9 +25731,9 @@
     {
       "sourceId": 15133,
       "name": "Giant Dipper",
-      "sourceRevision": 487935,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Giant%20Dipper%20(Santa%20Cruz%20Beach%20Boardwalk)&oldid=487935",
+      "sourceRevision": 556164,
+      "sourceUpdatedAt": "2026-11-21T20:56:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Giant%20Dipper%20(Santa%20Cruz%20Beach%20Boardwalk)&oldid=556164",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15133",
       "aliases": [],
@@ -35817,7 +35817,7 @@
       "sourceId": 17106,
       "name": "Duplo Dino Coaster",
       "sourceRevision": 487593,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Duplo%20Dino%20Coaster&oldid=487593",
       "license": "CC-BY-SA-4.0",
       "id": "cp-17106",
@@ -36240,9 +36240,9 @@
     {
       "sourceId": 17250,
       "name": "Timmy's Half Pipe Havoc",
-      "sourceRevision": 493740,
-      "sourceUpdatedAt": "2026-10-21T15:36:53.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Timmy's%20Half%20Pipe%20Havoc&oldid=493740",
+      "sourceRevision": 556695,
+      "sourceUpdatedAt": "2026-11-22T02:19:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Timmy's%20Half%20Pipe%20Havoc&oldid=556695",
       "license": "CC-BY-SA-4.0",
       "id": "cp-17250",
       "aliases": [],
@@ -41392,9 +41392,9 @@
     {
       "sourceId": 2087,
       "name": "Bombora",
-      "sourceRevision": 486888,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bombora%20(Lagoon)&oldid=486888",
+      "sourceRevision": 556332,
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bombora%20(Lagoon)&oldid=556332",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2087",
       "aliases": [],
@@ -68301,9 +68301,9 @@
     {
       "sourceId": 3401,
       "name": "Wild Eagle",
-      "sourceRevision": 490481,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Eagle&oldid=490481",
+      "sourceRevision": 556667,
+      "sourceUpdatedAt": "2026-11-22T01:58:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Eagle&oldid=556667",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3401",
       "aliases": [],
@@ -74987,9 +74987,9 @@
     {
       "sourceId": 37773,
       "name": "Tidal Twist",
-      "sourceRevision": 490103,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tidal%20Twist&oldid=490103",
+      "sourceRevision": 556191,
+      "sourceUpdatedAt": "2026-11-21T21:11:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tidal%20Twist%20(Columbus%20Zoo%20and%20Aquarium)&oldid=556191",
       "license": "CC-BY-SA-4.0",
       "id": "cp-37773",
       "aliases": [],
@@ -85241,7 +85241,7 @@
       "sourceId": 43121,
       "name": "Hot Wheels Twin Mill Racer",
       "sourceRevision": 552691,
-      "sourceUpdatedAt": "2026-11-19T11:57:13.000Z",
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Hot%20Wheels%20Twin%20Mill%20Racer&oldid=552691",
       "license": "CC-BY-SA-4.0",
       "id": "cp-43121",
@@ -129109,9 +129109,9 @@
     {
       "sourceId": 64201,
       "name": "Fast & Furious: Hollywood Drift",
-      "sourceRevision": 487704,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fast%20%26%20Furious%3A%20Hollywood%20Drift%20(Universal%20Studios%20Hollywood)&oldid=487704",
+      "sourceRevision": 556664,
+      "sourceUpdatedAt": "2026-11-22T01:56:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fast%20%26%20Furious%3A%20Hollywood%20Drift%20(Universal%20Studios%20Hollywood)&oldid=556664",
       "license": "CC-BY-SA-4.0",
       "id": "cp-64201",
       "aliases": [],
@@ -142568,7 +142568,7 @@
       "sourceId": 73498,
       "name": "Skutan",
       "sourceRevision": 555601,
-      "sourceUpdatedAt": "2026-11-21T11:34:20.000Z",
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Skutan&oldid=555601",
       "license": "CC-BY-SA-4.0",
       "id": "cp-73498",
@@ -147747,9 +147747,9 @@
     {
       "sourceId": 760,
       "name": "Diamondback",
-      "sourceRevision": 494493,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Diamondback&oldid=494493",
+      "sourceRevision": 556626,
+      "sourceUpdatedAt": "2026-11-22T01:18:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Diamondback&oldid=556626",
       "license": "CC-BY-SA-4.0",
       "id": "cp-760",
       "aliases": [],
@@ -147776,8 +147776,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Standing but not operating",
-      "sourceStatus": "standing_but_not_operating",
+      "status": "Operating",
+      "sourceStatus": "operating",
       "dates": {
         "opened": {
           "edtf": "2009-04-18",
@@ -159596,9 +159596,9 @@
     {
       "sourceId": 8053,
       "name": "Cannibal",
-      "sourceRevision": 486988,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cannibal&oldid=486988",
+      "sourceRevision": 541520,
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cannibal&oldid=541520",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8053",
       "aliases": [],
@@ -160064,9 +160064,9 @@
     {
       "sourceId": 80744,
       "name": "Maui’s Peak",
-      "sourceRevision": 488736,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Maui%E2%80%99s%20Peak&oldid=488736",
+      "sourceRevision": 556376,
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Maui%E2%80%99s%20Peak&oldid=556376",
       "license": "CC-BY-SA-4.0",
       "id": "cp-80744",
       "aliases": [],
@@ -160511,9 +160511,9 @@
     {
       "sourceId": 8117,
       "name": "Stampede Run",
-      "sourceRevision": 534815,
-      "sourceUpdatedAt": "2026-11-05T15:59:33.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Stampede%20Run&oldid=534815",
+      "sourceRevision": 535560,
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Stampede%20Run&oldid=535560",
       "license": "CC-BY-SA-4.0",
       "id": "cp-8117",
       "aliases": [
@@ -162548,7 +162548,7 @@
       "sourceId": 82135,
       "name": "Pirate's Coaster",
       "sourceRevision": 529759,
-      "sourceUpdatedAt": "2026-11-01T16:22:45.000Z",
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Pirate's%20Coaster&oldid=529759",
       "license": "CC-BY-SA-4.0",
       "id": "cp-82135",
@@ -165894,9 +165894,9 @@
     {
       "sourceId": 83230,
       "name": "Little Coaster",
-      "sourceRevision": 479710,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Little%20Coaster%20(Arnolds%20Park)&oldid=479710",
+      "sourceRevision": 556146,
+      "sourceUpdatedAt": "2026-11-21T20:49:28.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Coaster%20(Arnolds%20Park)&oldid=556146",
       "license": "CC-BY-SA-4.0",
       "id": "cp-83230",
       "aliases": [],
@@ -165920,15 +165920,15 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Unknown",
+      "sourceStatus": "unknown",
       "dates": {
         "opened": {
           "edtf": "1959",
           "earliest": "1959-01-01",
           "latest": "1959-12-31"
         },
-        "closing": {
+        "closed": {
           "edtf": "2026",
           "earliest": "2026-01-01",
           "latest": "2026-12-31"
@@ -192644,6 +192644,192 @@
       "trackCount": 1
     },
     {
+      "sourceId": 95156,
+      "name": "Unknown",
+      "sourceRevision": 556318,
+      "sourceUpdatedAt": "2026-11-21T21:45:59.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Arnolds%20Park)&oldid=556318",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95156",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Arnolds Park",
+      "parkId": "cp-park-24362",
+      "sourceParkId": 24362,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "SBF Visa Group",
+      "manufacturerRefs": [
+        {
+          "id": 10715,
+          "name": "SBF Visa Group"
+        }
+      ],
+      "type": "Steel",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
+      "dates": {
+        "opening": {
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Spinning",
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95232,
+      "name": "Monster Mouse",
+      "sourceRevision": 556837,
+      "sourceUpdatedAt": "2026-11-22T04:37:20.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Monster%20Mouse%20(Tinkertown%20Family%20Fun%20Park)&oldid=556837",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95232",
+      "aliases": [
+        "Big Cheese"
+      ],
+      "legacyIds": [],
+      "park": "Tinkertown Family Fun Park",
+      "parkId": "cp-park-92303",
+      "sourceParkId": 92303,
+      "parkAliases": [],
+      "country": "Canada",
+      "countryCode": "CA",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Other",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "2003",
+          "earliest": "2003-01-01",
+          "latest": "2003-12-31"
+        },
+        "closed": {
+          "edtf": "[2007..2011]",
+          "earliest": "2007-01-01",
+          "latest": "2011-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Sit Down"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95233,
+      "name": "Cornstalk Load Goldmine - Runaway Mine Cars",
+      "sourceRevision": 556849,
+      "sourceUpdatedAt": "2026-11-22T04:49:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cornstalk%20Load%20Goldmine%20-%20Runaway%20Mine%20Cars&oldid=556849",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95233",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Stage Coach Stop USA",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[..1993]",
+          "earliest": null,
+          "latest": "1993-12-31"
+        },
+        "closed": {
+          "edtf": "[..2008]",
+          "earliest": null,
+          "latest": "2008-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95234,
+      "name": "Flower Power",
+      "sourceRevision": 556856,
+      "sourceUpdatedAt": "2026-11-22T04:55:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flower%20Power%20(Legend%20City)&oldid=556856",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95234",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Legend City",
+      "parkId": "cp-park-54155",
+      "sourceParkId": 54155,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[1963-06-29..]",
+          "earliest": "1963-06-29",
+          "latest": null
+        },
+        "closed": {
+          "edtf": "[..1983-09-04]",
+          "earliest": null,
+          "latest": "1983-09-04"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9535,
       "name": "Sea Viper",
       "sourceRevision": 489543,
@@ -192881,9 +193067,9 @@
     {
       "sourceId": 9576,
       "name": "Stampbanan",
-      "sourceRevision": 534316,
-      "sourceUpdatedAt": "2026-11-05T08:10:32.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Stampbanan&oldid=534316",
+      "sourceRevision": 554417,
+      "sourceUpdatedAt": "2026-11-22T03:17:11.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Stampbanan&oldid=554417",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9576",
       "aliases": [],
@@ -221475,16 +221661,19 @@
     {
       "sourceId": 59359,
       "name": "Fabryka Wody",
-      "sourceRevision": 462386,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fabryka%20Wody&oldid=462386",
+      "sourceRevision": 556354,
+      "sourceUpdatedAt": "2026-11-21T22:02:44.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fabryka%20Wody&oldid=556354",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-59359",
       "country": "Poland",
       "countryCode": "PL",
       "place": "Szczecin, West Pomeranian",
       "state": "",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 53.444492,
+        "lon": 14.567495
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -254448,6 +254637,168 @@
           "edtf": "2012",
           "earliest": "2012-01-01",
           "latest": "2012-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95150,
+      "name": "Alive Oasis",
+      "sourceRevision": 556113,
+      "sourceUpdatedAt": "2026-11-21T20:24:28.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Alive%20Oasis&oldid=556113",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95150",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hunstanton, Norfolk, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.936768128288,
+        "lon": 0.48538448326543
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1984-02-06",
+          "earliest": "1984-02-06",
+          "latest": "1984-02-06"
+        }
+      },
+      "aliases": [
+        "Oasis Leisure Centre",
+        "Alive Oasis"
+      ]
+    },
+    {
+      "sourceId": 95153,
+      "name": "Breckland Leisure Centre and Waterworld",
+      "sourceRevision": 556119,
+      "sourceUpdatedAt": "2026-11-21T20:27:58.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Breckland%20Leisure%20Centre%20and%20Waterworld&oldid=556119",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95153",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Thetford, Norfolk, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.420988365653,
+        "lon": 0.74943149829257
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1974]",
+          "earliest": null,
+          "latest": "1974-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95155,
+      "name": "Bury St Edmunds Leisure Centre",
+      "sourceRevision": 556139,
+      "sourceUpdatedAt": "2026-11-21T20:42:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bury%20St%20Edmunds%20Leisure%20Centre&oldid=556139",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95155",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bury St Edmunds, Suffolk, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.250314474395,
+        "lon": 0.69788606107352
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1975-06-26",
+          "earliest": "1975-06-26",
+          "latest": "1975-06-26"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95183,
+      "name": "Felixstowe Leisure Centre",
+      "sourceRevision": 556261,
+      "sourceUpdatedAt": "2026-11-21T21:30:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Felixstowe%20Leisure%20Centre&oldid=556261",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95183",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Felixstowe, Suffolk, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.958051107862,
+        "lon": 1.3451628186973
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1985",
+          "earliest": "1985-01-01",
+          "latest": "1985-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95192,
+      "name": "Kingfisher Leisure Centre",
+      "sourceRevision": 556361,
+      "sourceUpdatedAt": "2026-11-21T22:02:44.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kingfisher%20Leisure%20Centre&oldid=556361",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95192",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Sudbury, Suffolk, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.036054695663,
+        "lon": 0.73393904318447
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1987-08-22",
+          "earliest": "1987-08-22",
+          "latest": "1987-08-22"
+        }
+      },
+      "aliases": [
+        "Kingfisher Leisure Pool",
+        "Kingfisher Leisure Centre"
+      ]
+    },
+    {
+      "sourceId": 95198,
+      "name": "Searles Leisure Resort",
+      "sourceRevision": 556412,
+      "sourceUpdatedAt": "2026-11-21T22:25:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Searles%20Leisure%20Resort&oldid=556412",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95198",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Hunstanton, Norfolk, England",
+      "state": "",
+      "coordinates": {
+        "lat": 52.930265924505,
+        "lon": 0.48244005604123
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1954",
+          "earliest": "1954-01-01",
+          "latest": "1954-12-31"
         }
       },
       "aliases": []
