@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-24T00:06:55.930Z",
+  "updatedAt": "2026-11-24T10:08:33.977Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -193534,6 +193534,284 @@
       "trackCount": 1
     },
     {
+      "sourceId": 95464,
+      "name": "Ben Hur Roller Coaster",
+      "sourceRevision": 558907,
+      "sourceUpdatedAt": "2026-11-24T03:17:13.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Ben%20Hur%20Roller%20Coaster&oldid=558907",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95464",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Electric Park",
+      "parkId": "cp-park-95469",
+      "sourceParkId": 95469,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "",
+      "manufacturerRefs": [],
+      "type": "Wooden",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1913-05-04",
+          "earliest": "1913-05-04",
+          "latest": "1913-05-04"
+        },
+        "closed": {
+          "edtf": "[1913..]",
+          "earliest": "1913-01-01",
+          "latest": null
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95465,
+      "name": "Dip Coaster",
+      "sourceRevision": 558908,
+      "sourceUpdatedAt": "2026-11-24T03:17:13.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dip%20Coaster&oldid=558908",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95465",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Electric Park",
+      "parkId": "cp-park-95469",
+      "sourceParkId": 95469,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "",
+      "manufacturerRefs": [],
+      "type": "Wooden",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1907-05-19",
+          "earliest": "1907-05-19",
+          "latest": "1907-05-19"
+        },
+        "closed": {
+          "edtf": "[1907..]",
+          "earliest": "1907-01-01",
+          "latest": null
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95466,
+      "name": "Giant Dipper",
+      "sourceRevision": 558910,
+      "sourceUpdatedAt": "2026-11-24T03:17:13.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Giant%20Dipper%20(Electric%20Park)&oldid=558910",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95466",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Electric Park",
+      "parkId": "cp-park-95469",
+      "sourceParkId": 95469,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "",
+      "manufacturerRefs": [],
+      "type": "Wooden",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1922-05-20",
+          "earliest": "1922-05-20",
+          "latest": "1922-05-20"
+        },
+        "closed": {
+          "edtf": "[1922..]",
+          "earliest": "1922-01-01",
+          "latest": null
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95467,
+      "name": "Scenic Railway",
+      "sourceRevision": 558911,
+      "sourceUpdatedAt": "2026-11-24T03:17:13.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Scenic%20Railway%20(Electric%20Park)&oldid=558911",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95467",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Electric Park",
+      "parkId": "cp-park-95469",
+      "sourceParkId": 95469,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "",
+      "manufacturerRefs": [],
+      "type": "Wooden",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1907-05-19",
+          "earliest": "1907-05-19",
+          "latest": "1907-05-19"
+        },
+        "closed": {
+          "edtf": "[1907..]",
+          "earliest": "1907-01-01",
+          "latest": null
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95468,
+      "name": "Tickler",
+      "sourceRevision": 558912,
+      "sourceUpdatedAt": "2026-11-24T01:36:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tickler%20(Electric%20Park)&oldid=558912",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95468",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Electric Park",
+      "parkId": "cp-park-95469",
+      "sourceParkId": 95469,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "",
+      "manufacturerRefs": [],
+      "type": "Wooden",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[1907..1909]",
+          "earliest": "1907-01-01",
+          "latest": "1909-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95476,
+      "name": "Little Dipper",
+      "sourceRevision": 558938,
+      "sourceUpdatedAt": "2026-11-24T04:37:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Fun%20Town%20at%20Micke%20Grove)&oldid=558938",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95476",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Fun Town at Micke Grove",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {},
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95477,
+      "name": "Little Dipper",
+      "sourceRevision": 558939,
+      "sourceUpdatedAt": "2026-11-24T04:40:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(DelGrosso's%20Amusement%20Park)&oldid=558939",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95477",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "DelGrosso's Amusement Park",
+      "parkId": "cp-park-15635",
+      "sourceParkId": 15635,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "195X",
+          "earliest": "1950-01-01",
+          "latest": "1959-12-31"
+        },
+        "closed": {
+          "edtf": "1986",
+          "earliest": "1986-01-01",
+          "latest": "1986-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9554,
       "name": "Wonder Mountain's Guardian",
       "sourceRevision": 490616,
@@ -255513,6 +255791,34 @@
           "edtf": "1980-07-14",
           "earliest": "1980-07-14",
           "latest": "1980-07-14"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95469,
+      "name": "Electric Park",
+      "sourceRevision": 558913,
+      "sourceUpdatedAt": "2026-11-24T01:36:12.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Electric%20Park%20(USA-Missouri-Kansas%20City)&oldid=558913",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95469",
+      "country": "United States",
+      "countryCode": "US",
+      "place": "Kansas City",
+      "state": "Missouri",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1907-05-19",
+          "earliest": "1907-05-19",
+          "latest": "1907-05-19"
+        },
+        "closed": {
+          "edtf": "1925-09-01",
+          "earliest": "1925-09-01",
+          "latest": "1925-09-01"
         }
       },
       "aliases": []
