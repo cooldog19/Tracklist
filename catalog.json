@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-23T07:54:58.847Z",
+  "updatedAt": "2026-11-24T00:06:55.930Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -55043,9 +55043,9 @@
     {
       "sourceId": 2728,
       "name": "The Jester",
-      "sourceRevision": 489990,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Jester&oldid=489990",
+      "sourceRevision": 558704,
+      "sourceUpdatedAt": "2026-11-23T19:46:54.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Jester&oldid=558704",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2728",
       "aliases": [
@@ -65547,12 +65547,14 @@
     {
       "sourceId": 3246,
       "name": "Spinball Whizzer",
-      "sourceRevision": 491833,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Spinball%20Whizzer&oldid=491833",
+      "sourceRevision": 558742,
+      "sourceUpdatedAt": "2026-11-23T20:56:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Spinball%20Whizzer&oldid=558742",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3246",
-      "aliases": [],
+      "aliases": [
+        "Sonic Spinball"
+      ],
       "legacyIds": [],
       "park": "Alton Towers",
       "parkId": "cp-park-2027",
@@ -72476,14 +72478,14 @@
     },
     {
       "sourceId": 36518,
-      "name": "Lil Dipper Roller Coaster",
-      "sourceRevision": 488525,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Lil%20Dipper%20Roller%20Coaster&oldid=488525",
+      "name": "Little Dipper",
+      "sourceRevision": 558604,
+      "sourceUpdatedAt": "2026-11-23T13:11:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Sluggers%20%26%20Putters)&oldid=558604",
       "license": "CC-BY-SA-4.0",
       "id": "cp-36518",
       "aliases": [
-        "Little Dipper"
+        "Lil Dipper Roller Coaster"
       ],
       "legacyIds": [],
       "park": "Sluggers & Putters",
@@ -78692,13 +78694,15 @@
     },
     {
       "sourceId": 3926,
-      "name": "Little Leaper",
-      "sourceRevision": 493744,
-      "sourceUpdatedAt": "2026-10-21T15:36:53.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Little%20Leaper%20(Lakemont%20Park)&oldid=493744",
+      "name": "Lil'Leaper",
+      "sourceRevision": 558609,
+      "sourceUpdatedAt": "2026-11-23T13:28:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lil'Leaper%20(Coolspring%20Ranch)&oldid=558609",
       "license": "CC-BY-SA-4.0",
       "id": "cp-3926",
-      "aliases": [],
+      "aliases": [
+        "Little Leaper"
+      ],
       "legacyIds": [],
       "park": "Lakemont Park",
       "parkId": "cp-park-2081",
@@ -78719,20 +78723,9 @@
         }
       ],
       "type": "Steel",
-      "status": "Defunct",
-      "sourceStatus": "defunct",
-      "dates": {
-        "opened": {
-          "edtf": "[..1993]",
-          "earliest": null,
-          "latest": "1993-12-31"
-        },
-        "closed": {
-          "edtf": "2023",
-          "earliest": "2023-01-01",
-          "latest": "2023-12-31"
-        }
-      },
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
+      "dates": {},
       "rcdb": "https://rcdb.com/18848.htm",
       "pov": "",
       "categories": [
@@ -80468,13 +80461,15 @@
     },
     {
       "sourceId": 40488,
-      "name": "Little Dipper",
-      "sourceRevision": 488527,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Cedar%20Valley's%20Wild%20Frontier%20Fun%20Park)&oldid=488527",
+      "name": "Kiddie Coaster",
+      "sourceRevision": 558592,
+      "sourceUpdatedAt": "2026-11-23T12:51:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kiddie%20Coaster%20(Cedar%20Valley's%20Wild%20Frontier%20Fun%20Park)&oldid=558592",
       "license": "CC-BY-SA-4.0",
       "id": "cp-40488",
-      "aliases": [],
+      "aliases": [
+        "Little Dipper"
+      ],
       "legacyIds": [],
       "park": "Cedar Valley's Wild Frontier Fun Park",
       "parkId": "cp-park-40077",
@@ -82083,9 +82078,9 @@
     {
       "sourceId": 41256,
       "name": "Falcons Flight",
-      "sourceRevision": 534948,
-      "sourceUpdatedAt": "2026-11-05T19:36:54.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Falcons%20Flight%20(Six%20Flags%20Qiddiya%20City)&oldid=534948",
+      "sourceRevision": 558551,
+      "sourceUpdatedAt": "2026-11-23T10:18:05.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Falcons%20Flight%20(Six%20Flags%20Qiddiya%20City)&oldid=558551",
       "license": "CC-BY-SA-4.0",
       "id": "cp-41256",
       "aliases": [
@@ -137498,9 +137493,9 @@
     {
       "sourceId": 70061,
       "name": "Cyclone",
-      "sourceRevision": 487364,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cyclone%20(Wonderland%20Amusement%20Park)&oldid=487364",
+      "sourceRevision": 558819,
+      "sourceUpdatedAt": "2026-11-23T21:53:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cyclone%20(Wonderland%20Amusement%20Park)&oldid=558819",
       "license": "CC-BY-SA-4.0",
       "id": "cp-70061",
       "aliases": [
@@ -172067,27 +172062,27 @@
     },
     {
       "sourceId": 844,
-      "name": "Fort Yesterland",
-      "sourceRevision": 493746,
-      "sourceUpdatedAt": "2026-10-21T15:36:53.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Mild%20Thing&oldid=493746",
+      "name": "Mild Thing",
+      "sourceRevision": 558587,
+      "sourceUpdatedAt": "2026-11-23T12:44:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Mild%20Thing&oldid=558587",
       "license": "CC-BY-SA-4.0",
       "id": "cp-844",
       "aliases": [
         "Scrambler",
-        "Mild Thing"
+        "Fort Yesterland"
       ],
       "legacyIds": [],
-      "park": "Yesterland Farm",
-      "parkId": "",
-      "sourceParkId": null,
+      "park": "Valleyfair",
+      "parkId": "cp-park-835",
+      "sourceParkId": 835,
       "parkAliases": [],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
       "coordinates": {
-        "lat": 32.569115,
-        "lon": -95.826462
+        "lat": 44.799648,
+        "lon": -93.457461
       },
       "manufacturer": "Allan Herschell Company",
       "manufacturerRefs": [
@@ -172097,13 +172092,18 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
       "dates": {
         "opened": {
-          "edtf": "2013",
-          "earliest": "2013-01-01",
-          "latest": "2013-12-31"
+          "edtf": "1976",
+          "earliest": "1976-01-01",
+          "latest": "1976-12-31"
+        },
+        "closed": {
+          "edtf": "2010",
+          "earliest": "2010-01-01",
+          "latest": "2010-12-31"
         }
       },
       "rcdb": "https://rcdb.com/425.htm",
@@ -178342,9 +178342,9 @@
     {
       "sourceId": 86879,
       "name": "Formula 1",
-      "sourceRevision": 487865,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Formula%201%20(Magic%20Park%20Land)&oldid=487865",
+      "sourceRevision": 558817,
+      "sourceUpdatedAt": "2026-11-23T21:51:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Formula%201%20(Magic%20Park%20Land)&oldid=558817",
       "license": "CC-BY-SA-4.0",
       "id": "cp-86879",
       "aliases": [],
@@ -178359,7 +178359,10 @@
       "country": "France",
       "countryCode": "FR",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 43.366018,
+        "lon": 5.185622
+      },
       "manufacturer": "Fabbri",
       "manufacturerRefs": [
         {
@@ -192380,9 +192383,9 @@
     {
       "sourceId": 94724,
       "name": "Aero Test Lab",
-      "sourceRevision": 551612,
-      "sourceUpdatedAt": "2026-11-18T14:24:04.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Aero%20Test%20Lab&oldid=551612",
+      "sourceRevision": 558892,
+      "sourceUpdatedAt": "2026-11-23T23:34:56.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Aero%20Test%20Lab&oldid=558892",
       "license": "CC-BY-SA-4.0",
       "id": "cp-94724",
       "aliases": [],
@@ -192924,6 +192927,291 @@
       "trackCount": 1
     },
     {
+      "sourceId": 95380,
+      "name": "Junior Roller Coaster",
+      "sourceRevision": 558580,
+      "sourceUpdatedAt": "2026-11-23T12:20:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Junior%20Roller%20Coaster%20(Seibuen%20Yuenchi)&oldid=558580",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95380",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Seibuen Yuenchi",
+      "parkId": "cp-park-27603",
+      "sourceParkId": 27603,
+      "parkAliases": [],
+      "country": "Japan",
+      "countryCode": "JP",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1968",
+          "earliest": "1968-01-01",
+          "latest": "1968-12-31"
+        },
+        "closed": {
+          "edtf": "[..1986]",
+          "earliest": null,
+          "latest": "1986-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95381,
+      "name": "Kiddie Coaster",
+      "sourceRevision": 558584,
+      "sourceUpdatedAt": "2026-11-23T12:33:06.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kiddie%20Coaster%20(Wild%20Waves%20Theme%20%26%20Water%20Park%3B%20closed%201996)&oldid=558584",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95381",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Wild Waves Theme & Water Park",
+      "parkId": "cp-park-1612",
+      "sourceParkId": 1612,
+      "parkAliases": [
+        "Enchanted Village",
+        "Wild Waves & Enchanted Village",
+        "Wild Waves Theme Park",
+        "Wild Waves Theme & Water Park"
+      ],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "closed": {
+          "edtf": "1996",
+          "earliest": "1996-01-01",
+          "latest": "1996-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95382,
+      "name": "Kiddie Coaster",
+      "sourceRevision": 558588,
+      "sourceUpdatedAt": "2026-11-23T12:44:21.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kiddie%20Coaster%20(Deer%20Forest%20Fun%20Park)&oldid=558588",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95382",
+      "aliases": [
+        "Junior Roller Coaster"
+      ],
+      "legacyIds": [],
+      "park": "Deer Forest Fun Park",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "2007",
+          "earliest": "2007-01-01",
+          "latest": "2007-12-31"
+        },
+        "closed": {
+          "edtf": "2009",
+          "earliest": "2009-01-01",
+          "latest": "2009-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95384,
+      "name": "Kiddie Koaster",
+      "sourceRevision": 558594,
+      "sourceUpdatedAt": "2026-11-23T12:57:51.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kiddie%20Koaster%20(Joyland%20Park)&oldid=558594",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95384",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Joyland Park",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1950",
+          "earliest": "1950-01-01",
+          "latest": "1950-12-31"
+        },
+        "closed": {
+          "edtf": "[..1964]",
+          "earliest": null,
+          "latest": "1964-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95394,
+      "name": "Little D",
+      "sourceRevision": 558710,
+      "sourceUpdatedAt": "2026-11-23T19:56:54.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20D%20(Island%20in%20Pigeon%20Forge)&oldid=558710",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95394",
+      "aliases": [
+        "Roller Coaster",
+        "Bunny Rabbit"
+      ],
+      "legacyIds": [],
+      "park": "The Island in Pigeon Forge",
+      "parkId": "cp-park-15870",
+      "sourceParkId": 15870,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[..1999]",
+          "earliest": null,
+          "latest": "1999-12-31"
+        },
+        "closed": {
+          "edtf": "[1999..2001]",
+          "earliest": "1999-01-01",
+          "latest": "2001-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95395,
+      "name": "Little Dipper",
+      "sourceRevision": 558768,
+      "sourceUpdatedAt": "2026-11-23T21:17:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Frasier's%20Frontier)&oldid=558768",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95395",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Frasier's Frontier",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": {
+        "lat": 32.842012243478,
+        "lon": -116.88379602099
+      },
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
+      "dates": {
+        "closed": {
+          "edtf": "[1997..1998]",
+          "earliest": "1997-01-01",
+          "latest": "1998-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9541,
       "name": "Hurricane",
       "sourceRevision": 495208,
@@ -193014,6 +193302,234 @@
       "categories": [
         "Spinning",
         "Enclosed"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95429,
+      "name": "Little Dipper",
+      "sourceRevision": 558804,
+      "sourceUpdatedAt": "2026-11-23T21:46:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Carousel%20Village%20at%20Indian%20Walk)&oldid=558804",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95429",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Carousel Village at Indian Walk",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "2001",
+          "earliest": "2001-01-01",
+          "latest": "2001-12-31"
+        },
+        "closed": {
+          "edtf": "[2001..2004]",
+          "earliest": "2001-01-01",
+          "latest": "2004-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95431,
+      "name": "Little Dipper",
+      "sourceRevision": 558807,
+      "sourceUpdatedAt": "2026-11-23T21:51:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Funtown)&oldid=558807",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95431",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Funtown",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "closed": {
+          "edtf": "1982",
+          "earliest": "1982-01-01",
+          "latest": "1982-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95451,
+      "name": "Little Dipper",
+      "sourceRevision": 558842,
+      "sourceUpdatedAt": "2026-11-23T22:00:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Kiddieland%20Amusement%20Park)&oldid=558842",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95451",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Kiddieland Amusement Park",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "closed": {
+          "edtf": "196X",
+          "earliest": "1960-01-01",
+          "latest": "1969-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95452,
+      "name": "Little Dipper",
+      "sourceRevision": 558847,
+      "sourceUpdatedAt": "2026-11-23T22:03:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(DandiLion%20Park)&oldid=558847",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95452",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "DandiLion Park",
+      "parkId": "cp-park-65336",
+      "sourceParkId": 65336,
+      "parkAliases": [
+        "Muskego Beach Amusement Park",
+        "DandiLion Park"
+      ],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[1950..1957]",
+          "earliest": "1950-01-01",
+          "latest": "1957-12-31"
+        },
+        "closed": {
+          "edtf": "[..1977]",
+          "earliest": null,
+          "latest": "1977-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95453,
+      "name": "Little Dipper",
+      "sourceRevision": 558854,
+      "sourceUpdatedAt": "2026-11-23T22:05:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Land%20Of%20Make%20Believe)&oldid=558854",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95453",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Land Of Make Believe",
+      "parkId": "cp-park-22684",
+      "sourceParkId": 22684,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1976",
+          "earliest": "1976-01-01",
+          "latest": "1976-12-31"
+        },
+        "closed": {
+          "edtf": "1993",
+          "earliest": "1993-01-01",
+          "latest": "1993-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
       ],
       "trackCount": 1
     },
@@ -201643,9 +202159,9 @@
     {
       "sourceId": 16556,
       "name": "Tom Foolerys Adventure Park",
-      "sourceRevision": 557454,
-      "sourceUpdatedAt": "2026-11-22T13:39:21.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Wisconsin%20Dells%2C%20Wisconsin)&oldid=557454",
+      "sourceRevision": 558788,
+      "sourceUpdatedAt": "2026-11-23T21:33:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Wisconsin%20Dells%2C%20Wisconsin)&oldid=558788",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-16556",
       "country": "United States",
@@ -208054,9 +208570,9 @@
     {
       "sourceId": 31690,
       "name": "Tom Foolerys Adventure Park",
-      "sourceRevision": 557443,
-      "sourceUpdatedAt": "2026-11-22T13:36:51.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Round%20Rock%2C%20Texas)&oldid=557443",
+      "sourceRevision": 558784,
+      "sourceUpdatedAt": "2026-11-23T21:31:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Round%20Rock%2C%20Texas)&oldid=558784",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-31690",
       "country": "United States",
@@ -226268,9 +226784,9 @@
     {
       "sourceId": 62802,
       "name": "Kalahari Round Rock",
-      "sourceRevision": 462811,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Round%20Rock&oldid=462811",
+      "sourceRevision": 558783,
+      "sourceUpdatedAt": "2026-11-23T21:31:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Round%20Rock&oldid=558783",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-62802",
       "country": "United States",
@@ -236736,9 +237252,9 @@
     {
       "sourceId": 72616,
       "name": "Kalahari Wisconsin Dells",
-      "sourceRevision": 462825,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Wisconsin%20Dells&oldid=462825",
+      "sourceRevision": 558787,
+      "sourceUpdatedAt": "2026-11-23T21:33:25.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Wisconsin%20Dells&oldid=558787",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-72616",
       "country": "United States",
@@ -248472,9 +248988,9 @@
     {
       "sourceId": 85665,
       "name": "Kalahari Spotsylvania County",
-      "sourceRevision": 544739,
-      "sourceUpdatedAt": "2026-11-12T16:19:37.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Spotsylvania%20County&oldid=544739",
+      "sourceRevision": 558759,
+      "sourceUpdatedAt": "2026-11-23T21:10:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Kalahari%20Spotsylvania%20County&oldid=558759",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-85665",
       "country": "United States",
@@ -254856,9 +255372,9 @@
     {
       "sourceId": 95321,
       "name": "Tom Foolerys Adventure Park",
-      "sourceRevision": 557494,
-      "sourceUpdatedAt": "2026-11-22T14:02:51.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Woodford%2C%20Virginia)&oldid=557494",
+      "sourceRevision": 558760,
+      "sourceUpdatedAt": "2026-11-23T21:10:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Tom%20Foolerys%20Adventure%20Park%20(Woodford%2C%20Virginia)&oldid=558760",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-95321",
       "country": "United States",
@@ -254928,6 +255444,78 @@
         "Hansaland",
         "Hansa-Park"
       ]
+    },
+    {
+      "sourceId": 95396,
+      "name": "Archway Leisure Centre",
+      "sourceRevision": 558726,
+      "sourceUpdatedAt": "2026-11-23T20:47:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Archway%20Leisure%20Centre&oldid=558726",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95396",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Archway, London, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.565330410282,
+        "lon": -0.13646531308176
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 95404,
+      "name": "Brentford Fountain Leisure Centre",
+      "sourceRevision": 558737,
+      "sourceUpdatedAt": "2026-11-23T20:54:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Brentford%20Fountain%20Leisure%20Centre&oldid=558737",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95404",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Brentford, London, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.490994864256,
+        "lon": -0.28467559968959
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1987-08-01",
+          "earliest": "1987-08-01",
+          "latest": "1987-08-01"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95413,
+      "name": "Britannia Leisure Centre",
+      "sourceRevision": 558767,
+      "sourceUpdatedAt": "2026-11-23T21:17:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Britannia%20Leisure%20Centre&oldid=558767",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95413",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Shoreditch, London, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.534752398104,
+        "lon": -0.083390490815072
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1980-07-14",
+          "earliest": "1980-07-14",
+          "latest": "1980-07-14"
+        }
+      },
+      "aliases": []
     },
     {
       "sourceId": 9567,
