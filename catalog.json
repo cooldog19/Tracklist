@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-24T22:37:27.553Z",
+  "updatedAt": "2026-11-25T08:53:34.506Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -13363,9 +13363,9 @@
     {
       "sourceId": 11696,
       "name": "Suspended Looping Coaster",
-      "sourceRevision": 489896,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Suspended%20Looping%20Coaster%20(Suzhou%20Amusement%20Land)&oldid=489896",
+      "sourceRevision": 559185,
+      "sourceUpdatedAt": "2026-11-25T00:14:56.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Suspended%20Looping%20Coaster%20(Suzhou%20Amusement%20Land)&oldid=559185",
       "license": "CC-BY-SA-4.0",
       "id": "cp-11696",
       "aliases": [],
@@ -13389,8 +13389,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Defunct",
-      "sourceStatus": "defunct",
+      "status": "Standing but not operating",
+      "sourceStatus": "standing_but_not_operating",
       "dates": {
         "opened": {
           "edtf": "2003",
@@ -20061,9 +20061,9 @@
     {
       "sourceId": 13505,
       "name": "The Steel Curtain",
-      "sourceRevision": 559088,
-      "sourceUpdatedAt": "2026-11-24T17:58:52.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=The%20Steel%20Curtain&oldid=559088",
+      "sourceRevision": 559178,
+      "sourceUpdatedAt": "2026-11-24T23:59:40.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Steel%20Curtain&oldid=559178",
       "license": "CC-BY-SA-4.0",
       "id": "cp-13505",
       "aliases": [],
@@ -110462,12 +110462,14 @@
     {
       "sourceId": 52572,
       "name": "W Face Coaster",
-      "sourceRevision": 490458,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=W%20Face%20Coaster&oldid=490458",
+      "sourceRevision": 559214,
+      "sourceUpdatedAt": "2026-11-25T01:37:41.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=W%20Face%20Coaster&oldid=559214",
       "license": "CC-BY-SA-4.0",
       "id": "cp-52572",
-      "aliases": [],
+      "aliases": [
+        "Roller Coaster"
+      ],
       "legacyIds": [],
       "park": "Oyama Yuenchi",
       "parkId": "",
@@ -118648,9 +118650,9 @@
     {
       "sourceId": 58005,
       "name": "Gold Rush",
-      "sourceRevision": 488003,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Gold%20Rush%20(Drayton%20Manor)&oldid=488003",
+      "sourceRevision": 559158,
+      "sourceUpdatedAt": "2026-11-24T22:40:10.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Gold%20Rush%20(Drayton%20Manor)&oldid=559158",
       "license": "CC-BY-SA-4.0",
       "id": "cp-58005",
       "aliases": [],
@@ -118685,7 +118687,9 @@
       },
       "rcdb": "https://rcdb.com/20608.htm",
       "pov": "https://www.youtube.com/watch?v=1uxLamDiDWo",
-      "categories": [],
+      "categories": [
+        "Launched"
+      ],
       "trackCount": 1
     },
     {
@@ -194434,6 +194438,87 @@
       "pov": "https://www.youtube.com/watch?v=unfWH2iRmks",
       "categories": [
         "Enclosed"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95555,
+      "name": "Roller Coaster",
+      "sourceRevision": 559211,
+      "sourceUpdatedAt": "2026-11-25T01:36:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Roller%20Coaster%20(Okinawa%20Island%20Park)&oldid=559211",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95555",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Okinawa Island Park",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "Japan",
+      "countryCode": "JP",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "ACA",
+      "manufacturerRefs": [
+        {
+          "id": null,
+          "name": "ACA"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1990-04-01",
+          "earliest": "1990-04-01",
+          "latest": "1990-04-01"
+        },
+        "closed": {
+          "edtf": "1999-08-31",
+          "earliest": "1999-08-31",
+          "latest": "1999-08-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95557,
+      "name": "Dino Coaster",
+      "sourceRevision": 559218,
+      "sourceUpdatedAt": "2026-11-25T01:48:41.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dino%20Coaster%20(T-Rex%20Park%20Campinas)&oldid=559218",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95557",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "T-Rex Park Campinas",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "Brazil",
+      "countryCode": "BR",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "A Brinquedos",
+      "manufacturerRefs": [
+        {
+          "id": null,
+          "name": "A Brinquedos"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {},
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Family"
       ],
       "trackCount": 1
     },
