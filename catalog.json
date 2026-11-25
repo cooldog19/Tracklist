@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-25T08:53:34.506Z",
+  "updatedAt": "2026-11-25T21:51:34.887Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -27883,25 +27883,24 @@
     },
     {
       "sourceId": 15447,
-      "name": "Kombo",
-      "sourceRevision": 488417,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kombo&oldid=488417",
+      "name": "Lookout Mountain Safari",
+      "sourceRevision": 559363,
+      "sourceUpdatedAt": "2026-11-25T12:51:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lookout%20Mountain%20Safari&oldid=559363",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15447",
-      "aliases": [],
+      "aliases": [
+        "Kombo"
+      ],
       "legacyIds": [],
-      "park": "Indianapolis Zoo",
-      "parkId": "cp-park-15448",
-      "sourceParkId": 15448,
+      "park": "Lake Winnepesaukah",
+      "parkId": "cp-park-15188",
+      "sourceParkId": 15188,
       "parkAliases": [],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": {
-        "lat": 39.7685373,
-        "lon": -86.1812085
-      },
+      "coordinates": null,
       "manufacturer": "Zierer",
       "manufacturerRefs": [
         {
@@ -27910,18 +27909,13 @@
         }
       ],
       "type": "Steel",
-      "status": "Operating",
-      "sourceStatus": "operating",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
       "dates": {
-        "opened": {
-          "edtf": "2001-04-19",
-          "earliest": "2001-04-19",
-          "latest": "2001-04-19"
-        },
-        "closing": {
-          "edtf": "2026",
-          "earliest": "2026-01-01",
-          "latest": "2026-12-31"
+        "opening": {
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
         }
       },
       "rcdb": "https://rcdb.com/739.htm",
@@ -30567,9 +30561,9 @@
     {
       "sourceId": 15805,
       "name": "Dæmonen",
-      "sourceRevision": 490772,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=D%C3%A6monen&oldid=490772",
+      "sourceRevision": 559329,
+      "sourceUpdatedAt": "2026-11-25T11:38:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=D%C3%A6monen&oldid=559329",
       "license": "CC-BY-SA-4.0",
       "id": "cp-15805",
       "aliases": [],
@@ -38584,9 +38578,9 @@
     {
       "sourceId": 1802,
       "name": "Batgirl Coaster Chase",
-      "sourceRevision": 539203,
-      "sourceUpdatedAt": "2026-11-08T20:35:57.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Batgirl%20Coaster%20Chase&oldid=539203",
+      "sourceRevision": 559538,
+      "sourceUpdatedAt": "2026-11-25T20:06:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Batgirl%20Coaster%20Chase&oldid=559538",
       "license": "CC-BY-SA-4.0",
       "id": "cp-1802",
       "aliases": [
@@ -56638,9 +56632,9 @@
     {
       "sourceId": 2830,
       "name": "Timber Wolf",
-      "sourceRevision": 490077,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Timber%20Wolf&oldid=490077",
+      "sourceRevision": 559539,
+      "sourceUpdatedAt": "2026-11-25T20:11:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Timber%20Wolf&oldid=559539",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2830",
       "aliases": [],
@@ -92983,9 +92977,9 @@
     {
       "sourceId": 4635,
       "name": "Barnyard Coaster",
-      "sourceRevision": 555606,
-      "sourceUpdatedAt": "2026-11-21T11:38:05.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Barnyard%20Coaster&oldid=555606",
+      "sourceRevision": 559302,
+      "sourceUpdatedAt": "2026-11-25T10:59:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Barnyard%20Coaster&oldid=559302",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4635",
       "aliases": [
@@ -93002,7 +92996,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 34.131373,
+        "lon": -86.707536
+      },
       "manufacturer": "Allan Herschell Company",
       "manufacturerRefs": [
         {
@@ -104171,25 +104168,24 @@
     },
     {
       "sourceId": 50360,
-      "name": "Kid Flash Cosmic Coaster",
-      "sourceRevision": 488383,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Kid%20Flash%20Cosmic%20Coaster%20(Six%20Flags%20Over%20Georgia)&oldid=488383",
+      "name": "Unknown",
+      "sourceRevision": 559396,
+      "sourceUpdatedAt": "2026-11-25T13:52:44.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(CJ%20Barrymore's%20Family%20Entertainment%20Center%20Coaster)&oldid=559396",
       "license": "CC-BY-SA-4.0",
       "id": "cp-50360",
-      "aliases": [],
+      "aliases": [
+        "Kid Flash Cosmic Coaster"
+      ],
       "legacyIds": [],
-      "park": "Six Flags Over Georgia",
-      "parkId": "cp-park-1859",
-      "sourceParkId": 1859,
+      "park": "CJ Barrymore's Family Entertainment Center",
+      "parkId": "cp-park-17040",
+      "sourceParkId": 17040,
       "parkAliases": [],
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": {
-        "lat": 33.769524,
-        "lon": -84.5476
-      },
+      "coordinates": null,
       "manufacturer": "Skyline Attractions",
       "manufacturerRefs": [
         {
@@ -104198,18 +104194,13 @@
         }
       ],
       "type": "Steel",
-      "status": "Defunct",
-      "sourceStatus": "defunct",
+      "status": "Under construction",
+      "sourceStatus": "under_construction",
       "dates": {
-        "opened": {
-          "edtf": "2023-11-05",
-          "earliest": "2023-11-05",
-          "latest": "2023-11-05"
-        },
-        "closed": {
-          "edtf": "2024-08",
-          "earliest": "2024-08-01",
-          "latest": "2024-08-31"
+        "opening": {
+          "edtf": "2027",
+          "earliest": "2027-01-01",
+          "latest": "2027-12-31"
         }
       },
       "rcdb": "https://rcdb.com/20602.htm",
@@ -112230,9 +112221,9 @@
     {
       "sourceId": 533,
       "name": "Sidewinder",
-      "sourceRevision": 489584,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sidewinder%20(Elitch%20Gardens)&oldid=489584",
+      "sourceRevision": 559612,
+      "sourceUpdatedAt": "2026-11-25T21:31:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sidewinder%20(Elitch%20Gardens)&oldid=559612",
       "license": "CC-BY-SA-4.0",
       "id": "cp-533",
       "aliases": [
@@ -151558,9 +151549,9 @@
     {
       "sourceId": 77401,
       "name": "Unknown",
-      "sourceRevision": 490360,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Tivoli%20Gardens%20Intamin%20Half%20Pipe)&oldid=490360",
+      "sourceRevision": 559328,
+      "sourceUpdatedAt": "2026-11-25T11:38:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Tivoli%20Gardens%20Intamin%20Half%20Pipe)&oldid=559328",
       "license": "CC-BY-SA-4.0",
       "id": "cp-77401",
       "aliases": [],
@@ -163642,9 +163633,9 @@
     {
       "sourceId": 82548,
       "name": "Astro-ride",
-      "sourceRevision": 527271,
-      "sourceUpdatedAt": "2026-10-29T19:39:30.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Astro-ride&oldid=527271",
+      "sourceRevision": 559300,
+      "sourceUpdatedAt": "2026-11-25T10:59:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Astro-ride&oldid=559300",
       "license": "CC-BY-SA-4.0",
       "id": "cp-82548",
       "aliases": [],
@@ -163656,7 +163647,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 40.86772,
+        "lon": -73.82744
+      },
       "manufacturer": "Allan Herschell Company",
       "manufacturerRefs": [
         {
@@ -173096,9 +173090,9 @@
     {
       "sourceId": 84845,
       "name": "Bobsled",
-      "sourceRevision": 486925,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bobsled%20(Santa's%20Village%3B%20USA-California-Scotts%20Valley)&oldid=486925",
+      "sourceRevision": 559306,
+      "sourceUpdatedAt": "2026-11-25T11:04:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bobsled%20(Santa's%20Village%3B%20USA-California-Scotts%20Valley)&oldid=559306",
       "license": "CC-BY-SA-4.0",
       "id": "cp-84845",
       "aliases": [],
@@ -173110,7 +173104,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 37.06536,
+        "lon": -121.9965
+      },
       "manufacturer": "Allan Herschell Company",
       "manufacturerRefs": [
         {
@@ -173141,9 +173138,9 @@
     {
       "sourceId": 84848,
       "name": "Bobsled",
-      "sourceRevision": 486926,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Bobsled%20(Santa's%20Village%3B%20USA-California-Skyforest)&oldid=486926",
+      "sourceRevision": 559310,
+      "sourceUpdatedAt": "2026-11-25T11:06:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Bobsled%20(Santa's%20Village%3B%20USA-California-Skyforest)&oldid=559310",
       "license": "CC-BY-SA-4.0",
       "id": "cp-84848",
       "aliases": [],
@@ -173155,7 +173152,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 34.23258,
+        "lon": -117.16917
+      },
       "manufacturer": "Allan Herschell Company",
       "manufacturerRefs": [
         {
@@ -187138,9 +187138,9 @@
     {
       "sourceId": 91585,
       "name": "Black Widow",
-      "sourceRevision": 494224,
-      "sourceUpdatedAt": "2026-10-23T08:58:18.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Black%20Widow%20(Cedar%20Valley's%20Wild%20Frontier%20Fun%20Park)&oldid=494224",
+      "sourceRevision": 559305,
+      "sourceUpdatedAt": "2026-11-25T11:02:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Black%20Widow%20(Cedar%20Valley's%20Wild%20Frontier%20Fun%20Park)&oldid=559305",
       "license": "CC-BY-SA-4.0",
       "id": "cp-91585",
       "aliases": [
@@ -187154,7 +187154,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 44.791529048058,
+        "lon": -84.027901799476
+      },
       "manufacturer": "Allan Herschell Company",
       "manufacturerRefs": [
         {
@@ -191001,9 +191004,9 @@
     {
       "sourceId": 9306,
       "name": "Montaña Rusa",
-      "sourceRevision": 488839,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Monta%C3%B1a%20Rusa%20(Parque%20del%20Caf%C3%A9)&oldid=488839",
+      "sourceRevision": 559616,
+      "sourceUpdatedAt": "2026-11-25T21:41:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Monta%C3%B1a%20Rusa%20(Parque%20del%20Caf%C3%A9)&oldid=559616",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9306",
       "aliases": [
@@ -191177,9 +191180,9 @@
     {
       "sourceId": 93247,
       "name": "Midnight Showdown",
-      "sourceRevision": 536768,
-      "sourceUpdatedAt": "2026-11-07T12:59:51.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Midnight%20Showdown&oldid=536768",
+      "sourceRevision": 559550,
+      "sourceUpdatedAt": "2026-11-25T20:42:32.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Midnight%20Showdown&oldid=559550",
       "license": "CC-BY-SA-4.0",
       "id": "cp-93247",
       "aliases": [],
@@ -191194,7 +191197,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 38.19734594,
+        "lon": -85.7471057051
+      },
       "manufacturer": "",
       "manufacturerRefs": [],
       "type": "Wooden",
@@ -194520,6 +194526,277 @@
       "categories": [
         "Family"
       ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95564,
+      "name": "Little Dipper",
+      "sourceRevision": 559297,
+      "sourceUpdatedAt": "2026-11-25T10:44:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Playtown%20Park)&oldid=559297",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95564",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Playtown Park",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[..1957]",
+          "earliest": null,
+          "latest": "1957-12-31"
+        },
+        "closed": {
+          "edtf": "[1962..]",
+          "earliest": "1962-01-01",
+          "latest": null
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95565,
+      "name": "Little Dipper",
+      "sourceRevision": 559298,
+      "sourceUpdatedAt": "2026-11-25T10:49:00.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Kiddieland%2C%20Kansas%20City)&oldid=559298",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95565",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Kiddieland",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[1960..1961]",
+          "earliest": "1960-01-01",
+          "latest": "1961-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95566,
+      "name": "Little Dipper",
+      "sourceRevision": 559299,
+      "sourceUpdatedAt": "2026-11-25T10:55:30.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Airway%20Drive-in)&oldid=559299",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95566",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Airway Drive-in",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "195X",
+          "earliest": "1950-01-01",
+          "latest": "1959-12-31"
+        },
+        "closed": {
+          "edtf": "[..1981]",
+          "earliest": null,
+          "latest": "1981-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95572,
+      "name": "Little Dipper",
+      "sourceRevision": 559314,
+      "sourceUpdatedAt": "2026-11-25T11:11:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Streamland%20Park)&oldid=559314",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95572",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Streamland Park",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": {
+        "lat": 34.02019,
+        "lon": -118.07208
+      },
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[..1952]",
+          "earliest": null,
+          "latest": "1952-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95574,
+      "name": "Little Dipper",
+      "sourceRevision": 559318,
+      "sourceUpdatedAt": "2026-11-25T11:14:30.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Little%20Dipper%20(Uncle%20Ben's%20Kiddyland)&oldid=559318",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95574",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Uncle Ben's Kiddyland",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "park",
+      "coordinates": {
+        "lat": 34.18482,
+        "lon": -118.45132
+      },
+      "manufacturer": "Allan Herschell Company",
+      "manufacturerRefs": [
+        {
+          "id": 43114,
+          "name": "Allan Herschell Company"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[1950..1952]",
+          "earliest": "1950-01-01",
+          "latest": "1952-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [
+        "Kiddie"
+      ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95617,
+      "name": "Hili Mouse",
+      "sourceRevision": 559606,
+      "sourceUpdatedAt": "2026-11-25T21:27:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Hili%20Mouse&oldid=559606",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95617",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "Hili Fun City",
+      "parkId": "cp-park-28651",
+      "sourceParkId": 28651,
+      "parkAliases": [],
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Interpark",
+      "manufacturerRefs": [
+        {
+          "id": 10542,
+          "name": "Interpark"
+        }
+      ],
+      "type": "Steel",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
+      "dates": {
+        "opened": {
+          "edtf": "[..2002]",
+          "earliest": null,
+          "latest": "2002-12-31"
+        },
+        "closed": {
+          "edtf": "[..2019]",
+          "earliest": null,
+          "latest": "2019-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
       "trackCount": 1
     },
     {
@@ -200179,16 +200456,19 @@
     {
       "sourceId": 1167,
       "name": "Dutch Wonderland",
-      "sourceRevision": 473178,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Dutch%20Wonderland&oldid=473178",
+      "sourceRevision": 559493,
+      "sourceUpdatedAt": "2026-11-25T18:10:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dutch%20Wonderland&oldid=559493",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-1167",
       "country": "United States",
       "countryCode": "US",
       "place": "Lancaster",
       "state": "Pennsylvania",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 40.0275972993,
+        "lon": -76.2183426682
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -201478,16 +201758,19 @@
     {
       "sourceId": 15188,
       "name": "Lake Winnepesaukah",
-      "sourceRevision": 462929,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Lake%20Winnepesaukah&oldid=462929",
+      "sourceRevision": 559364,
+      "sourceUpdatedAt": "2026-11-25T12:51:43.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lake%20Winnepesaukah&oldid=559364",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-15188",
       "country": "United States",
       "countryCode": "US",
       "place": "Rossville",
       "state": "Georgia",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 34.9769837813,
+        "lon": -85.2447493645
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -203473,16 +203756,19 @@
     {
       "sourceId": 17040,
       "name": "CJ Barrymore's Family Entertainment Center",
-      "sourceRevision": 461930,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=CJ%20Barrymore's%20Family%20Entertainment%20Center&oldid=461930",
+      "sourceRevision": 559416,
+      "sourceUpdatedAt": "2026-11-25T15:08:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=CJ%20Barrymore's%20Family%20Entertainment%20Center&oldid=559416",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-17040",
       "country": "United States",
       "countryCode": "US",
       "place": "Clinton Township",
       "state": "Michigan",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 42.6282339237,
+        "lon": -82.8957034193
+      },
       "status": "Operating",
       "dates": {},
       "aliases": []
@@ -216928,9 +217214,9 @@
     {
       "sourceId": 510,
       "name": "Six Flags Discovery Kingdom",
-      "sourceRevision": 463536,
-      "sourceUpdatedAt": "2026-10-16T16:35:54.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Six%20Flags%20Discovery%20Kingdom&oldid=463536",
+      "sourceRevision": 559392,
+      "sourceUpdatedAt": "2026-11-25T13:47:14.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Six%20Flags%20Discovery%20Kingdom&oldid=559392",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-510",
       "country": "United States",
@@ -245731,16 +246017,19 @@
     {
       "sourceId": 7911,
       "name": "Wild Adventures",
-      "sourceRevision": 464706,
-      "sourceUpdatedAt": "2026-10-16T16:35:54.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Adventures&oldid=464706",
+      "sourceRevision": 559561,
+      "sourceUpdatedAt": "2026-11-25T20:54:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Adventures&oldid=559561",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-7911",
       "country": "United States",
       "countryCode": "US",
       "place": "Valdosta",
       "state": "Georgia",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 30.72160584516,
+        "lon": -83.3201506838
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -256594,6 +256883,137 @@
       ]
     },
     {
+      "sourceId": 95602,
+      "name": "Pavilion Leisure Centre",
+      "sourceRevision": 559495,
+      "sourceUpdatedAt": "2026-11-25T18:20:31.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Pavilion%20Leisure%20Centre&oldid=559495",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95602",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Bromley, London, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.40348251593,
+        "lon": 0.018122016477193
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1991-09-28",
+          "earliest": "1991-09-28",
+          "latest": "1991-09-28"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95605,
+      "name": "Waterfront Leisure Centre",
+      "sourceRevision": 559510,
+      "sourceUpdatedAt": "2026-11-25T18:36:46.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Waterfront%20Leisure%20Centre&oldid=559510",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95605",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Woolwich, London, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.494153205571,
+        "lon": 0.063204857922786
+      },
+      "status": "Standing but not operating",
+      "dates": {
+        "opened": {
+          "edtf": "1988",
+          "earliest": "1988-01-01",
+          "latest": "1988-12-31"
+        },
+        "closed": {
+          "edtf": "2025-12-31",
+          "earliest": "2025-12-31",
+          "latest": "2025-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95616,
+      "name": "Lina World",
+      "sourceRevision": 559605,
+      "sourceUpdatedAt": "2026-11-25T21:25:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lina%20World&oldid=559605",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95616",
+      "country": "Japan",
+      "countryCode": "JP",
+      "place": "Kaminoyama, Yamagata",
+      "state": "",
+      "coordinates": {
+        "lat": 38.1765222798,
+        "lon": 140.3089338438
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1994]",
+          "earliest": null,
+          "latest": "1994-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95620,
+      "name": "Paxtang Park",
+      "sourceRevision": 559611,
+      "sourceUpdatedAt": "2026-11-25T21:31:17.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Paxtang%20Park&oldid=559611",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95620",
+      "country": "United States",
+      "countryCode": "US",
+      "place": "Harrisburg",
+      "state": "Pennsylvania",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1893",
+          "earliest": "1893-01-01",
+          "latest": "1893-12-31"
+        },
+        "closed": {
+          "edtf": "1929",
+          "earliest": "1929-01-01",
+          "latest": "1929-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95623,
+      "name": "Great Wolf Lodge Derbyshire",
+      "sourceRevision": 559624,
+      "sourceUpdatedAt": "2026-11-25T21:48:33.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Great%20Wolf%20Lodge%20Derbyshire&oldid=559624",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95623",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Whitwell, Derbyshire, England",
+      "state": "",
+      "coordinates": {
+        "lat": 53.289472,
+        "lon": -1.245972
+      },
+      "status": "Planned",
+      "dates": {},
+      "aliases": []
+    },
+    {
       "sourceId": 9567,
       "name": "Luna Park",
       "sourceRevision": 474687,
@@ -257420,16 +257840,19 @@
     {
       "sourceId": 9814,
       "name": "Cliff's Amusement Park",
-      "sourceRevision": 462052,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cliff's%20Amusement%20Park&oldid=462052",
+      "sourceRevision": 559549,
+      "sourceUpdatedAt": "2026-11-25T20:40:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cliff's%20Amusement%20Park&oldid=559549",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-9814",
       "country": "United States",
       "countryCode": "US",
       "place": "Albuquerque",
       "state": "New Mexico",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 35.14340158806,
+        "lon": -106.5888508752
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -257472,16 +257895,19 @@
     {
       "sourceId": 9823,
       "name": "Lake Compounce",
-      "sourceRevision": 462926,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Lake%20Compounce&oldid=462926",
+      "sourceRevision": 559417,
+      "sourceUpdatedAt": "2026-11-25T15:10:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Lake%20Compounce&oldid=559417",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-9823",
       "country": "United States",
       "countryCode": "US",
       "place": "Bristol",
       "state": "Connecticut",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 41.6408046759,
+        "lon": -72.9227336719
+      },
       "status": "Operating",
       "dates": {
         "opened": {
