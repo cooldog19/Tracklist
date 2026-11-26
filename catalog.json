@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-26T08:39:03.690Z",
+  "updatedAt": "2026-11-26T21:45:04.152Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -21735,9 +21735,9 @@
     {
       "sourceId": 13874,
       "name": "Wildcat",
-      "sourceRevision": 483230,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wildcat%20(Frontier%20City)&oldid=483230",
+      "sourceRevision": 559975,
+      "sourceUpdatedAt": "2026-11-26T18:39:45.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wildcat%20(Frontier%20City)&oldid=559975",
       "license": "CC-BY-SA-4.0",
       "id": "cp-13874",
       "aliases": [],
@@ -57037,9 +57037,9 @@
     {
       "sourceId": 2843,
       "name": "Vilda Musen",
-      "sourceRevision": 527037,
-      "sourceUpdatedAt": "2026-10-29T13:55:27.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Vilda%20Musen&oldid=527037",
+      "sourceRevision": 559815,
+      "sourceUpdatedAt": "2026-11-26T08:55:52.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Vilda%20Musen&oldid=559815",
       "license": "CC-BY-SA-4.0",
       "id": "cp-2843",
       "aliases": [],
@@ -57063,8 +57063,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Defunct",
-      "sourceStatus": "defunct",
+      "status": "Under refurbishment",
+      "sourceStatus": "under_refurbishment",
       "dates": {
         "opened": {
           "edtf": "2003-04-18",
@@ -79048,9 +79048,9 @@
     {
       "sourceId": 394,
       "name": "Flight of Fear",
-      "sourceRevision": 559080,
-      "sourceUpdatedAt": "2026-11-24T17:35:07.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20Fear%20(Kings%20Dominion)&oldid=559080",
+      "sourceRevision": 546698,
+      "sourceUpdatedAt": "2026-11-13T19:19:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Flight%20of%20Fear%20(Kings%20Dominion)&oldid=546698",
       "license": "CC-BY-SA-4.0",
       "id": "cp-394",
       "aliases": [
@@ -138882,9 +138882,9 @@
     {
       "sourceId": 71143,
       "name": "Grand National Steeplechase",
-      "sourceRevision": 488049,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Grand%20National%20Steeplechase&oldid=488049",
+      "sourceRevision": 559992,
+      "sourceUpdatedAt": "2026-11-26T19:31:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Grand%20National%20Steeplechase&oldid=559992",
       "license": "CC-BY-SA-4.0",
       "id": "cp-71143",
       "aliases": [
@@ -138898,7 +138898,10 @@
       "country": "United States",
       "countryCode": "US",
       "locationKind": "park",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 26.0381,
+        "lon": -80.132303
+      },
       "manufacturer": "",
       "manufacturerRefs": [],
       "type": "Steel",
@@ -194842,6 +194845,126 @@
       "trackCount": 1
     },
     {
+      "sourceId": 95644,
+      "name": "Go Gator",
+      "sourceRevision": 559901,
+      "sourceUpdatedAt": "2026-11-26T17:02:30.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Go%20Gator%20(Paul%20Maurer%20Shows)&oldid=559901",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95644",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "travelling",
+      "coordinates": null,
+      "manufacturer": "Wisdom Rides",
+      "manufacturerRefs": [
+        {
+          "id": 11854,
+          "name": "Wisdom Rides"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..2026]",
+          "earliest": null,
+          "latest": "2026-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95659,
+      "name": "Back Spin Coaster",
+      "sourceRevision": 559916,
+      "sourceUpdatedAt": "2026-11-26T17:20:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Back%20Spin%20Coaster%20(Paul%20Maurer%20Shows)&oldid=559916",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95659",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "travelling",
+      "coordinates": null,
+      "manufacturer": "Majestic Manufacturing",
+      "manufacturerRefs": [
+        {
+          "id": 56590,
+          "name": "Majestic Manufacturing"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..2026]",
+          "earliest": null,
+          "latest": "2026-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95661,
+      "name": "Dragon Wagon",
+      "sourceRevision": 559918,
+      "sourceUpdatedAt": "2026-11-26T17:22:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon%20Wagon%20(Paul%20Maurer%20Shows)&oldid=559918",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95661",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "travelling",
+      "coordinates": null,
+      "manufacturer": "Wisdom Rides",
+      "manufacturerRefs": [
+        {
+          "id": 11854,
+          "name": "Wisdom Rides"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..2026]",
+          "earliest": null,
+          "latest": "2026-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9571,
       "name": "Acrobat",
       "sourceRevision": 486554,
@@ -199395,9 +199518,9 @@
     {
       "sourceId": 10321,
       "name": "Wonderland Sydney",
-      "sourceRevision": 493332,
-      "sourceUpdatedAt": "2026-10-20T09:56:52.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wonderland%20Sydney&oldid=493332",
+      "sourceRevision": 559886,
+      "sourceUpdatedAt": "2026-11-26T16:34:14.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wonderland%20Sydney&oldid=559886",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-10321",
       "country": "Australia",
@@ -199405,8 +199528,8 @@
       "place": "Eastern Creek, New South Wales",
       "state": "",
       "coordinates": {
-        "lat": -33.8058,
-        "lon": 150.8544
+        "lat": -33.802425,
+        "lon": 150.846631
       },
       "status": "Defunct",
       "dates": {
@@ -225417,9 +225540,9 @@
     {
       "sourceId": 61053,
       "name": "Fairyland Park",
-      "sourceRevision": 462387,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fairyland%20Park&oldid=462387",
+      "sourceRevision": 559954,
+      "sourceUpdatedAt": "2026-11-26T17:50:15.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fairyland%20Park%20(USA-Missouri)&oldid=559954",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-61053",
       "country": "United States",
@@ -257077,6 +257200,78 @@
           "edtf": "2010-05-29",
           "earliest": "2010-05-29",
           "latest": "2010-05-29"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95679,
+      "name": "Woolwich Waves",
+      "sourceRevision": 560051,
+      "sourceUpdatedAt": "2026-11-26T20:44:01.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Woolwich%20Waves&oldid=560051",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95679",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Woolwich, London, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.489574799636,
+        "lon": 0.068485631131059
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2026-01-01",
+          "earliest": "2026-01-01",
+          "latest": "2026-01-01"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95688,
+      "name": "Cascades Leisure Centre",
+      "sourceRevision": 560076,
+      "sourceUpdatedAt": "2026-11-26T21:07:16.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cascades%20Leisure%20Centre&oldid=560076",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95688",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Gravesend, Kent, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.420099463509,
+        "lon": 0.40180463388036
+      },
+      "status": "Operating",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 95692,
+      "name": "Cozenton Park Sports Centre",
+      "sourceRevision": 560109,
+      "sourceUpdatedAt": "2026-11-26T21:37:02.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cozenton%20Park%20Sports%20Centre&oldid=560109",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95692",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Rainham, Kent, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.368212790191,
+        "lon": 0.59819783774711
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "2024-07-17",
+          "earliest": "2024-07-17",
+          "latest": "2024-07-17"
         }
       },
       "aliases": []
