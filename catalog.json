@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-25T21:51:34.887Z",
+  "updatedAt": "2026-11-26T08:39:03.690Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -94866,9 +94866,9 @@
     {
       "sourceId": 4683,
       "name": "Cosmic Coaster",
-      "sourceRevision": 491804,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cosmic%20Coaster%20(Worlds%20of%20Fun)&oldid=491804",
+      "sourceRevision": 559646,
+      "sourceUpdatedAt": "2026-11-25T23:55:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cosmic%20Coaster%20(Worlds%20of%20Fun)&oldid=559646",
       "license": "CC-BY-SA-4.0",
       "id": "cp-4683",
       "aliases": [],
@@ -94892,8 +94892,8 @@
         }
       ],
       "type": "Steel",
-      "status": "Unknown",
-      "sourceStatus": "unknown",
+      "status": "Defunct",
+      "sourceStatus": "defunct",
       "dates": {
         "opened": {
           "edtf": "1993-04-03",
@@ -119062,9 +119062,9 @@
     {
       "sourceId": 58341,
       "name": "Fire Runner",
-      "sourceRevision": 490782,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fire%20Runner&oldid=490782",
+      "sourceRevision": 559739,
+      "sourceUpdatedAt": "2026-11-26T05:53:36.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fire%20Runner&oldid=559739",
       "license": "CC-BY-SA-4.0",
       "id": "cp-58341",
       "aliases": [],
@@ -153646,9 +153646,9 @@
     {
       "sourceId": 78197,
       "name": "Cannonball!",
-      "sourceRevision": 494480,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Cannonball!%20(Holiday%20World)&oldid=494480",
+      "sourceRevision": 559631,
+      "sourceUpdatedAt": "2026-11-25T22:23:18.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Cannonball!%20(Holiday%20World)&oldid=559631",
       "license": "CC-BY-SA-4.0",
       "id": "cp-78197",
       "aliases": [],
@@ -153679,7 +153679,7 @@
         }
       },
       "rcdb": "https://rcdb.com/24300.htm",
-      "pov": "",
+      "pov": "https://www.youtube.com/watch?v=DTmZUIy8vYA",
       "categories": [],
       "trackCount": 1
     },
@@ -158239,9 +158239,9 @@
     {
       "sourceId": 79655,
       "name": "Sky Hawk",
-      "sourceRevision": 531635,
-      "sourceUpdatedAt": "2026-11-03T19:16:28.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Hawk%20(Six%20Flags%20Great%20America)&oldid=531635",
+      "sourceRevision": 559650,
+      "sourceUpdatedAt": "2026-11-26T00:09:34.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Sky%20Hawk%20(Six%20Flags%20Great%20America)&oldid=559650",
       "license": "CC-BY-SA-4.0",
       "id": "cp-79655",
       "aliases": [],
@@ -158279,7 +158279,9 @@
       },
       "rcdb": "https://rcdb.com/24360.htm",
       "pov": "",
-      "categories": [],
+      "categories": [
+        "Suspended"
+      ],
       "trackCount": 1
     },
     {
@@ -194800,6 +194802,46 @@
       "trackCount": 1
     },
     {
+      "sourceId": 95624,
+      "name": "The Branson Coaster",
+      "sourceRevision": 559645,
+      "sourceUpdatedAt": "2026-11-25T23:51:03.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=The%20Branson%20Coaster&oldid=559645",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95624",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "",
+      "parkId": "",
+      "sourceParkId": null,
+      "parkAliases": [],
+      "country": "United States",
+      "countryCode": "US",
+      "locationKind": "standalone",
+      "coordinates": null,
+      "manufacturer": "Wiegand",
+      "manufacturerRefs": [
+        {
+          "id": 8270,
+          "name": "Wiegand"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "2017",
+          "earliest": "2017-01-01",
+          "latest": "2017-12-31"
+        }
+      },
+      "rcdb": "",
+      "pov": "https://www.youtube.com/watch?v=gOHEdrPw0x0",
+      "categories": [],
+      "trackCount": 1
+    },
+    {
       "sourceId": 9571,
       "name": "Acrobat",
       "sourceRevision": 486554,
@@ -197374,15 +197416,15 @@
       "sourceId": 9880,
       "name": "Hello Kitty Angel Coaster",
       "sourceRevision": 488116,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
+      "sourceUpdatedAt": "2026-11-26T03:17:05.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Hello%20Kitty%20Angel%20Coaster%20(Lina%20World)&oldid=488116",
       "license": "CC-BY-SA-4.0",
       "id": "cp-9880",
       "aliases": [],
       "legacyIds": [],
       "park": "Lina World",
-      "parkId": "",
-      "sourceParkId": null,
+      "parkId": "cp-park-95616",
+      "sourceParkId": 95616,
       "parkAliases": [],
       "country": "Japan",
       "countryCode": "JP",
