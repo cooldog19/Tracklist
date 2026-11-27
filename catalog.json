@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-27T08:50:48.550Z",
+  "updatedAt": "2026-11-27T21:28:52.448Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -110039,9 +110039,9 @@
     {
       "sourceId": 5232,
       "name": "Helix",
-      "sourceRevision": 488110,
-      "sourceUpdatedAt": "2026-10-24T08:44:17.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Helix%20(Liseberg)&oldid=488110",
+      "sourceRevision": 560405,
+      "sourceUpdatedAt": "2026-11-27T13:50:53.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Helix%20(Liseberg)&oldid=560405",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5232",
       "aliases": [],
@@ -118872,9 +118872,9 @@
     {
       "sourceId": 58155,
       "name": "AlpenFury",
-      "sourceRevision": 526417,
-      "sourceUpdatedAt": "2026-10-28T11:38:03.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=AlpenFury&oldid=526417",
+      "sourceRevision": 560452,
+      "sourceUpdatedAt": "2026-11-27T15:24:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=AlpenFury&oldid=560452",
       "license": "CC-BY-SA-4.0",
       "id": "cp-58155",
       "aliases": [],
@@ -129196,9 +129196,9 @@
     {
       "sourceId": 64226,
       "name": "Helios",
-      "sourceRevision": 491077,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Helios&oldid=491077",
+      "sourceRevision": 560486,
+      "sourceUpdatedAt": "2026-11-27T15:50:09.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Helios%20(Fantasiana)&oldid=560486",
       "license": "CC-BY-SA-4.0",
       "id": "cp-64226",
       "aliases": [],
@@ -147522,9 +147522,9 @@
     {
       "sourceId": 75951,
       "name": "Serpent's Curse",
-      "sourceRevision": 554691,
-      "sourceUpdatedAt": "2026-11-20T21:16:01.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Serpent's%20Curse&oldid=554691",
+      "sourceRevision": 560579,
+      "sourceUpdatedAt": "2026-11-27T19:41:26.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Serpent's%20Curse&oldid=560579",
       "license": "CC-BY-SA-4.0",
       "id": "cp-75951",
       "aliases": [],
@@ -161662,9 +161662,9 @@
     {
       "sourceId": 81905,
       "name": "Einschienenbahn",
-      "sourceRevision": 487617,
-      "sourceUpdatedAt": "2026-10-13T12:28:06.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Einschienenbahn&oldid=487617",
+      "sourceRevision": 560462,
+      "sourceUpdatedAt": "2026-11-27T15:31:24.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Einschienenbahn%20(Prater)&oldid=560462",
       "license": "CC-BY-SA-4.0",
       "id": "cp-81905",
       "aliases": [],
@@ -191897,7 +191897,9 @@
       "license": "CC-BY-SA-4.0",
       "id": "cp-93983",
       "aliases": [],
-      "legacyIds": [],
+      "legacyIds": [
+        "cp-95824"
+      ],
       "park": "Allwetterrodelbahn Weißenfels",
       "parkId": "cp-park-93982",
       "sourceParkId": 93982,
@@ -192670,9 +192672,9 @@
     {
       "sourceId": 95156,
       "name": "Unknown",
-      "sourceRevision": 556318,
-      "sourceUpdatedAt": "2026-11-21T21:45:59.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Arnolds%20Park)&oldid=556318",
+      "sourceRevision": 560357,
+      "sourceUpdatedAt": "2026-11-27T09:47:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Unknown%20(Arnolds%20Park)&oldid=560357",
       "license": "CC-BY-SA-4.0",
       "id": "cp-95156",
       "aliases": [],
@@ -192703,7 +192705,7 @@
         }
       },
       "rcdb": "",
-      "pov": "",
+      "pov": "https://www.youtube.com/watch?v=G3NiAncA22Y",
       "categories": [
         "Spinning",
         "Kiddie"
@@ -257392,6 +257394,111 @@
           "edtf": "1966-03",
           "earliest": "1966-03-01",
           "latest": "1966-03-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95823,
+      "name": "Great Wolf Lodge Hampshire",
+      "sourceRevision": 560403,
+      "sourceUpdatedAt": "2026-11-27T13:45:38.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Great%20Wolf%20Lodge%20Hampshire&oldid=560403",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95823",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Basingstoke, Hampshire",
+      "state": "",
+      "coordinates": {
+        "lat": 51.262842,
+        "lon": -1.125942
+      },
+      "status": "Planned",
+      "dates": {},
+      "aliases": []
+    },
+    {
+      "sourceId": 95855,
+      "name": "Freizeitpark Ruhpolding",
+      "sourceRevision": 560497,
+      "sourceUpdatedAt": "2026-11-27T16:00:39.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Freizeitpark%20Ruhpolding&oldid=560497",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95855",
+      "country": "Germany",
+      "countryCode": "DE",
+      "place": "Ruhpolding, Bavaria",
+      "state": "",
+      "coordinates": {
+        "lat": 47.7406199143,
+        "lon": 12.6168216145
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "1967",
+          "earliest": "1967-01-01",
+          "latest": "1967-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95859,
+      "name": "Me World",
+      "sourceRevision": 560530,
+      "sourceUpdatedAt": "2026-11-27T17:50:55.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Me%20World&oldid=560530",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95859",
+      "country": "South Korea",
+      "countryCode": "KR",
+      "place": "Busan",
+      "state": "",
+      "coordinates": null,
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31"
+        },
+        "closed": {
+          "edtf": "2013-06",
+          "earliest": "2013-06-01",
+          "latest": "2013-06-30"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95869,
+      "name": "Fantaseas Dartford",
+      "sourceRevision": 560599,
+      "sourceUpdatedAt": "2026-11-27T21:19:57.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fantaseas%20Dartford&oldid=560599",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95869",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Stone, Kent, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.447861,
+        "lon": 0.242733
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1989-11",
+          "earliest": "1989-11-01",
+          "latest": "1989-11-30"
+        },
+        "closed": {
+          "edtf": "1992",
+          "earliest": "1992-01-01",
+          "latest": "1992-12-31"
         }
       },
       "aliases": []
