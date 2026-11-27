@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-26T21:45:04.152Z",
+  "updatedAt": "2026-11-27T08:50:48.550Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -194848,7 +194848,7 @@
       "sourceId": 95644,
       "name": "Go Gator",
       "sourceRevision": 559901,
-      "sourceUpdatedAt": "2026-11-26T17:02:30.000Z",
+      "sourceUpdatedAt": "2026-11-27T03:17:04.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Go%20Gator%20(Paul%20Maurer%20Shows)&oldid=559901",
       "license": "CC-BY-SA-4.0",
       "id": "cp-95644",
@@ -194888,7 +194888,7 @@
       "sourceId": 95659,
       "name": "Back Spin Coaster",
       "sourceRevision": 559916,
-      "sourceUpdatedAt": "2026-11-26T17:20:15.000Z",
+      "sourceUpdatedAt": "2026-11-27T03:17:04.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Back%20Spin%20Coaster%20(Paul%20Maurer%20Shows)&oldid=559916",
       "license": "CC-BY-SA-4.0",
       "id": "cp-95659",
@@ -194928,7 +194928,7 @@
       "sourceId": 95661,
       "name": "Dragon Wagon",
       "sourceRevision": 559918,
-      "sourceUpdatedAt": "2026-11-26T17:22:15.000Z",
+      "sourceUpdatedAt": "2026-11-27T03:17:04.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Dragon%20Wagon%20(Paul%20Maurer%20Shows)&oldid=559918",
       "license": "CC-BY-SA-4.0",
       "id": "cp-95661",
@@ -195052,6 +195052,46 @@
       "categories": [
         "Kiddie"
       ],
+      "trackCount": 1
+    },
+    {
+      "sourceId": 95809,
+      "name": "Dragon",
+      "sourceRevision": 560347,
+      "sourceUpdatedAt": "2026-11-27T08:48:37.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Dragon%20(South%20Sabahiya%20Park)&oldid=560347",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-95809",
+      "aliases": [],
+      "legacyIds": [],
+      "park": "South Sabahiya Park",
+      "parkId": "cp-park-68440",
+      "sourceParkId": 68440,
+      "parkAliases": [],
+      "country": "Kuwait",
+      "countryCode": "KW",
+      "locationKind": "park",
+      "coordinates": null,
+      "manufacturer": "Zamperla",
+      "manufacturerRefs": [
+        {
+          "id": 2399,
+          "name": "Zamperla"
+        }
+      ],
+      "type": "Steel",
+      "status": "Operating",
+      "sourceStatus": "operating",
+      "dates": {
+        "opened": {
+          "edtf": "2024-10-23",
+          "earliest": "2024-10-23",
+          "latest": "2024-10-23"
+        }
+      },
+      "rcdb": "",
+      "pov": "",
+      "categories": [],
       "trackCount": 1
     },
     {
@@ -257272,6 +257312,37 @@
           "edtf": "2024-07-17",
           "earliest": "2024-07-17",
           "latest": "2024-07-17"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95723,
+      "name": "Splashes Leisure Centre",
+      "sourceRevision": 560143,
+      "sourceUpdatedAt": "2026-11-26T21:45:47.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Splashes%20Leisure%20Centre&oldid=560143",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95723",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Rainham, Kent, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.368081,
+        "lon": 0.598018
+      },
+      "status": "Defunct",
+      "dates": {
+        "opened": {
+          "edtf": "1990-05-15",
+          "earliest": "1990-05-15",
+          "latest": "1990-05-15"
+        },
+        "closed": {
+          "edtf": "2020",
+          "earliest": "2020-01-01",
+          "latest": "2020-12-31"
         }
       },
       "aliases": []
