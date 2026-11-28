@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": 1,
-  "updatedAt": "2026-11-27T21:28:52.448Z",
+  "updatedAt": "2026-11-28T08:08:22.723Z",
   "source": "Coasterpedia and Wikidata",
   "sourceURL": "https://coasterpedia.net/",
   "license": "CC-BY-SA-4.0",
@@ -43677,15 +43677,15 @@
       "sourceId": 22324,
       "name": "Gipfelstürmer",
       "sourceRevision": 487939,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
+      "sourceUpdatedAt": "2026-11-28T03:17:00.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Gipfelst%C3%BCrmer&oldid=487939",
       "license": "CC-BY-SA-4.0",
       "id": "cp-22324",
       "aliases": [],
       "legacyIds": [],
       "park": "Freizeitpark Ruhpolding",
-      "parkId": "",
-      "sourceParkId": null,
+      "parkId": "cp-park-95855",
+      "sourceParkId": 95855,
       "parkAliases": [],
       "country": "Germany",
       "countryCode": "DE",
@@ -44561,9 +44561,9 @@
     {
       "sourceId": 22712,
       "name": "Wild Mouse",
-      "sourceRevision": 491982,
-      "sourceUpdatedAt": "2026-10-19T16:44:26.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Mouse%20(Funtown%20Splashtown%20USA)&oldid=491982",
+      "sourceRevision": 560636,
+      "sourceUpdatedAt": "2026-11-27T22:47:14.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Mouse%20(Funtown%20Splashtown%20USA)&oldid=560636",
       "license": "CC-BY-SA-4.0",
       "id": "cp-22712",
       "aliases": [],
@@ -116506,9 +116506,9 @@
     {
       "sourceId": 55925,
       "name": "Fire in the Hole",
-      "sourceRevision": 541931,
-      "sourceUpdatedAt": "2026-11-10T21:38:32.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Fire%20in%20the%20Hole%20(2024)&oldid=541931",
+      "sourceRevision": 560644,
+      "sourceUpdatedAt": "2026-11-27T23:28:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Fire%20in%20the%20Hole%20(2024)&oldid=560644",
       "license": "CC-BY-SA-4.0",
       "id": "cp-55925",
       "aliases": [],
@@ -118503,15 +118503,15 @@
       "sourceId": 5788,
       "name": "Diving Coaster",
       "sourceRevision": 493774,
-      "sourceUpdatedAt": "2026-10-21T15:40:38.000Z",
+      "sourceUpdatedAt": "2026-11-28T03:17:00.000Z",
       "source": "https://coasterpedia.net/w/index.php?title=Diving%20Coaster%20(Me%20World)&oldid=493774",
       "license": "CC-BY-SA-4.0",
       "id": "cp-5788",
       "aliases": [],
       "legacyIds": [],
       "park": "Me World",
-      "parkId": "",
-      "sourceParkId": null,
+      "parkId": "cp-park-95859",
+      "sourceParkId": 95859,
       "parkAliases": [],
       "country": "South Korea",
       "countryCode": "KR",
@@ -203050,9 +203050,9 @@
     {
       "sourceId": 1612,
       "name": "Wild Waves Theme & Water Park",
-      "sourceRevision": 530565,
-      "sourceUpdatedAt": "2026-11-02T12:34:59.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Waves%20Theme%20%26%20Water%20Park&oldid=530565",
+      "sourceRevision": 560646,
+      "sourceUpdatedAt": "2026-11-27T23:40:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Wild%20Waves%20Theme%20%26%20Water%20Park&oldid=560646",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-1612",
       "country": "United States",
@@ -203063,7 +203063,7 @@
         "lat": 47.2725,
         "lon": -122.3115
       },
-      "status": "Defunct",
+      "status": "Standing but not operating",
       "dates": {
         "opened": {
           "edtf": "1977",
@@ -212544,16 +212544,19 @@
     {
       "sourceId": 38955,
       "name": "Scene75",
-      "sourceRevision": 485710,
-      "sourceUpdatedAt": "2026-10-12T15:34:31.000Z",
-      "source": "https://coasterpedia.net/w/index.php?title=Scene75%20(Romeoville%2C%20Illinois)&oldid=485710",
+      "sourceRevision": 560649,
+      "sourceUpdatedAt": "2026-11-27T23:52:30.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Scene75%20(Romeoville%2C%20Illinois)&oldid=560649",
       "license": "CC-BY-SA-4.0",
       "id": "cp-park-38955",
       "country": "United States",
       "countryCode": "US",
       "place": "Romeoville",
       "state": "Illinois",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 41.605584,
+        "lon": -88.126788
+      },
       "status": "Operating",
       "dates": {
         "opened": {
@@ -257499,6 +257502,32 @@
           "edtf": "1992",
           "earliest": "1992-01-01",
           "latest": "1992-12-31"
+        }
+      },
+      "aliases": []
+    },
+    {
+      "sourceId": 95881,
+      "name": "Larkfield Leisure Centre",
+      "sourceRevision": 560619,
+      "sourceUpdatedAt": "2026-11-27T22:15:29.000Z",
+      "source": "https://coasterpedia.net/w/index.php?title=Larkfield%20Leisure%20Centre&oldid=560619",
+      "license": "CC-BY-SA-4.0",
+      "id": "cp-park-95881",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "place": "Larkfield, Kent, England",
+      "state": "",
+      "coordinates": {
+        "lat": 51.30803196045,
+        "lon": 0.44302010934692
+      },
+      "status": "Operating",
+      "dates": {
+        "opened": {
+          "edtf": "[..1988]",
+          "earliest": null,
+          "latest": "1988-12-31"
         }
       },
       "aliases": []
